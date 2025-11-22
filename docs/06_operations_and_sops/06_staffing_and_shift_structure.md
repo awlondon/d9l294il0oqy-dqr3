@@ -198,48 +198,80 @@ This document should be adapted and localized by each franchisee, with franchiso
 
 ---
 
-## 8. Excel-Ready Staffing Table
+## 8. Excel/Sheets Template – Staffing & Labor Cost
 
-> Paste into Excel/Sheets. Use "Split text to columns" on the `|` delimiter if desired.
+Use this structure for quick modeling or for exporting schedules to finance.
 
-**Columns:** DayType | DayPart | StartTime | EndTime | Role | Headcount
+### 8.1 Suggested Columns
+
+| Col | Name            | Notes                                   |
+|:---:|-----------------|------------------------------------------|
+| A   | DayType         | `Weekday` or `Weekend`                   |
+| B   | DayPart         | Morning / Midday / Late Afternoon        |
+| C   | StartTime       | e.g., `07:30`                            |
+| D   | EndTime         | e.g., `11:00`                            |
+| E   | Role            | Manager, Host, Play Attendant, etc.      |
+| F   | Headcount       | Number of people in the role             |
+| G   | HourlyRate      | Adjust to local market assumptions       |
+| H   | HoursPerShift   | Formula or hardcoded decimal hours       |
+| I   | DailyLaborCost  | Formula: headcount × rate × hours        |
+
+### 8.2 Paste-Ready Rows
 
 ```
-Weekday | Morning                 | 07:30 | 11:00 | Manager/Shift Lead | 1
-Weekday | Morning                 | 07:30 | 11:00 | Host               | 1
-Weekday | Morning                 | 07:30 | 11:00 | Play Attendant     | 1
-Weekday | Morning                 | 07:30 | 11:00 | Café Operator      | 1
-Weekday | Morning                 | 07:30 | 11:00 | Support/Flex       | 0
+Weekday | Morning                  | 07:30 | 11:00 | Manager/Shift Lead | 1 | 28 |   |
+Weekday | Morning                  | 07:30 | 11:00 | Host               | 1 | 18 |   |
+Weekday | Morning                  | 07:30 | 11:00 | Play Attendant     | 1 | 18 |   |
+Weekday | Morning                  | 07:30 | 11:00 | Café Operator      | 1 | 18 |   |
+Weekday | Morning                  | 07:30 | 11:00 | Support/Flex       | 0 | 16 |   |
 
-Weekday | Midday                  | 11:00 | 15:00 | Manager/Shift Lead | 1
-Weekday | Midday                  | 11:00 | 15:00 | Host               | 1
-Weekday | Midday                  | 11:00 | 15:00 | Play Attendant     | 1
-Weekday | Midday                  | 11:00 | 15:00 | Café Operator      | 1
-Weekday | Midday                  | 11:00 | 15:00 | Support/Flex       | 0
+Weekday | Midday                   | 11:00 | 15:00 | Manager/Shift Lead | 1 | 28 |   |
+Weekday | Midday                   | 11:00 | 15:00 | Host               | 1 | 18 |   |
+Weekday | Midday                   | 11:00 | 15:00 | Play Attendant     | 1 | 18 |   |
+Weekday | Midday                   | 11:00 | 15:00 | Café Operator      | 1 | 18 |   |
+Weekday | Midday                   | 11:00 | 15:00 | Support/Flex       | 0 | 16 |   |
 
-Weekday | Late Afternoon / Evening| 15:00 | 19:00 | Manager/Shift Lead | 1
-Weekday | Late Afternoon / Evening| 15:00 | 19:00 | Host               | 1
-Weekday | Late Afternoon / Evening| 15:00 | 19:00 | Play Attendant     | 1
-Weekday | Late Afternoon / Evening| 15:00 | 19:00 | Café Operator      | 1
-Weekday | Late Afternoon / Evening| 15:00 | 19:00 | Support/Flex       | 1
+Weekday | Late Afternoon / Evening | 15:00 | 19:00 | Manager/Shift Lead | 1 | 28 |   |
+Weekday | Late Afternoon / Evening | 15:00 | 19:00 | Host               | 1 | 18 |   |
+Weekday | Late Afternoon / Evening | 15:00 | 19:00 | Play Attendant     | 1 | 18 |   |
+Weekday | Late Afternoon / Evening | 15:00 | 19:00 | Café Operator      | 1 | 18 |   |
+Weekday | Late Afternoon / Evening | 15:00 | 19:00 | Support/Flex       | 1 | 16 |   |
 
-Weekend | Morning                 | 08:00 | 12:00 | Manager/Shift Lead | 1
-Weekend | Morning                 | 08:00 | 12:00 | Host               | 1
-Weekend | Morning                 | 08:00 | 12:00 | Play Attendant     | 2
-Weekend | Morning                 | 08:00 | 12:00 | Café Operator      | 2
-Weekend | Morning                 | 08:00 | 12:00 | Support/Flex       | 1
+Weekend | Morning                  | 08:00 | 12:00 | Manager/Shift Lead | 1 | 28 |   |
+Weekend | Morning                  | 08:00 | 12:00 | Host               | 1 | 18 |   |
+Weekend | Morning                  | 08:00 | 12:00 | Play Attendant     | 2 | 18 |   |
+Weekend | Morning                  | 08:00 | 12:00 | Café Operator      | 2 | 18 |   |
+Weekend | Morning                  | 08:00 | 12:00 | Support/Flex       | 1 | 16 |   |
 
-Weekend | Midday / Afternoon      | 12:00 | 17:00 | Manager/Shift Lead | 1
-Weekend | Midday / Afternoon      | 12:00 | 17:00 | Host               | 1
-Weekend | Midday / Afternoon      | 12:00 | 17:00 | Play Attendant     | 2
-Weekend | Midday / Afternoon      | 12:00 | 17:00 | Café Operator      | 2
-Weekend | Midday / Afternoon      | 12:00 | 17:00 | Support/Flex       | 2
+Weekend | Midday / Afternoon       | 12:00 | 17:00 | Manager/Shift Lead | 1 | 28 |   |
+Weekend | Midday / Afternoon       | 12:00 | 17:00 | Host               | 1 | 18 |   |
+Weekend | Midday / Afternoon       | 12:00 | 17:00 | Play Attendant     | 2 | 18 |   |
+Weekend | Midday / Afternoon       | 12:00 | 17:00 | Café Operator      | 2 | 18 |   |
+Weekend | Midday / Afternoon       | 12:00 | 17:00 | Support/Flex       | 2 | 16 |   |
 
-Weekend | Late Afternoon / Evening| 17:00 | 19:00 | Manager/Shift Lead | 1
-Weekend | Late Afternoon / Evening| 17:00 | 19:00 | Host               | 1
-Weekend | Late Afternoon / Evening| 17:00 | 19:00 | Play Attendant     | 1
-Weekend | Late Afternoon / Evening| 17:00 | 19:00 | Café Operator      | 1
-Weekend | Late Afternoon / Evening| 17:00 | 19:00 | Support/Flex       | 1
+Weekend | Late Afternoon / Evening | 17:00 | 19:00 | Manager/Shift Lead | 1 | 28 |   |
+Weekend | Late Afternoon / Evening | 17:00 | 19:00 | Host               | 1 | 18 |   |
+Weekend | Late Afternoon / Evening | 17:00 | 19:00 | Play Attendant     | 1 | 18 |   |
+Weekend | Late Afternoon / Evening | 17:00 | 19:00 | Café Operator      | 1 | 18 |   |
+Weekend | Late Afternoon / Evening | 17:00 | 19:00 | Support/Flex       | 1 | 16 |   |
 ```
 
-**Optional extensions:** Add hourly wage columns per role, and formulas for total labor hours per day/week to plug directly into a financial model.
+### 8.3 Example Formulas (Assume first data row is 2)
+
+- **H2 – HoursPerShift (when StartTime/EndTime are time values)**  
+  `= (D2 - C2) * 24`  
+  Format column H as Number with 2 decimals. If you prefer, you can hardcode values (e.g., 3.5 or 4) instead of the formula.
+
+- **I2 – DailyLaborCost**  
+  `= F2 * G2 * H2`
+
+- Copy H2 and I2 down for all rows to calculate each line’s cost.
+
+### 8.4 Summaries for the Financial Model
+
+- **Average weekday labor cost:** `=SUMIFS($I:$I,$A:$A,"Weekday")`
+- **Average weekend labor cost:** `=SUMIFS($I:$I,$A:$A,"Weekend")`
+- **Monthly labor cost:** `(Weekdays in month × avg weekday) + (Weekend days × avg weekend)`
+
+Adjust hourly rates (column G) to the Phoenix market or your local assumptions.
+
