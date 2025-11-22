@@ -195,14 +195,151 @@ Each checklist indicates: **Responsible Role** + **Frequency**.
 - [ ] Launder or deep clean soft play items and cushions.  
 - [ ] Dust vents, high surfaces, and light fixtures.  
 - [ ] Move furniture and clean underneath in café and cowork.  
-- [ ] Deep descale espresso machine and coffee equipment (if not done more frequently).  
-- [ ] Inspect walls and corners for scuffs; touch up as needed.  
+- [ ] Deep descale espresso machine and coffee equipment (if not done more frequently).
+- [ ] Inspect walls and corners for scuffs; touch up as needed.
 
 ---
 
-## 6. Safety Checks (Non-Cleaning)
+## 6. Daily Cleaning & Safety Checklist – One Pager
 
-### 6.1 Weekly Safety Checklist
+> Copy/paste into a single page; add checkboxes or lines as needed.
+
+Co.work.play Café — Daily Cleaning & Safety Checklist
+
+Date: ____________  Open by: ____________  Close by: ____________
+
+### Opening – Before First Guests
+
+**Entry / Host & Retail**
+- [ ] Floors swept/vacuumed; mats flat, no trip hazards
+- [ ] Glass doors and sidelights cleaned (fingerprints, smudges)
+- [ ] Host stand sanitized (counter, card reader, pens)
+- [ ] Retail shelves tidy, fronted, and dust-free
+- [ ] Stroller parking area clear and marked
+- [ ] All exits and exit paths unobstructed
+
+**Café Bar & Seating**
+- [ ] Bar surfaces sanitized
+- [ ] Café tables and chairs wiped (tops + arms)
+- [ ] Pastry case glass cleaned; food displayed per policy
+- [ ] Trash bins empty, liners replaced
+- [ ] Espresso machine, grinders, brewers wiped and ready
+
+**Cowork (Open & Quiet)**
+- [ ] Tables, desks, and chairs wiped
+- [ ] Phone rooms aired out (doors open briefly)
+- [ ] Cables and power strips safely placed, no trip hazards
+- [ ] Abandoned items removed to lost & found
+
+**Main Toddler Play**
+- [ ] Play structure inspected: no loose bolts, sharp edges, or broken pieces
+- [ ] Mats secure, no tears or peeling edges
+- [ ] High-touch surfaces wiped (rails, handles, slides)
+- [ ] Toys scanned for obvious damage; broken items pulled
+
+**Baby / Under-2 & Sensory Room**
+- [ ] Soft mats and cushions clean and properly placed
+- [ ] Sensory toys/equipment wiped as needed
+- [ ] Rockers/gliders stable and in good condition
+- [ ] No small choking hazards in under-2 area
+
+**Multi-Use / Party Room**
+- [ ] Room reset to default layout (tables/chairs)
+- [ ] Tables and chairs wiped
+- [ ] Floor swept/mopped as needed
+
+**Restrooms**
+- [ ] Toilets/urinals cleaned and disinfected
+- [ ] Sinks, faucets, and counters wiped
+- [ ] Soap, paper towels, and toilet paper stocked
+- [ ] Floors dry and safe; trash emptied
+
+**Back-of-House / Kitchen / Storage**
+- [ ] Food prep surfaces sanitized
+- [ ] Fridge/freezer temps checked and logged (if required)
+- [ ] Cleaning chemicals stored safely and labeled
+- [ ] Storage shelves organized; items off the floor as required
+
+**Exterior Entry**
+- [ ] Entry threshold and immediate sidewalk swept
+- [ ] Trash, debris, and spills removed
+- [ ] Exterior signage/sandwich boards clean and properly placed
+
+### Midday – During Service (Repeat)
+
+**All Zones**
+- [ ] Spills cleaned immediately; wet floor sign used if needed
+- [ ] Trash/recycling emptied before overflowing (~75% full)
+
+**Café & Cowork**
+- [ ] Tables wiped between guest turns
+- [ ] High-crumb / sticky areas spot-cleaned
+
+**Play Areas (Main + Baby)**
+- [ ] Toys reset into correct zones (blocks, pretend, books, etc.)
+- [ ] Heavily used toys and touch points wiped (quick clean)
+- [ ] Broken or unsafe toys pulled from circulation
+
+**Restrooms**
+- [ ] Quick check every 60–90 minutes
+- [ ] Major messes cleaned; supplies topped up if low
+
+### Closing – End of Day
+
+**Entry / Host & Retail**
+- [ ] Host stand wiped and organized
+- [ ] Glass doors spot-cleaned
+- [ ] Retail shelves tidy; products consolidated if needed
+- [ ] Trash removed; liners replaced
+
+**Café Bar & Seating**
+- [ ] Espresso machine cleaned per closing procedure
+- [ ] Brewers, grinders, and bar surfaces wiped and sanitized
+- [ ] Café tables and chairs fully wiped
+- [ ] Café floor swept and mopped
+- [ ] Perishable items discarded or stored per food safety rules
+- [ ] Trash and recycling emptied; bins wiped if needed
+
+**Cowork Areas**
+- [ ] Tables, desks, and chairs wiped
+- [ ] Chairs pushed in; cables neat
+- [ ] Floors swept/vacuumed as needed
+
+**Main Toddler Play & Baby Room**
+- [ ] Toys sorted; “needs deep clean” items set aside
+- [ ] High-touch surfaces disinfected (rails, slides, handles)
+- [ ] Mats and floors spot-mopped where needed
+- [ ] Gates/barriers secured for the night
+
+**Multi-Use / Party Room**
+- [ ] Event items cleared (decor, food, trash)
+- [ ] Tables/chairs wiped
+- [ ] Floors swept and mopped
+- [ ] Room reset for next day (default or next booking)
+
+**Restrooms**
+- [ ] Toilets/urinals cleaned and disinfected
+- [ ] Sinks, counters, and mirrors wiped
+- [ ] Floors mopped
+- [ ] Supplies fully restocked
+- [ ] Trash emptied
+
+**Back-of-House / Kitchen / Storage**
+- [ ] Prep surfaces and sinks cleaned and sanitized
+- [ ] Floors swept/mopped
+- [ ] Food stored and labeled per policy; nothing left out improperly
+- [ ] Cleaning chemicals locked or stored safely
+
+**Final Safety Walk (Manager)**
+- [ ] All children and adults checked out
+- [ ] All exits clear and doors secured
+- [ ] Lights, equipment, and alarms set per closing checklist
+
+---
+
+## 7. Safety Checks (Non-Cleaning)
+
+### 7.1 Weekly Safety Checklist
 
 - [ ] Check all emergency exits and hardware.  
 - [ ] Test emergency lighting (if applicable).  
@@ -211,7 +348,7 @@ Each checklist indicates: **Responsible Role** + **Frequency**.
 - [ ] Check for trip hazards (frayed rugs, loose thresholds, loose cables).  
 - [ ] Review incident log for patterns and possible mitigations.
 
-### 6.2 Monthly Manager Review
+### 7.2 Monthly Manager Review
 
 - [ ] Review cleaning logs for completeness.  
 - [ ] Spot-audit actual cleanliness vs checklists.  
@@ -219,7 +356,7 @@ Each checklist indicates: **Responsible Role** + **Frequency**.
 
 ---
 
-## 7. Documentation & Logs
+## 8. Documentation & Logs
 
 - Maintain **daily cleaning checklist sheets** (paper or digital) with:
   - Date, time, initials.
