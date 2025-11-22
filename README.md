@@ -1,22 +1,29 @@
 # Co.work.play Café
 
-Co.work.play Café is a remote-first coworking café paired with supervised play for toddlers. The flagship location anchors the brand while a franchising system will expand the concept to additional cities.
+Co.work.play Café is a remote-first coworking café paired with supervised play for young children. This repository is the single source of truth for the flagship business plan (Phoenix metro) and the franchise system that will scale the concept nationally and beyond.
 
-## Current Status
-- Flagship: in site selection and design for the Phoenix area.
-- Franchise package: v0.1 materials in progress.
+## Repository Purpose
+- **Flagship operations:** Market thesis, design program, SOPs, and training for the ~8,500 SF Phoenix location.
+- **Franchise platform:** Playbooks, financial model inputs, and design prototypes for future locations.
+- **Investor and partner materials:** Summaries for equity, debt, and landlord discussions.
 
-## Repository Structure
-- `docs/`: Business model, market analysis, flagship plans, franchise system, financial summaries, operations and SOPs, training/media, and legal references.
-- `pitch/`: Investor deck and one-pager assets.
-- `design/`: Floorplans, interiors, brand references, and export-ready assets.
-- `tools_notes/`: Notes on automation, prompts, and integrations.
+## Directory Structure
+- `docs/01_concept_and_brand/` – Concept overview, target customers, brand principles.
+- `docs/02_business_and_financials/` – Flagship business plan, franchise model, financial assumptions, and summary tables.
+- `docs/03_architecture_and_design/` – Program briefs, prototype guidance, RFP language, and interior design outline.
+- `docs/04_operations_and_sops/` – Staffing templates, SOPs, cleaning/safety checklists, and member/day-pass flows.
+- `docs/05_training_and_media/` – Hiring/training playbooks, module index, Sora prompts, and readiness checklists.
+- `docs/06_legal_and_policy/` – Terms of service, privacy policy, waiver outline, and franchise agreement outline.
+- `docs/07_investor_materials/` – Investor one-pager, pitch narrative, CapEx/returns, and growth plan.
+- `media/` – Floorplans, renders, and decks (add exports here as produced).
 
-## Quick Links
-- Flagship business plan: `docs/03_flagship_phoenix/01_flagship_program_brief.md`
-- Financial model summary: `docs/05_financials/01_flagship_five_year_summary.md`
-- Investor deck key slides: `pitch/investor_deck/CoWorkPlay_Investor_Deck_Key_Slides.md`
-- Franchise system overview: `docs/04_franchise_system/01_franchise_model_overview.md`
+## Quick Start
+- Read the concept overview: `docs/01_concept_and_brand/concept_overview.md`
+- Review the flagship business plan: `docs/02_business_and_financials/flagship_business_plan_phoenix.md`
+- Share design needs using the program brief: `docs/03_architecture_and_design/design_program_brief_flagship_phoenix.md`
+- Set up operations with staffing and SOPs: `docs/04_operations_and_sops/`
+- Plan training content with module index and Sora prompts: `docs/05_training_and_media/`
+- Prepare investor conversations with the one-pager and pitch narrative: `docs/07_investor_materials/`
 
-## Getting Started
-Add proprietary PDFs (floorplans, investor deck, renders) into the relevant `design/` and `pitch/` subfolders. Use the markdown files as living documents to summarize and link to external spreadsheets or presentations.
+## Audiences
+Founders/operators, franchisees, architects/designers, investors/lenders, and store staff. Each section is written to be reusable across flagship and future locations while clearly noting Phoenix-specific details.
