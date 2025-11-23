@@ -27,3 +27,28 @@ Co.work.play Café is a remote-first coworking café paired with supervised play
 
 ## Audiences
 Founders/operators, franchisees, architects/designers, investors/lenders, and store staff. Each section is written to be reusable across flagship and future locations while clearly noting Phoenix-specific details.
+
+## AI GM Monitoring & Notifications (ai-gm)
+The `ai-gm` module turns the store into a software-defined game master that ingests operational events and routes notifications to staff-only and customer-facing screens.
+
+### Quick start
+1. **Backend (Node + TypeScript)**
+   - Install deps: `cd ai-gm/backend && npm install`.
+   - Run the service with hot-reload: `npm run dev` (uses `ts-node`). The HTTP API listens on port `4000` and the WebSocket endpoint is `ws://localhost:4000/ai-gm/ws`.
+   - POST events (JSON) to `/ai-gm/events` or run the demo emitter below.
+2. **Screen client (React + Vite)**
+   - `cd ai-gm/screen-client && npm install`
+   - `npm run dev` then open `http://localhost:5173/?screenId=F1_PLAY_INFO_01` (customer mirror) or `?screenId=F1_PLAY_STAFF_01` (staff anime screen). The client connects to the orchestrator via WebSocket and displays play commands with placeholder video + overlays.
+3. **Demo scripts**
+   - `node --loader ts-node/esm ai-gm/tools/emitSampleEvents.ts` — starts the backend and emits sample capacity, staff check-in, and closing-time events.
+   - `node --loader ts-node/esm ai-gm/tools/runDemo.ts` — runs a looping demo sequence.
+
+### What’s included
+- **Event bus** (`ai-gm/backend/src/events/`) — in-memory publish/subscribe abstraction with typed `AiGmEvent` envelopes.
+- **Rules engine** (`ai-gm/backend/src/rules/`) — JSON-configurable mappings from events to `ContentIntent` objects for staff and customer channels.
+- **Screen orchestrator** (`ai-gm/backend/src/orchestrator/`) — converts intents to play commands, applies rate limiting, and broadcasts over WebSocket.
+- **Screen registry** (`ai-gm/backend/src/registry/`) — seeds default screen IDs and provides lookup helpers by zone/channel.
+- **Screen client** (`ai-gm/screen-client/`) — React UI that distinguishes STAFF vs CUSTOMER styling and renders placeholder video/overlay text.
+- **Tools** (`ai-gm/tools/`) — scripts to seed sample traffic and validate the end-to-end path during demos.
+
+Screen ID pattern: `<FLOOR>_<ZONE>_<ROLE>_<INDEX>` (e.g., `F1_PLAY_STAFF_01`, `F1_ENTRY_INFO_01`). Staff channel screens render a darker “control room” motif; customer screens render a softer mirror-friendly UI.

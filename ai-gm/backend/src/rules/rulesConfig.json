@@ -1,0 +1,56 @@
+[
+  {
+    "match": { "type": "PLAYAREA_AT_CAPACITY" },
+    "channel": "CUSTOMER",
+    "intentType": "CUSTOMER_PLAYAREA_CAPACITY_NOTICE",
+    "zones": ["PLAY"],
+    "priority": 80,
+    "template": "The play area is currently full. We'll open spots as soon as it's safe.",
+    "ttlSeconds": 45
+  },
+  {
+    "match": { "type": "PLAYAREA_BELOW_CAPACITY" },
+    "channel": "CUSTOMER",
+    "intentType": "CUSTOMER_GENERIC_INFO",
+    "zones": ["PLAY"],
+    "priority": 40,
+    "template": "Play area capacity is now open. Please check in with a staff member to enter.",
+    "ttlSeconds": 30
+  },
+  {
+    "match": { "type": "STAFF_CHECKIN_AT_STATION" },
+    "channel": "STAFF",
+    "intentType": "STAFF_SUPERVISION_REMINDER",
+    "zones": ["PLAY"],
+    "priority": 60,
+    "template": "Staff check-in recorded. Verify safety signage and toddler wristbands are visible.",
+    "ttlSeconds": 60
+  },
+  {
+    "match": { "type": "PARTY_ROOM_START" },
+    "channel": "STAFF",
+    "intentType": "STAFF_PARTY_ROOM_TURNOVER",
+    "zones": ["PARTY"],
+    "priority": 70,
+    "template": "Party room turnover starting. Confirm cake storage, plates, and allergy notes.",
+    "ttlSeconds": 120
+  },
+  {
+    "match": { "type": "CLOSING_TIME_T_MINUS_30" },
+    "channel": "STAFF",
+    "intentType": "STAFF_CLOSING_PROCEDURE_STEP",
+    "zones": ["ENTRY", "PLAY", "PARTY", "CW_A", "CW_B"],
+    "priority": 90,
+    "template": "Begin closing procedures: reset play area, confirm party room status, and start table pre-close checks.",
+    "ttlSeconds": 600
+  },
+  {
+    "match": { "type": "CLOSING_TIME_T_MINUS_10" },
+    "channel": "CUSTOMER",
+    "intentType": "CUSTOMER_CLOSING_SOON",
+    "zones": ["PLAY", "ENTRY"],
+    "priority": 85,
+    "template": "We will be closing in about 10 minutes. Please wrap up your play sessions and head toward the exit.",
+    "ttlSeconds": 480
+  }
+]
