@@ -83,6 +83,7 @@ Full map: see `ai-gm/docs/screen-map.md`.
 5. `deployment-plan.md` — Rollout guide covering hardware install, network config, imaging, kiosk mode, and hosting options.
 6. `screen-map.md` — Full screen ID map for customer/staff displays across zones.
 7. `sora-character-lore.md` — Staff-only anime channel lore, prompts, tone, and usage guidance.
+8. `docs/floor-plan-electrical.md` — Floor plan & electrical/low-voltage layout for AI-GM screens.
 
 ## Demo Commands
 Manual event triggers (run from repo root):
