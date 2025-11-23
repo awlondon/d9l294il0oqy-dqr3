@@ -21,3 +21,4 @@
 - VLAN segmentation isolates screen clients and backend services.
 - PoE provides power and network to SBCs/NUCs driving the displays.
 - Backend can run locally or in the cloud; clients auto-reconnect via WebSocket.
+- For detailed electrical and low-voltage layout, see `docs/floor-plan-electrical.md`.
