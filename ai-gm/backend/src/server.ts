@@ -1,13 +1,13 @@
 import express from "express";
 import http from "http";
 import { WebSocketServer } from "ws";
-import { eventBus } from "./events/eventBus";
-import { AiGmEvent, EventType } from "./events/eventTypes";
-import { processEvent } from "./rules/rulesEngine";
-import { dispatchIntents, registerClient, removeClient } from "./orchestrator/orchestrator";
-import { config } from "./config";
-import { getAllScreens } from "./registry/screensRegistry";
-import { seedScreens } from "./registry/screens.seed";
+import { eventBus } from "./events/eventBus.js";
+import { AiGmEvent, EventType } from "./events/eventTypes.js";
+import { processEvent } from "./rules/rulesEngine.js";
+import { dispatchIntents, registerClient, removeClient } from "./orchestrator/orchestrator.js";
+import { config } from "./config.js";
+import { getAllScreens } from "./registry/screensRegistry.js";
+import { seedScreens } from "./registry/screens.seed.js";
 
 seedScreens();
 
