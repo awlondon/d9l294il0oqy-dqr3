@@ -1,4 +1,4 @@
-import { AiGmEvent, EventType } from "./eventTypes";
+import { AiGmEvent, EventType } from "./eventTypes.js";
 
 type EventHandler = (event: AiGmEvent) => void;
 

@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node --enable-source-maps dist/server.js",
-    "dev": "ts-node src/server.ts",
+    "dev": "ts-node --esm src/server.ts",
     "test": "node --loader ts-node/esm src/rules/rulesEngine.test.ts"
   },
   "dependencies": {

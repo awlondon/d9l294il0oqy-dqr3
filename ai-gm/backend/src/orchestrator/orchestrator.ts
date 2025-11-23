@@ -2,7 +2,7 @@ import { WebSocketServer } from "ws";
 import { v4 as uuid } from "uuid";
 import { ContentIntent } from "../rules/rulesEngine";
 import { getScreensByZoneAndChannel } from "../registry/screensRegistry";
-import { PlayCommand } from "./playCommandTypes";
+import { PlayCommand } from "./playCommandTypes.js";
 import { Channel } from "../types";
 
 interface OrchestratorOptions {
