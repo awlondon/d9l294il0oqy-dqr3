@@ -1,5 +1,5 @@
 import { Screen } from "../events/eventTypes";
-import { registerScreen } from "./screensRegistry";
+import { registerScreen } from "./screensRegistry.js";
 
 function buildScreen(screenId: string, floor: number, zone: string, channel: "STAFF" | "CUSTOMER"): Screen {
   return {
