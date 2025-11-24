@@ -20,6 +20,7 @@ Co.work.play Café is a remote-first coworking café paired with supervised play
 - `web/` – Next.js marketing site for Co.work.play Café with Tailwind CSS.
 
 ## Quick Start
+- Read the brand one-pager: `docs/01_concept_and_brand/brand_one_pager.md`
 - Read the concept overview: `docs/01_concept_and_brand/concept_overview.md`
 - Review the flagship business plan: `docs/02_business_and_financials/flagship_business_plan_phoenix.md`
 - Share design needs using the program brief: `docs/03_architecture_and_design/design_program_brief_flagship_phoenix.md`

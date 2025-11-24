@@ -1,5 +1,7 @@
 # Co.work.play Café Logo Specification
 
+For a narrative overview of the brand, see `brand_one_pager.md`.
+
 ## Logo Concept – Overview
 The Co.work.play Café logo is a **text-only wordmark** made of three coordinated parts:
 - **“Co.work.”** signals a modern coworking experience with a technical, professional tone.
