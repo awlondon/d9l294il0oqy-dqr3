@@ -37,6 +37,8 @@ Annual operating expense assumptions:
 
 **Total Opex (pre-fees) = $1,060,000**
 
+Labor sensitivity analysis is provided in `finance/co-work-play-labor-sensitivity.csv`, showing how store-level EBITDA margin degrades as labor costs rise above the 30% baseline.
+
 > **EBITDA before franchise fees = 1,610,000 – 1,060,000 = $550,000 (~27.5% margin)**
 
 ## 4. Franchise Royalties & System Fees
@@ -88,3 +90,13 @@ Target positioning:
 - Franchisor fee revenue (9%): **$3.6M**
 
 These figures exclude one-time franchise fees and corporate overhead, which are handled in a separate model.
+
+## 7. Churn and CAC Sensitivity
+
+Churn and CAC assumptions are modeled in `finance/co-work-play-churn-cac-model.csv`.
+
+We explicitly track LTV and healthy CAC ranges at 3%, 5%, and 8% monthly churn, and we compute the new members per month required to hold 350 active members steady.
+
+## 8. Ramp and Cash Runway
+
+A simple 24-month ramp and cash runway model is in `finance/co-work-play-ramp-model.csv`. It approximates revenue ramp, operating leverage, and cumulative cash to illustrate required runway (6–9 months of operating buffer is recommended).

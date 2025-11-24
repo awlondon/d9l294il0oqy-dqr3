@@ -1,0 +1,4 @@
+Scenario,Monthly_ARPU,Contribution_Margin,Monthly_Contribution,Churn_Mo,LTV,Max_CAC_20pct,Max_CAC_30pct,New_Members_Per_Month_For_350,Notes
+Churn_3pct,120,0.8,=B2*C2,0.03,=D2/E2,=F2*0.2,=F2*0.3,=ROUNDUP(350*E2,0),Base low churn case
+Churn_5pct,120,0.8,=B3*C3,0.05,=D3/E3,=F3*0.2,=F3*0.3,=ROUNDUP(350*E3,0),Moderate churn scenario
+Churn_8pct,120,0.8,=B4*C4,0.08,=D4/E4,=F4*0.2,=F4*0.3,=ROUNDUP(350*E4,0),Higher churn sensitivity
