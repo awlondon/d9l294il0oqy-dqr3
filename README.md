@@ -55,3 +55,12 @@ The `ai-gm` module turns the store into a software-defined game master that inge
 - **Tools** (`ai-gm/tools/`) — scripts to seed sample traffic and validate the end-to-end path during demos.
 
 Screen ID pattern: `<FLOOR>_<ZONE>_<ROLE>_<INDEX>` (e.g., `F1_PLAY_STAFF_01`, `F1_ENTRY_INFO_01`). Staff channel screens render a darker “control room” motif; customer screens render a softer mirror-friendly UI.
+
+## Financial Model – Co.Work.Play Café
+
+Preliminary unit economics and a simple model for the Co.Work.Play hybrid cowork + café + play concept are documented in:
+
+- `finance/co-work-play-unit-economics.md`
+- `finance/co-work-play-unit-model.csv`
+
+These files capture a mature-unit revenue mix, cost structure, franchise fee stack, and illustrative payback period.

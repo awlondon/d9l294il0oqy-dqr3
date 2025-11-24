@@ -1,0 +1,27 @@
+Metric,Category,Value,Unit,Notes
+Total Revenue,Revenue,2000000,USD,Annual mature unit revenue
+Cafe Revenue,Revenue,900000,USD,45% of total
+Cowork Revenue,Revenue,700000,USD,35% of total
+Events Revenue,Revenue,400000,USD,20% of total
+Cafe COGS,COGS,315000,USD,35% of cafe revenue
+Cowork COGS,COGS,35000,USD,5% of cowork revenue
+Events COGS,COGS,40000,USD,10% of event revenue
+Total COGS,COGS,390000,USD,
+Gross Profit,Profit,1610000,USD,TotalRevenue - TotalCOGS
+Labor,Opex,600000,USD,~30% of revenue
+Rent,Opex,300000,USD,~15% of revenue
+Utilities,Opex,40000,USD,
+Maintenance,Opex,30000,USD,
+Local Marketing,Opex,40000,USD,~2% of revenue
+Insurance,Opex,20000,USD,
+Software & AI-GM,Opex,30000,USD,
+Total Opex (pre-fees),Opex,1060000,USD,
+EBITDA pre-fees,Profit,550000,USD,GrossProfit - TotalOpex
+Royalty (6%),Fees,120000,USD,6% of revenue
+Brand Fund (2%),Fees,40000,USD,2% of revenue
+Tech Fee (1%),Fees,20000,USD,1% of revenue
+Total Fees,Fees,180000,USD,9% of revenue
+EBITDA post-fees,Profit,370000,USD,EBITDA pre-fees - TotalFees
+EBITDA Margin post-fees,Ratio,0.185,Decimal,18.5% margin
+CAPEX Midpoint,Capex,1200000,USD,All-in buildout
+Payback Years,Derived,3.24,Years,CapexMidpoint / EBITDApostfees
