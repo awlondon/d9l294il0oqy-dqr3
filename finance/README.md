@@ -7,3 +7,5 @@
 - `co-work-play-ramp-model.csv` – 24-month revenue ramp and cash runway.
 - `co-work-play-regulatory-matrix.md` – State-by-state regulatory overview (draft).
 - `co-work-play-conversion-analytics.md` – Analytics spec for day-pass → member funnel.
+- `phoenix-flagship-summary.md` – Narrative timeline and capital plan for the ~8,500 SF Phoenix flagship.
+- `phoenix-flagship-model.csv` – Structured numbers for CapEx, pre-opening costs, and operating runway for Phoenix.
