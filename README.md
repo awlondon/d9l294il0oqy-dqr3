@@ -16,6 +16,7 @@ Co.work.play Café is a remote-first coworking café paired with supervised play
 - `docs/06_legal_and_policy/` – Terms of service, privacy policy, waiver outline, and franchise agreement outline.
 - `docs/07_investor_materials/` – Investor one-pager, pitch narrative, CapEx/returns, and growth plan.
 - `media/` – Floorplans, renders, and decks (add exports here as produced).
+- `web/` – Next.js marketing site for Co.work.play Café with Tailwind CSS.
 
 ## Quick Start
 - Read the concept overview: `docs/01_concept_and_brand/concept_overview.md`
@@ -24,6 +25,7 @@ Co.work.play Café is a remote-first coworking café paired with supervised play
 - Set up operations with staffing and SOPs: `docs/04_operations_and_sops/`
 - Plan training content with module index and Sora prompts: `docs/05_training_and_media/`
 - Prepare investor conversations with the one-pager and pitch narrative: `docs/07_investor_materials/`
+- Preview the marketing site locally: `web/README.md`
 
 ## Audiences
 Founders/operators, franchisees, architects/designers, investors/lenders, and store staff. Each section is written to be reusable across flagship and future locations while clearly noting Phoenix-specific details.
