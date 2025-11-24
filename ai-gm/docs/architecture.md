@@ -22,3 +22,9 @@
 - PoE provides power and network to SBCs/NUCs driving the displays.
 - Backend can run locally or in the cloud; clients auto-reconnect via WebSocket.
 - For detailed electrical and low-voltage layout, see `docs/floor-plan-electrical.md`.
+
+## Gaps and Next Steps
+- Add explicit time-window predicates and intent expiry to prevent stale overlays.
+- Externalize rules and the screen registry into validated data packs to enable safe, PR-reviewed edits.
+- Expand screen client templates (cards, widgets, animations) with capability flags so rules can target compatible displays.
+- See `architecture-upgrade-roadmap.md` for the full implementation plan.

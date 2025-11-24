@@ -90,6 +90,7 @@ For the full list of screens, circuits, and patch panel ports, see: `docs/screen
 6. `screen-map.md` — Full screen ID map for customer/staff displays across zones.
 7. `sora-character-lore.md` — Staff-only anime channel lore, prompts, tone, and usage guidance.
 8. `docs/floor-plan-electrical.md` — Floor plan & electrical/low-voltage layout for AI-GM screens.
+9. `docs/architecture-upgrade-roadmap.md` — Implementation roadmap addressing intent timing, rule tooling, richer clients, and observability.
 
 ## Demo Commands
 Manual event triggers (run from repo root):
