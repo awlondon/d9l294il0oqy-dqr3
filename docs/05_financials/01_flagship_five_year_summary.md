@@ -8,7 +8,7 @@
 - **Store size**: ~8,500 SF.  
 - **Opening**: early 2026.  
 - **CapEx**: approximately $2.2M (build-out, equipment, soft costs, contingency).  
-- **Funding scenario**: core scenario assumes a lead investor (e.g., Savannah’s father) funds CapEx, with founders retaining operating and franchisor equity.
+- **Funding scenario**: core scenario assumes a lead investor funds CapEx, with founders retaining operating and franchisor equity.
 
 Operational assumptions:
 
