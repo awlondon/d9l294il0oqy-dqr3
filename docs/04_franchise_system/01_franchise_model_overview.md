@@ -30,6 +30,14 @@ We plan to standardize three primary format templates:
 
 Each format will have a defined program, capacity, and indicative CapEx range.
 
+**Adaptable modules across formats**
+
+- **Play:** Core play hall, infant/toddler zones, and modular party room that can flex into overflow weekend seating.
+- **Cowork:** Mix of open seating and reservable phone booths or micro offices; add lounge zones for smaller footprints.
+- **Café:** Counter-service espresso bar with speed-line items; small kitchens focus on reheating/assembly for consistency across franchisees.
+- **Support spaces:** Family restrooms with changing tables, janitorial and trash staging, office/storage sized to fit format.
+- **Safety and security:** Controlled entries to play zones, camera coverage for public areas, and defined egress/ADA clearances baked into every template.
+
 ---
 
 ## 3. Franchisor & Franchisee Roles
@@ -52,6 +60,13 @@ Each format will have a defined program, capacity, and indicative CapEx range.
   - Local marketing and community building.
   - Adherence to brand standards and reporting.
 
+**Performance cadence and accountability**
+
+- Weekly KPI pulse calls (labor %, revenue mix, memberships, NPS) for the first 90 days post-opening; shifts to monthly thereafter.
+- Quarterly business reviews covering brand compliance, staffing bench strength, maintenance, and local marketing calendar.
+- Annual planning: budget submission, capital refresh schedule, and regional cluster strategy for multi-unit franchisees.
+- Compliance: audit window of at least once per year; failure triggers corrective action plans and re-training requirements.
+
 ---
 
 ## 4. Revenue to Franchisor
@@ -65,6 +80,7 @@ Primary franchisor revenue streams (details in separate doc):
   - Design and project-management services.
   - Additional training or consulting.
   - Access to advanced media/training library.
+  - Technology stack fees for POS, access control, CCTV storage, and learning management platform.
 
 ---
 
@@ -75,15 +91,23 @@ Primary franchisor revenue streams (details in separate doc):
   - Memberships and day passes.
   - Café sales.
   - Parties, events, and classes.
+  - Room rentals (meeting pods, private nursing rooms during events).
+  - Camps or seasonal programming (where licensing permits).
 
 Franchisee targets:
 
 - Reasonable payback period (e.g., 3–5 years) under typical assumptions.
 - Clear path to multi-unit ownership for high performers.
 
+Key levers:
+
+- Pre-sales goal of ~150 founding memberships and booked parties before opening to smooth cash ramp.
+- Labor as the controllable cost center—cross-train host/play/café hybrid roles and align staffing to real-time demand.
+- Pricing discipline: periodic HQ-led reviews to align with inflation, competitive set, and brand positioning.
+
 Detailed assumptions and scenarios live in:
 
-- `docs/05_financials/02_franchisor_revenue_summary.md`  
+- `docs/05_financials/02_franchisor_revenue_summary.md`
 - `docs/05_financials/03_investor_return_scenarios.md`
 
 ---
