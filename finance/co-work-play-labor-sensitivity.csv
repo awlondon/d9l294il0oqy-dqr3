@@ -1,0 +1,5 @@
+Labor_Pct_of_Revenue,Revenue,COGS,Other_Opex_PreFees,Fees,EBITDA_PostFees,EBITDA_Margin_PostFees,Notes
+0.30,2000000,390000,460000,180000,=B2-C2-(B2*A2)-D2-E2,=F2/B2,Baseline labor assumption (~30%)
+0.32,2000000,390000,460000,180000,=B3-C3-(B3*A3)-D3-E3,=F3/B3,Modest labor inflation scenario
+0.35,2000000,390000,460000,180000,=B4-C4-(B4*A4)-D4-E4,=F4/B4,Pressure case with higher staffing intensity
+0.40,2000000,390000,460000,180000,=B5-C5-(B5*A5)-D5-E5,=F5/B5,Severe labor pressure case

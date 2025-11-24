@@ -1,8 +1,9 @@
-# Finance Documents
+# Co.Work.Play Finance Models
 
-This folder centralizes high-level financial references for the Co.Work.Play Café concept.
-
-## Contents
-
-- `co-work-play-unit-economics.md` – Narrative overview of mature-unit economics, fee stack, and illustrative multi-unit performance.
-- `co-work-play-unit-model.csv` – Structured data table for revenue, costs, and payback assumptions; ready for spreadsheets or BI tools.
+- `co-work-play-unit-economics.md` – Narrative of unit economics.
+- `co-work-play-unit-model.csv` – Base per-store P&L and margins.
+- `co-work-play-churn-cac-model.csv` – Member churn, LTV, and CAC sensitivity.
+- `co-work-play-labor-sensitivity.csv` – Labor % vs EBITDA margin.
+- `co-work-play-ramp-model.csv` – 24-month revenue ramp and cash runway.
+- `co-work-play-regulatory-matrix.md` – State-by-state regulatory overview (draft).
+- `co-work-play-conversion-analytics.md` – Analytics spec for day-pass → member funnel.
