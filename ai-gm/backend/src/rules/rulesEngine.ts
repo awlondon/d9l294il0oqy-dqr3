@@ -1,6 +1,8 @@
+/// <reference path="../types/uuid.d.ts" />
 import { v4 as uuid } from "uuid";
-import rulesConfig from "./rulesConfig.json" assert { type: "json" };
+import rulesConfigJson from "./rulesConfig.json" with { type: "json" };
 import { AiGmEvent } from "../events/eventTypes";
+import { isRecord } from "../events/validation.js";
 import { Channel } from "../types";
 
 export interface ContentIntent {
@@ -37,7 +39,17 @@ function matchesRule(event: AiGmEvent, rule: RuleConfig): boolean {
   if (event.type !== rule.match.type) {
     return false;
   }
-  if (rule.match.zone && event.payload?.zone && event.payload.zone !== rule.match.zone) {
+  if (!isRecord(event.payload)) {
+    return false;
+  }
+  const payloadZone = event.payload.zone;
+  if (rule.match.zone) {
+    const zone = typeof payloadZone === "string" ? payloadZone : undefined;
+    if (zone && zone !== rule.match.zone) {
+      return false;
+    }
+  }
+  if (typeof payloadZone !== "undefined" && typeof payloadZone !== "string") {
     return false;
   }
   return true;
@@ -47,6 +59,7 @@ function matchesRule(event: AiGmEvent, rule: RuleConfig): boolean {
  * Convert inbound events into content intents using a declarative rule set.
  */
 export function processEvent(event: AiGmEvent): ContentIntent[] {
+  const rulesConfig = rulesConfigJson as RuleConfig[];
   return rulesConfig
     .filter((rule) => matchesRule(event, rule))
     .map((rule) => ({
@@ -62,5 +75,5 @@ export function processEvent(event: AiGmEvent): ContentIntent[] {
 }
 
 export function getRules(): RuleConfig[] {
-  return rulesConfig;
+  return rulesConfigJson as RuleConfig[];
 }

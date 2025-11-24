@@ -21,6 +21,12 @@ ai-gm/
 - Subsystems: `events/`, `rules/`, `orchestrator/`, `registry/`
 - Runs a WebSocket endpoint (`/ws`) and an event loop
 
+Configuration overrides (optional):
+- `AI_GM_PORT` or `PORT` — override the HTTP/WebSocket port (default: `4000`)
+- `AI_GM_WS_PATH` or `WS_PATH` — customize the WebSocket path (default: `/ai-gm/ws`)
+
+Example: `AI_GM_PORT=4500 AI_GM_WS_PATH=/custom/ws npm run dev`
+
 ### Screen Client
 - React app that connects to the orchestrator via WebSocket
 - Renders STAFF (control-room motif) vs CUSTOMER (ambient mirror-friendly) UIs
