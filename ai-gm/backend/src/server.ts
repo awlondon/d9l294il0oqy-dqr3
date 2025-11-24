@@ -7,9 +7,6 @@ import { processEvent } from "./rules/rulesEngine.js";
 import { dispatchIntents, registerClient, removeClient } from "./orchestrator/orchestrator.js";
 import { config } from "./config.js";
 import { getAllScreens } from "./registry/screensRegistry.js";
-import { seedScreens } from "./registry/screens.seed.js";
-
-seedScreens();
 
 const app = express();
 app.use(express.json());

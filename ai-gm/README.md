@@ -73,7 +73,7 @@ Example set:
 - **Staff stations:** `F1_POS_STAFF_01`, `F1_ENTRY_STAFF_01`, `F1_BAR_STAFF_01`, `F1_PLAY_STAFF_01`, `F1_PARTY_STAFF_01`, `F1_PARTY_RM1_STAFF_01`, `F1_SUP_STAFF_01`, `F1_BOH_STAFF_01`
 - **Customer shared screens:** `F1_PLAY_INFO_01`, `F1_ENTRY_INFO_01`, `F1_DINE_INFO_01`
 
-Full map: see `ai-gm/docs/screen-map.md`.
+For the full list of screens, circuits, and patch panel ports, see: `docs/screen-map.md`.
 
 ## Documentation Included (in `ai-gm/docs`)
 1. `purchase-order.md` — Itemized hardware/networking bill with quantities, unit prices, and total CapEx (~$25,220).

@@ -1,1 +1,1 @@
-export type Channel = "STAFF" | "CUSTOMER";
+export type Channel = "STAFF" | "CUSTOMER" | "NONE";

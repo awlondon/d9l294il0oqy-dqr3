@@ -1,19 +1,248 @@
-import { Screen } from "../events/eventTypes";
 import { Channel } from "../types";
 
-const screens: Screen[] = [];
+export type ScreenRole = "STAFF" | "CUSTOMER" | "INFRA";
+export type ChannelType = Channel;
 
-export function registerScreen(screen: Screen): void {
-  const exists = screens.find((s) => s.screenId === screen.screenId);
-  if (!exists) {
-    screens.push(screen);
-  }
+export interface Screen {
+  screenId: string;
+  zone: string; // e.g. "CAFE", "ENTRY", "BAR", "OPEN_CW", "PLAY", "PARTY", "QUIET_CW", "BABY", "BOH"
+  role: ScreenRole;
+  channel: Channel;
+  circuit: string; // e.g. "Ckt 1"
+  patchPort: string; // e.g. "PP01" or "PP27–PP32"
 }
 
+export const ALL_SCREENS: Screen[] = [
+  {
+    screenId: "F1_CAFE_TBL_01",
+    zone: "CAFE",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 1",
+    patchPort: "PP01",
+  },
+  {
+    screenId: "F1_CAFE_TBL_02",
+    zone: "CAFE",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 1",
+    patchPort: "PP02",
+  },
+  {
+    screenId: "F1_CAFE_TBL_03",
+    zone: "CAFE",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 1",
+    patchPort: "PP03",
+  },
+  {
+    screenId: "F1_CAFE_TBL_04",
+    zone: "CAFE",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 1",
+    patchPort: "PP04",
+  },
+  {
+    screenId: "F1_CAFE_TBL_05",
+    zone: "CAFE",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 1",
+    patchPort: "PP05",
+  },
+  {
+    screenId: "F1_CAFE_TBL_06",
+    zone: "CAFE",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 1",
+    patchPort: "PP06",
+  },
+  {
+    screenId: "F1_CAFE_TBL_07",
+    zone: "CAFE",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 1",
+    patchPort: "PP07",
+  },
+  {
+    screenId: "F1_CAFE_TBL_08",
+    zone: "CAFE",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 1",
+    patchPort: "PP08",
+  },
+  {
+    screenId: "F1_ENTRY_INFO_01",
+    zone: "ENTRY",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 1",
+    patchPort: "PP09",
+  },
+  {
+    screenId: "F1_ENTRY_STAFF_01",
+    zone: "ENTRY",
+    role: "STAFF",
+    channel: "STAFF",
+    circuit: "Ckt 1",
+    patchPort: "PP10",
+  },
+  {
+    screenId: "F1_BAR_STAFF_01",
+    zone: "BAR",
+    role: "STAFF",
+    channel: "STAFF",
+    circuit: "Ckt 2",
+    patchPort: "PP11",
+  },
+  {
+    screenId: "F1_BAR_STAFF_02",
+    zone: "BAR",
+    role: "STAFF",
+    channel: "STAFF",
+    circuit: "Ckt 2",
+    patchPort: "PP12",
+  },
+  {
+    screenId: "F1_CW_OPEN_TBL_01",
+    zone: "OPEN_CW",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 3",
+    patchPort: "PP13",
+  },
+  {
+    screenId: "F1_CW_OPEN_TBL_02",
+    zone: "OPEN_CW",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 3",
+    patchPort: "PP14",
+  },
+  {
+    screenId: "F1_CW_OPEN_TBL_03",
+    zone: "OPEN_CW",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 3",
+    patchPort: "PP15",
+  },
+  {
+    screenId: "F1_CW_OPEN_TBL_04",
+    zone: "OPEN_CW",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 3",
+    patchPort: "PP16",
+  },
+  {
+    screenId: "F1_CW_QUIET_01",
+    zone: "QUIET_CW",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 4",
+    patchPort: "PP17",
+  },
+  {
+    screenId: "F1_CW_QUIET_02",
+    zone: "QUIET_CW",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 4",
+    patchPort: "PP18",
+  },
+  {
+    screenId: "F1_BABY_INFO_01",
+    zone: "BABY",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 4",
+    patchPort: "PP19",
+  },
+  {
+    screenId: "F1_PLAY_INFO_01",
+    zone: "PLAY",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 5",
+    patchPort: "PP20",
+  },
+  {
+    screenId: "F1_PLAY_STAFF_01",
+    zone: "PLAY",
+    role: "STAFF",
+    channel: "STAFF",
+    circuit: "Ckt 5",
+    patchPort: "PP21",
+  },
+  {
+    screenId: "F1_PARTY_INFO_01",
+    zone: "PARTY",
+    role: "CUSTOMER",
+    channel: "CUSTOMER",
+    circuit: "Ckt 5",
+    patchPort: "PP22",
+  },
+  {
+    screenId: "F1_PARTY_STAFF_01",
+    zone: "PARTY",
+    role: "STAFF",
+    channel: "STAFF",
+    circuit: "Ckt 5",
+    patchPort: "PP23",
+  },
+  {
+    screenId: "F1_KITCHEN_STAFF_01",
+    zone: "BOH",
+    role: "STAFF",
+    channel: "STAFF",
+    circuit: "Ckt 6",
+    patchPort: "PP24",
+  },
+  {
+    screenId: "F1_SUP_STAFF_01",
+    zone: "BOH",
+    role: "STAFF",
+    channel: "STAFF",
+    circuit: "Ckt 6",
+    patchPort: "PP25",
+  },
+  {
+    screenId: "F1_BOH_STAFF_01",
+    zone: "BOH",
+    role: "STAFF",
+    channel: "STAFF",
+    circuit: "Ckt 6",
+    patchPort: "PP26",
+  },
+  {
+    screenId: "F1_CORE_RACK_01",
+    zone: "BOH",
+    role: "INFRA",
+    channel: "NONE",
+    circuit: "Ckt 6",
+    patchPort: "PP27–PP32",
+  },
+];
+
 export function getAllScreens(): Screen[] {
-  return [...screens];
+  return [...ALL_SCREENS];
+}
+
+export function getScreensByZone(zone: string): Screen[] {
+  return ALL_SCREENS.filter((screen) => screen.zone === zone);
+}
+
+export function getScreensByChannel(channel: Channel): Screen[] {
+  return ALL_SCREENS.filter((screen) => screen.channel === channel);
 }
 
 export function getScreensByZoneAndChannel(zone: string, channel: Channel): Screen[] {
-  return screens.filter((screen) => screen.zone === zone && screen.channel === channel);
+  return ALL_SCREENS.filter((screen) => screen.zone === zone && screen.channel === channel);
 }
