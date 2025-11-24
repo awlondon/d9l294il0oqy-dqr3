@@ -1,3 +1,7 @@
+> **Planning Draft Only**
+>
+> All numbers and descriptions below are planning placeholders based on public information and directional assumptions. They are **not legal opinions**. Before entering any state, we will obtain state-specific legal counsel to confirm licensing, staffing, CapEx impact, and timelines.
+
 # Co.Work.Play – Regulatory & Expansion Matrix (Draft)
 
 | State | Category | Childcare/Play Licensing Summary | Estimated Extra CAPEX | Estimated Extra Time to Open | Notes |
