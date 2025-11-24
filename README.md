@@ -15,6 +15,7 @@ Co.work.play Café is a remote-first coworking café paired with supervised play
 - `docs/05_training_and_media/` – Hiring/training playbooks, module index, Sora prompts, and readiness checklists.
 - `docs/06_legal_and_policy/` – Terms of service, privacy policy, waiver outline, and franchise agreement outline.
 - `docs/07_investor_materials/` – Investor one-pager, pitch narrative, CapEx/returns, and growth plan.
+- `docs/archive/` – Deprecated drafts from an older numbering scheme with README stubs pointing to their canonical replacements above.
 - `media/` – Floorplans, renders, and decks (add exports here as produced).
 - `web/` – Next.js marketing site for Co.work.play Café with Tailwind CSS.
 
