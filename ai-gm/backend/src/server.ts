@@ -2,7 +2,8 @@ import express from "express";
 import http from "http";
 import { WebSocketServer } from "ws";
 import { eventBus } from "./events/eventBus.js";
-import { AiGmEvent, EventType } from "./events/eventTypes.js";
+import { ALL_EVENT_TYPES } from "./events/eventTypes.js";
+import { parseAiGmEvent, ValidationError } from "./events/validation.js";
 import { processEvent } from "./rules/rulesEngine.js";
 import { dispatchIntents, registerClient, removeClient } from "./orchestrator/orchestrator.js";
 import { config } from "./config.js";
@@ -16,32 +17,22 @@ app.get("/ai-gm/health", (_req, res) => {
 });
 
 app.post("/ai-gm/events", (req, res) => {
-  const event = req.body as AiGmEvent;
-  if (!event?.id || !event?.type) {
-    return res.status(400).json({ error: "Missing id or type" });
+  try {
+    const event = parseAiGmEvent(req.body);
+    eventBus.publishEvent(event);
+    res.json({ status: "accepted" });
+  } catch (error) {
+    if (error instanceof ValidationError) {
+      return res.status(400).json({ error: error.message });
+    }
+    res.status(500).json({ error: "Unexpected error validating event" });
   }
-  eventBus.publishEvent(event);
-  res.json({ status: "accepted" });
 });
 
 const server = http.createServer(app);
 const wss = new WebSocketServer({ server, path: config.wsPath });
 
-const allEventTypes: EventType[] = [
-  "PLAYAREA_AT_CAPACITY",
-  "PLAYAREA_BELOW_CAPACITY",
-  "TODDLER_ENTERED_PLAYAREA",
-  "TODDLER_EXITED_PLAYAREA",
-  "STAFF_CHECKIN_AT_STATION",
-  "PARTY_ROOM_START",
-  "PARTY_ROOM_END",
-  "CLOSING_TIME_T_MINUS_30",
-  "CLOSING_TIME_T_MINUS_10",
-  "CLOSING_TIME_T_MINUS_5",
-  "CLOSING_TIME_NOW",
-];
-
-allEventTypes.forEach((type) => {
+ALL_EVENT_TYPES.forEach((type) => {
   eventBus.subscribe(type, (event) => {
     const intents = processEvent(event);
     dispatchIntents(intents, { wss });

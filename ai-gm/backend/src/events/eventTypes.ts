@@ -17,6 +17,14 @@ export type EventSource =
   | "SCHEDULER"
   | "MANUAL";
 
+export const ALL_EVENT_SOURCES: EventSource[] = [
+  "PLAY_AREA_SENSOR",
+  "STAFF_CHECKIN",
+  "POS",
+  "SCHEDULER",
+  "MANUAL",
+];
+
 export type EventType =
   | "PLAYAREA_AT_CAPACITY"
   | "PLAYAREA_BELOW_CAPACITY"
@@ -30,12 +38,26 @@ export type EventType =
   | "CLOSING_TIME_T_MINUS_5"
   | "CLOSING_TIME_NOW";
 
+export const ALL_EVENT_TYPES: EventType[] = [
+  "PLAYAREA_AT_CAPACITY",
+  "PLAYAREA_BELOW_CAPACITY",
+  "TODDLER_ENTERED_PLAYAREA",
+  "TODDLER_EXITED_PLAYAREA",
+  "STAFF_CHECKIN_AT_STATION",
+  "PARTY_ROOM_START",
+  "PARTY_ROOM_END",
+  "CLOSING_TIME_T_MINUS_30",
+  "CLOSING_TIME_T_MINUS_10",
+  "CLOSING_TIME_T_MINUS_5",
+  "CLOSING_TIME_NOW",
+];
+
 export interface AiGmEvent {
   id: string;
   source: EventSource;
   type: EventType;
   timestamp: string;
-  payload: Record<string, any>;
+  payload: Record<string, unknown>;
 }
 
 export interface PlayAreaCapacityPayload {
