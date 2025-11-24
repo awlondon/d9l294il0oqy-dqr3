@@ -4,9 +4,9 @@ This document captures the base mature-unit financial model for a Co.Work.Play h
 
 ## 1. Single-Unit Revenue (Mature Store)
 
-Assumptions (steady state, Year 3+):
+Assumptions (steady state, Year 3+ for a generic unit; the Phoenix flagship uses the $3.0M annual / $250k monthly baseline captured in `phoenix-flagship-model.csv`):
 
-- Total annual revenue per location: **$2,000,000**
+- Total annual revenue per location: **$2,000,000** (illustrative for non-Phoenix units)
   - Café / Food & Beverage: **$900,000** (45%)
   - Coworking (memberships, day passes): **$700,000** (35%)
   - Parties & Events (birthday rentals, buyouts): **$400,000** (20%)
@@ -38,6 +38,12 @@ Annual operating expense assumptions:
 **Total Opex (pre-fees) = $1,060,000**
 
 Labor sensitivity analysis is provided in `finance/co-work-play-labor-sensitivity.csv`, showing how store-level EBITDA margin degrades as labor costs rise above the 30% baseline.
+
+Training & recruiting guardrails that align with the Phoenix flagship model:
+
+- Year 1 training & recruiting budget: **4–6% of payroll**
+- Stabilized training & recruiting budget: **2–3% of payroll**
+- Red flag: if total labor (wages + taxes + training/recruit) exceeds **35–37% of revenue** for more than three consecutive months, trigger an operational review and staffing plan reset.
 
 > **EBITDA before franchise fees = 1,610,000 – 1,060,000 = $550,000 (~27.5% margin)**
 

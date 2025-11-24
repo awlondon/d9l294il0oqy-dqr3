@@ -1,16 +1,37 @@
 Metric,Category,Value,Unit,Notes
-Floor_Area_SF,Physical,8500,SF,Phoenix flagship size
-Validation_Timeline,Time,18,Months,From initial planning to post-opening validation
-TI_Low,CapEx,1300000,USD,Leasehold improvements low estimate
-TI_High,CapEx,1700000,USD,Leasehold improvements high estimate
-TI_Midpoint,CapEx,1500000,USD,Optional midpoint if desired
-Cafe_Kitchen_Equip,CapEx,300000,USD,Midpoint of 250–350k
-Play_Equip,CapEx,75000,USD,Midpoint of 50–100k
-FF&E,CapEx,200000,USD,Midpoint of 150–250k
-AI_GM_Hardware,CapEx,30000,USD,Midpoint of 20–40k
-CapEx_Total_Midpoint,CapEx,2100000,USD,Approximate total build-out + equipment
-PreOpening_Costs,OpEx,250000,USD,Design, legal, pre-opening payroll, launch marketing
-Runway_Reserve,OpEx,600000,USD,6–9 months of operating reserve midpoint
-Total_Capital_Target,Capital,2950000,USD,CapEx + PreOpening + Runway midpoint
-Capital_Target_Low,Capital,2700000,USD,Framing lower bound for raise
-Capital_Target_High,Capital,3000000,USD,Framing upper bound for raise
+Phoenix_Floor_Area_SF,Physical,8500,SF,Phoenix flagship size
+Phoenix_Stabilized_Monthly_Revenue,Baseline,250000,USD,Canonical stabilized monthly revenue
+Phoenix_Stabilized_Annual_Revenue,Baseline,3000000,USD,=Phoenix_Stabilized_Monthly_Revenue*12
+Rev_Membership_Pct,Assumption,0.24,Ratio,24% of total revenue from memberships
+Rev_DayPass_Pct,Assumption,0.18,Ratio,18% from day passes
+Rev_Cafe_Pct,Assumption,0.32,Ratio,32% from cafe
+Rev_Parties_Pct,Assumption,0.12,Ratio,12% from parties/events
+Rev_Programs_Pct,Assumption,0.08,Ratio,8% from meetings/classes/programming
+Rev_Other_Pct,Assumption,0.06,Ratio,6% from other (retail, etc.)
+Rev_Membership_Monthly,Revenue,=Phoenix_Stabilized_Monthly_Revenue*Rev_Membership_Pct,USD,Monthly membership revenue at scale
+Rev_DayPass_Monthly,Revenue,=Phoenix_Stabilized_Monthly_Revenue*Rev_DayPass_Pct,USD,
+Rev_Cafe_Monthly,Revenue,=Phoenix_Stabilized_Monthly_Revenue*Rev_Cafe_Pct,USD,
+Rev_Parties_Monthly,Revenue,=Phoenix_Stabilized_Monthly_Revenue*Rev_Parties_Pct,USD,
+Rev_Programs_Monthly,Revenue,=Phoenix_Stabilized_Monthly_Revenue*Rev_Programs_Pct,USD,
+Rev_Other_Monthly,Revenue,=Phoenix_Stabilized_Monthly_Revenue*Rev_Other_Pct,USD,
+Rev_Total_Monthly_Check,Derived,=SUM(Rev_Membership_Monthly,Rev_DayPass_Monthly,Rev_Cafe_Monthly,Rev_Parties_Monthly,Rev_Programs_Monthly,Rev_Other_Monthly),USD,Should equal Phoenix_Stabilized_Monthly_Revenue
+Membership_Active_Count,Membership,350,Count,Stabilized active members
+Membership_ARPU_Monthly,Membership,120,USD,Monthly membership price
+Membership_Contribution_Margin,Membership,0.8,Ratio,80% contribution
+Membership_Contribution_Monthly,Membership,=Membership_Active_Count*Membership_ARPU_Monthly*Membership_Contribution_Margin,USD,Monthly contribution from memberships
+COGS_Pct,Assumption,0.2,Ratio,20% blended COGS
+Labor_Pct_Stabilized,Assumption,0.32,Ratio,32% labor at scale
+Occupancy_Pct,Assumption,0.1,Ratio,10% rent/NNN at scale
+Marketing_Pct,Assumption,0.03,Ratio,3% of revenue
+Other_Opex_Pct,Assumption,0.08,Ratio,8% (utilities, insurance, misc)
+Training_Recruit_Pct_Year1,Assumption,0.05,Ratio,5% of payroll in Year 1
+Training_Recruit_Pct_Stabilized,Assumption,0.025,Ratio,2.5% of payroll at scale
+COGS_Monthly,Cost,=Phoenix_Stabilized_Monthly_Revenue*COGS_Pct,USD,
+Labor_Monthly,Cost,=Phoenix_Stabilized_Monthly_Revenue*Labor_Pct_Stabilized,USD,
+Occupancy_Monthly,Cost,=Phoenix_Stabilized_Monthly_Revenue*Occupancy_Pct,USD,
+Marketing_Monthly,Cost,=Phoenix_Stabilized_Monthly_Revenue*Marketing_Pct,USD,
+Other_Opex_Monthly,Cost,=Phoenix_Stabilized_Monthly_Revenue*Other_Opex_Pct,USD,
+Gross_Profit_Monthly,Derived,=Phoenix_Stabilized_Monthly_Revenue-COGS_Monthly,USD,
+EBITDA_Monthly_PreFees,Derived,=Phoenix_Stabilized_Monthly_Revenue-COGS_Monthly-Labor_Monthly-Occupancy_Monthly-Marketing_Monthly-Other_Opex_Monthly,USD,
+Phoenix_Total_Upfront_CapEx,Capital,2100000,USD,CapEx midpoint for flagship build-out
+Phoenix_Operating_Reserve,Capital,900000,USD,Operating reserve to support ramp
