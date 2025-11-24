@@ -8,3 +8,7 @@
 *.pptx
 *.pdf
 *.xlsx
+# Allow key web assets
+!web/public/assets/floorplan.pdf
+!web/public/assets/placeholder.jpg
+!web/public/assets/play-area.mp4
