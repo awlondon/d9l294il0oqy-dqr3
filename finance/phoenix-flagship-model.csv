@@ -1,0 +1,16 @@
+Metric,Category,Value,Unit,Notes
+Floor_Area_SF,Physical,8500,SF,Phoenix flagship size
+Validation_Timeline,Time,18,Months,From initial planning to post-opening validation
+TI_Low,CapEx,1300000,USD,Leasehold improvements low estimate
+TI_High,CapEx,1700000,USD,Leasehold improvements high estimate
+TI_Midpoint,CapEx,1500000,USD,Optional midpoint if desired
+Cafe_Kitchen_Equip,CapEx,300000,USD,Midpoint of 250–350k
+Play_Equip,CapEx,75000,USD,Midpoint of 50–100k
+FF&E,CapEx,200000,USD,Midpoint of 150–250k
+AI_GM_Hardware,CapEx,30000,USD,Midpoint of 20–40k
+CapEx_Total_Midpoint,CapEx,2100000,USD,Approximate total build-out + equipment
+PreOpening_Costs,OpEx,250000,USD,Design, legal, pre-opening payroll, launch marketing
+Runway_Reserve,OpEx,600000,USD,6–9 months of operating reserve midpoint
+Total_Capital_Target,Capital,2950000,USD,CapEx + PreOpening + Runway midpoint
+Capital_Target_Low,Capital,2700000,USD,Framing lower bound for raise
+Capital_Target_High,Capital,3000000,USD,Framing upper bound for raise
