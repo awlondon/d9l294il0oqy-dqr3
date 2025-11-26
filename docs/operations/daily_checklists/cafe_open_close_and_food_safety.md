@@ -6,6 +6,7 @@
 - Set up handwashing, glove, and sanitizer stations; restock towels and labels.
 - Prep pastries/grab-and-go; set allergen signage and ingredient books.
 - Confirm POS menu and printer status; test mobile order routing.
+- Confirm KDS displays seat codes clearly on incoming orders and on printed labels.
 
 ## During Service
 - Maintain handwashing and glove changes per task; sanitize high-touch surfaces hourly.

@@ -46,11 +46,14 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [IN PROGRESS] [Roles and staffing model](operations/roles_and_staffing_model.md)
 - [IN PROGRESS] [Enrollment and house rules script](operations/enrollment_and_house_rules_script.md)
 - [IN PROGRESS] [Daily checklists](operations/daily_checklists)
+- [IN PROGRESS] Runner role and seat assignment/table-service ordering references embedded in SOPs and checklists.
 
 ## People & Culture
 - [DRAFT – core philosophy added] [Why we work here](people_and_culture/why_we_work_here.md)
 
 ## Tech
+- [DRAFT] [Workstation & Ordering System – V1](tech/workstation_ordering_system_v1.md) – **LAUNCH CRITICAL**
+- [DRAFT] [Workstation Future Enhancements (Biometrics, Robots, AI-GM)](tech/workstation_future_enhancements.md) – **PHASE 2+**
 - [DRAFT] [AI GM system architecture](tech/AI_GM_system_architecture.md)
 - [DRAFT] [Biometric and authentication flows](tech/biometric_and_authentication_flows.md)
 - [DRAFT] [Robot food glider integration](tech/robot_food_glider_integration.md)

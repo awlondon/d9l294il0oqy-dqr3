@@ -6,6 +6,7 @@ Baseline staffing expectations by role and daypart for the flagship format; adju
 - **Host:** Greets, manages check-in/out, wristbands, membership questions, and safety reminders at entry.
 - **Play Attendant:** Monitors play zones, enforces safety rules, manages “dirty toy” station, supports incident response.
 - **Café Operator:** Preps and serves beverages/food, manages food safety logs, handles café POS.
+- **Runner/Service Runner:** Picks up café orders, delivers to seats by seat code, keeps delivery lanes clear, and coordinates with host/café on seat issues.
 - **Party Captain:** Sets up, hosts, and resets parties; coordinates with café for food and with attendants for activities.
 - **Manager/Shift Lead:** Oversees floor, handles escalations, cash controls, staffing adjustments, and guest recovery.
 - **Enrollment Attaché (Phase 1):** Savannah-style role focused on tours, enrollment closes, and follow-up with prospects.

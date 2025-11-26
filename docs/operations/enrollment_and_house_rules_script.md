@@ -28,3 +28,8 @@ Savannah’s live script for onboarding new members during tours and first visit
 ## Closing
 - “Ready to try us out? We can start a membership or day pass now. I’ll send you a follow-up with today’s highlights.”
 - Capture preferred contact method and send digital brochure/house rules after the tour.
+
+## Workstation & Ordering Talking Points for New Members
+- “You’ll be assigned a workstation with a code like A-12.”
+- “You can order food and drinks from your seat using your phone or the screen at your station; we’ll bring it to you.”
+- Frame tech extras (robots, AI) as future possibilities, not launch promises.

@@ -16,6 +16,7 @@ How Sora-generated clips flow into training modules and stay organized.
 - Clips embedded in LMS modules with short knowledge checks and downloadable SOP links.
 - Script files stored in `docs/training_and_media/video_scripts/` and linked from the module index.
 - Thumbnails and captions generated for accessibility; transcripts stored alongside scripts.
+- Include a dedicated module titled **“Ordering & Table Service from Seat”** with Sora clips showing phone/tablet ordering and runners delivering by seat code.
 
 ## Distribution & Updates
 - Publish modules to staff and franchisee portals; restrict internal-only vs. franchise-facing content by tag.
