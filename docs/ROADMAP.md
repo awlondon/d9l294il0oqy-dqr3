@@ -2,6 +2,11 @@
 
 Use this as the quick orientation map for what exists, what is in motion, and what needs to be filled in next. Status tags: `[READY]`, `[IN PROGRESS]`, `[DRAFT]`, `[TODO]`.
 
+## History
+- **2025-11-10** – Co.work.PLAY Café concept conceived on a video call between Alex London and Savannah Strasner, using an AI assistant to sketch a Phoenix flagship and flagship-plus-franchise model.
+- **2025-11-20+** – Detailed business plan and financial modeling begin.
+- **2025-11-22+** – Name “Co.work.PLAY Café” adopted; brand and logo exploration starts.
+
 ## Brand
 - [READY] [Brand one-pager](01_concept_and_brand/brand_one_pager.md)
 - [READY] [Brand principles](01_concept_and_brand/brand_principles.md)

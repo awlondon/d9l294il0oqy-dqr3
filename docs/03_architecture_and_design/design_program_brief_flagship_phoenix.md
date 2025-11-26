@@ -3,6 +3,10 @@
 ## Purpose
 Guide architects and interior designers on program mix, space allocations, and experiential priorities for the Phoenix flagship.
 
+## Background & Timeline
+- **November 10, 2025** – Concept conceived during a video call between co-founders Alex London and Savannah Strasner while prompting an AI to develop a “Phoenix flagship” cowork + play café concept and a flagship-plus-franchise rollout model.
+- **Late November 2025 onward** – Business plan, financial model, and brand system refined; Phoenix-area flagship targeted for early 2026 opening.
+
 ## Space Program & Approximate SF
 - **Entry/Host & Retail:** 400 SF; includes stroller parking, retail shelving, and digital signage.
 - **Café & Seating:** 1,800 SF; bar, grab-and-go, condiment, family banquette, and stroller-friendly aisles.
