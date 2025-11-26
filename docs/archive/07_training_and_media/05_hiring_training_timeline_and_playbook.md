@@ -47,7 +47,7 @@ Use this as the master reference provided to franchisees (20–30 pages). Pair t
 ## 1. Introduction
 
 ### 1.1 Purpose of This Playbook
-- How to use this document to staff and train your Co.work.play Café.
+- How to use this document to staff and train your Co.work.PLAY Café.
 - Scope: pre-opening, opening, and first 90 days.
 
 ### 1.2 Concept Recap

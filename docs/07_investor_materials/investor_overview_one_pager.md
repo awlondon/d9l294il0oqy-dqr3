@@ -1,7 +1,7 @@
 # Investor Overview – One Pager
 
 ## Concept
-Co.work.play Café combines specialty coffee, flexible coworking, and supervised play under one roof. Parents get productive time; kids enjoy safe engagement. The Phoenix flagship proves the model and anchors a franchise rollout.
+Co.work.PLAY Café combines specialty coffee, flexible coworking, and supervised play under one roof. Parents get productive time; kids enjoy safe engagement. The Phoenix flagship proves the model and anchors a franchise rollout.
 
 ## Market
 - Rising remote/hybrid workforce with childcare gaps.

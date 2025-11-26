@@ -2,7 +2,7 @@
 
 ## 1. Overall Concept
 
-- First **flagship Co.work.play Café** in the Phoenix metro area.  
+- First **flagship Co.work.PLAY Café** in the Phoenix metro area.  
 - Target size: **approximately 8,500 usable square feet**.  
 - Configuration: roughly **100' x 85'** interior footprint, single level.  
 - Opening goal: **early 2026** (subject to site and permitting).

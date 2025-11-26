@@ -1,7 +1,7 @@
 # Brand Principles
 
 ## Purpose
-Define the personality, tone, and experiential standards that keep Co.work.play Café consistent across the flagship and all franchise locations.
+Define the personality, tone, and experiential standards that keep Co.work.PLAY Café consistent across the flagship and all franchise locations.
 
 ## Positioning Statement
 A warm-modern, hospitality-first café and cowork space where parents can be productive while children are engaged in safe, joyful play.

@@ -1,7 +1,7 @@
 # Target Customer Profiles
 
 ## Purpose
-These profiles guide programming, pricing, and marketing for both the Phoenix flagship and franchise locations. They highlight motivations, friction points, and how Co.work.play Café solves for them.
+These profiles guide programming, pricing, and marketing for both the Phoenix flagship and franchise locations. They highlight motivations, friction points, and how Co.work.PLAY Café solves for them.
 
 ## Remote Work Parents (Core)
 - **Who they are:** Dual-income households with children under 6; hybrid/remote roles in tech, healthcare admin, design, or education.

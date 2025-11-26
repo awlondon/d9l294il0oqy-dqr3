@@ -1,6 +1,6 @@
 # Terms of Service: Memberships and Passes
 
-Co.work.play Café is a supervised play environment and café, not a licensed daycare. By purchasing a membership or day pass, guests agree to follow safety rules, remain reachable on-site, and comply with staff instructions. Parents/guardians retain responsibility for their children and must disclose allergies or special considerations.
+Co.work.PLAY Café is a supervised play environment and café, not a licensed daycare. By purchasing a membership or day pass, guests agree to follow safety rules, remain reachable on-site, and comply with staff instructions. Parents/guardians retain responsibility for their children and must disclose allergies or special considerations.
 
 ## Key Points
 - Memberships and passes are non-transferable; IDs may be requested.

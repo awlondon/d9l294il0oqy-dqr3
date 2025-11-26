@@ -1,4 +1,4 @@
-# Co.work.play Café – Revenue Streams
+# Co.work.PLAY Café – Revenue Streams
 
 ## 1. Memberships
 

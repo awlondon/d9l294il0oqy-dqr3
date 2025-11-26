@@ -1,4 +1,4 @@
-# Co.work.play Café – Value Proposition
+# Co.work.PLAY Café – Value Proposition
 
 ## 1. Customer Segments
 

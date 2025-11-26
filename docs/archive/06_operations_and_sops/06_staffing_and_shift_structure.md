@@ -1,5 +1,5 @@
 # Staffing & Shift Structure  
-Co.work.play Café
+Co.work.PLAY Café
 
 > This document outlines baseline staffing patterns for the flagship  
 > and provides a template for franchise sizing and scheduling.

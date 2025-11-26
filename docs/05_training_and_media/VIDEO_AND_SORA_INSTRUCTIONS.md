@@ -1,8 +1,8 @@
-# Co.work.play Café  
+# Co.work.PLAY Café  
 Video, Sora Prompts & Storyboard Instructions  
 (Training & Media Module)
 
-This document explains **how to design, name, and organize** all video content, Sora prompts, and storyboards for Co.work.play Café training and franchise materials.
+This document explains **how to design, name, and organize** all video content, Sora prompts, and storyboards for Co.work.PLAY Café training and franchise materials.
 
 It is written for:
 - Founders
@@ -161,7 +161,7 @@ Re-use and keep consistent:
 
 Host Trainer
 
-“A Black woman in her early 30s, wearing a Co.work.play Café host uniform (clean, modern, branded), standing at a welcoming host desk near the entrance.”
+“A Black woman in her early 30s, wearing a Co.work.PLAY Café host uniform (clean, modern, branded), standing at a welcoming host desk near the entrance.”
 
 Café Trainer (Hispanic female)
 

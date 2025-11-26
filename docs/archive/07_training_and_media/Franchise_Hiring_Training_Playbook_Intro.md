@@ -1,11 +1,11 @@
-# Co.work.play Café  
+# Co.work.PLAY Café  
 Franchise Hiring & Training Playbook
 
 ## 1. Purpose of This Playbook
 
 This playbook is a practical guide to help you:
 
-- **Staff your Co.work.play Café** with the right people in the right roles.
+- **Staff your Co.work.PLAY Café** with the right people in the right roles.
 - **Train your team** using the standard Co.work.play curriculum (videos, SOPs, and checklists).
 - **Open smoothly** and hit a high standard of guest experience from Day 1.
 
@@ -26,7 +26,7 @@ You should use this document alongside:
 
 ### 2.1 What We’re Staffing For
 
-Co.work.play Café is a **hybrid space**:
+Co.work.PLAY Café is a **hybrid space**:
 
 - A **café** with high-quality coffee, snacks, and light meals.  
 - A **cowork environment** with Wi-Fi, power, and quiet zones.  

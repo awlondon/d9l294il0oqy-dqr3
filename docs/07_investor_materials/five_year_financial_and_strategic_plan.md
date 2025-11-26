@@ -1,7 +1,7 @@
 # Five-Year Financial & Strategic Plan
 
 ## Purpose
-Provide a concise five-year roadmap for Co.work.play Café, combining unit-level economics with the expansion cadence needed to reach multi-region scale while managing capital intensity.
+Provide a concise five-year roadmap for Co.work.PLAY Café, combining unit-level economics with the expansion cadence needed to reach multi-region scale while managing capital intensity.
 
 ## Expansion Roadmap (Years 1–5)
 - **Regional growth model:** Start with a Phoenix flagship as the proof-of-concept and training hub, cluster nearby locations to refine operations, then replicate the format across additional regions.

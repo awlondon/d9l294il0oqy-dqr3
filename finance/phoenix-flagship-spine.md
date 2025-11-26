@@ -1,4 +1,4 @@
-# Co.work.play Café — Phoenix Flagship Model Spine (v2)
+# Co.work.PLAY Café — Phoenix Flagship Model Spine (v2)
 
 This document narrates the Phoenix flagship economics and timeline in terms that align with the canonical finance models in:
 - `phoenix-flagship-model.csv`

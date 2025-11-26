@@ -1,4 +1,4 @@
-# Co.work.play Café Legal and Financial Specifications
+# Co.work.PLAY Café Legal and Financial Specifications
 
 ## Franchise Agreement Summary
 - **Grant of Franchise & Territory**: Provides franchisees with exclusive rights to operate within a defined geographic territory (city, ZIP code, or equivalent). Includes parameters for exclusivity, encroachment protections, and conditions for multi-unit development.

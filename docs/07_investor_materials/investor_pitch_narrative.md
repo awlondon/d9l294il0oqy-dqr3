@@ -4,7 +4,7 @@
 Provide a slide-by-slide script for the investor deck to ensure consistent storytelling.
 
 ## Slide Outline & Narrative
-1. **Cover** – Introduce Co.work.play Café as the calm, design-forward solution for working parents; highlight café + cowork + supervised play.
+1. **Cover** – Introduce Co.work.PLAY Café as the calm, design-forward solution for working parents; highlight café + cowork + supervised play.
 2. **Problem** – Childcare gaps and noisy cafes make productive work hard; parents crave safe, clean spaces that welcome families.
 3. **Solution** – Integrated hospitality model: specialty café, flexible cowork zones, and staffed play with clear safety protocols.
 4. **Market** – Remote/hybrid trends, dual-income households, and employer stipend growth; TAM for family-friendly third places.

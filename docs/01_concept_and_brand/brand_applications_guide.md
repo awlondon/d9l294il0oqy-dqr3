@@ -1,4 +1,4 @@
-# Co.work.play Café Brand Applications Guide
+# Co.work.PLAY Café Brand Applications Guide
 
 ## Exterior Signage
 - Use the **primary horizontal lockup** in full color where permitted; opt for one-color or reversed white for darker façades or backlit signs.

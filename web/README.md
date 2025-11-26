@@ -1,6 +1,6 @@
-# Co.work.play Café Web
+# Co.work.PLAY Café Web
 
-Marketing site for Co.work.play Café built with Next.js 14 and Tailwind CSS.
+Marketing site for Co.work.PLAY Café built with Next.js 14 and Tailwind CSS.
 
 ## Prerequisites
 - Node.js 18+
