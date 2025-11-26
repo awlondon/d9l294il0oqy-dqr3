@@ -1,18 +1,30 @@
 const pillars = [
-  { title: 'Safe & Seen', copy: 'Design-forward supervision sightlines so caregivers can exhale while kids explore freely.' },
-  { title: 'Productive & Calm', copy: 'Acoustic treatments, focus pods, and reliable Wi-Fi to keep work moving between cuddles.' },
-  { title: 'Warm Modern', copy: 'Light wood textures, greenery, and soft shapes inspired by biophilic play cues.' },
-  { title: 'Community Heartbeat', copy: 'Programming and pop-ups that connect caregivers, founders, and kids in one clubhouse.' }
+  {
+    title: 'Real work happens here',
+    copy: 'Quiet cowork areas, focus pods, and reliable Wi-Fi keep projects moving while little ones play close by.'
+  },
+  {
+    title: 'Safe, joyful play',
+    copy: 'Supervised zones, calming textures, and sightlines that help caregivers exhale without losing connection.'
+  },
+  {
+    title: 'Hospitality-forward café',
+    copy: 'Great coffee, snacks, and meals that honor the rhythms of families and the pace of real workdays.'
+  },
+  {
+    title: 'Local and connected',
+    copy: 'Every location is locally owned and rooted in its neighborhood, supported by a shared playbook and standards.'
+  }
 ];
 
 const AboutSection = () => (
   <section className="mx-auto max-w-5xl px-4 py-12 sm:px-6">
     <div className="space-y-4 text-center">
-      <h2 className="section-title">Built for the way families work now</h2>
+      <h2 className="section-title">What Co.work.PLAY Café is</h2>
       <p className="section-subtitle mx-auto">
-        Our flagship café blends specialty coffee, quick-serve food, and kids’ bento options with open seating,
-        focus pods, and supervised play zones. It’s a community-driven work+play mission where caregivers stay productive
-        and kids feel celebrated.
+        A place where caregivers can get real work done while their kids play nearby, safely and joyfully. We combine
+        coworking comfort, supervised play, and a hospitality-first café under one roof so families feel welcome and
+        focused.
       </p>
     </div>
     <div className="mt-10 grid gap-6 sm:grid-cols-2">
