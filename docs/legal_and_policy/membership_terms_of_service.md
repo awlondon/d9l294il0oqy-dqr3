@@ -1,6 +1,6 @@
-# Membership Terms of Service (Plain-Language Outline)
+# Membership Terms of Service (Plain-Language Draft)
 
-Draft for counsel review; references current membership products and wellness policies.
+Mirrors the outline in `docs/06_legal_and_policy/membership_terms_of_service.md`; use this version for new sites and counsel review.
 
 ## Membership Types & Payments
 - **Monthly memberships:** Auto-renew month-to-month with listed adults/children; pricing published in-app and on-site.
