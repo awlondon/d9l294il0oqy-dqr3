@@ -2,19 +2,19 @@ import VideoPlayer from './VideoPlayer';
 
 const featureCallouts = [
   {
-    title: 'Specialty Coffee & Snacks',
-    description: 'House-made syrups, matcha, bento boxes, and seasonal pastry partners.',
-    icon: '☕'
-  },
-  {
-    title: 'High-Speed Wi-Fi & Work Pods',
-    description: 'Bookable focus booths plus open seating for drop-in coworking.',
+    title: 'Work that actually gets done',
+    description: 'Focus pods, comfortable seating, and steady Wi-Fi built for real deadlines.',
     icon: '💻'
   },
   {
-    title: 'Supervised Play for Kids',
-    description: 'Warm modern play zones with sensory corners so caregivers can breathe easy.',
+    title: 'Calm, supervised play',
+    description: 'Trusted team members keep kids engaged with safe, joyful play moments.',
     icon: '🧸'
+  },
+  {
+    title: 'Coffee + bites for real life',
+    description: 'Espresso, tea, snacks, and meals paced to support caregivers and kids.',
+    icon: '☕'
   }
 ];
 
@@ -32,13 +32,13 @@ const HeroSection = () => {
       </div>
       <div className="relative mx-auto flex max-w-6xl flex-col gap-10 px-4 py-16 sm:px-6 sm:py-24 lg:flex-row lg:items-center lg:gap-16">
         <div className="max-w-2xl space-y-6">
-          <p className="badge w-fit bg-white/70 text-brand-espresso shadow-soft">Warm modern cowork + play café</p>
+          <p className="badge w-fit bg-white/70 text-brand-espresso shadow-soft">Cowork + café + supervised play</p>
           <h1 className="text-4xl font-heading font-extrabold text-brand-espresso sm:text-5xl lg:text-6xl">
-            Work. Play. Sip.
+            Work, coffee, and play — together.
           </h1>
           <p className="text-lg text-brand-espresso/80">
-            A family-friendly workspace and play café built for real-life rhythms. Drop in for specialty coffee, set up in our focus pods,
-            and let the littles explore biophilic play zones.
+            A calm, supervised play space and café where caregivers can get real work done while their little ones explore nearby. Built
+            for remote and hybrid life, without the founder spotlight.
           </p>
           <div className="grid gap-4 sm:grid-cols-2">
             {featureCallouts.map((item) => (

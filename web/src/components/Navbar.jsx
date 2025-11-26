@@ -4,10 +4,12 @@ import Link from 'next/link';
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/about', label: 'About' },
-  { href: '/zones', label: 'Zones' },
+  { href: '/zones', label: 'Visit' },
   { href: '/menu', label: 'Menu' },
-  { href: '/staff', label: 'Staff Portal' },
-  { href: '/party', label: 'Party' }
+  { href: '/franchise', label: 'Own a Café' },
+  { href: '/careers', label: 'Careers' },
+  { href: '/party', label: 'Party' },
+  { href: '/staff', label: 'Staff Portal' }
 ];
 
 const Navbar = () => {

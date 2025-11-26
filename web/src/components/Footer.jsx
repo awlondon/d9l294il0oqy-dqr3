@@ -35,6 +35,9 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <div className="border-t border-brand-sand/30 px-4 py-4 text-center text-xs text-brand-sand/80 sm:px-6">
+        Co.work.PLAY Café locations are locally owned and operated within a shared safety and brand framework.
+      </div>
     </footer>
   );
 };
