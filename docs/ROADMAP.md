@@ -32,6 +32,9 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [IN PROGRESS] [Franchisee profile](franchise/franchisee_profile.md)
 - [DRAFT – core philosophy added] [Franchise messaging: ownership language](franchise/franchise_messaging_ownership_language.md)
 
+## Franchise & Ownership
+- [READY] [Owner Manifesto](franchise/owner_manifesto.md) – Core philosophy for franchise owners.
+
 ## Operations
 - [READY] [Staffing and shift structure](04_operations_and_sops/staffing_and_shift_structure.md)
 - [READY] [SOP – Host](04_operations_and_sops/sop_host.md)
