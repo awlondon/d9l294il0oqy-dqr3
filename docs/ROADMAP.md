@@ -11,6 +11,10 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [DRAFT] [Brand one-pager (concise)](brand/brand_one_pager.md)
 - [DRAFT] [Logo and visual identity spec](brand/logo_and_visual_identity_spec.md)
 - [DRAFT] [Environmental graphics and signage guide](brand/environmental_graphics_and_signage_guide.md)
+- [DRAFT – core philosophy added] [Ownership-first brand philosophy](brand/brand_philosophy_ownership_model.md)
+
+## Company
+- [DRAFT – core philosophy added] [About us](company/about_us.md)
 
 ## Business & Financials
 - [READY] [Flagship business plan – Phoenix](02_business_and_financials/flagship_business_plan_phoenix.md)
@@ -26,6 +30,7 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [IN PROGRESS] [Franchise offering outline](franchise/franchise_offering_outline.md)
 - [IN PROGRESS] [Territory and site selection guide](franchise/territory_and_site_selection_guide.md)
 - [IN PROGRESS] [Franchisee profile](franchise/franchisee_profile.md)
+- [DRAFT – core philosophy added] [Franchise messaging: ownership language](franchise/franchise_messaging_ownership_language.md)
 
 ## Operations
 - [READY] [Staffing and shift structure](04_operations_and_sops/staffing_and_shift_structure.md)
@@ -38,6 +43,9 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [IN PROGRESS] [Roles and staffing model](operations/roles_and_staffing_model.md)
 - [IN PROGRESS] [Enrollment and house rules script](operations/enrollment_and_house_rules_script.md)
 - [IN PROGRESS] [Daily checklists](operations/daily_checklists)
+
+## People & Culture
+- [DRAFT – core philosophy added] [Why we work here](people_and_culture/why_we_work_here.md)
 
 ## Tech
 - [DRAFT] [AI GM system architecture](tech/AI_GM_system_architecture.md)
