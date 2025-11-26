@@ -1,9 +1,9 @@
 # Host / Front-of-House SOP  
-Co.work.play Café
+Co.work.PLAY Café
 
 ## 1. Role Purpose
 
-The Host is the **first and last impression** of Co.work.play Café.
+The Host is the **first and last impression** of Co.work.PLAY Café.
 
 They are responsible for:
 
@@ -54,7 +54,7 @@ The Host is not “just a cashier” – they are the **traffic controller** and
 ### 4.1 Member – No Reservation
 
 1. **Greeting**  
-   - “Hi, welcome to Co.work.play Café! Are you a member with us today?”
+   - “Hi, welcome to Co.work.PLAY Café! Are you a member with us today?”
 
 2. **Lookup**  
    - Search by last name, phone, or membership ID.

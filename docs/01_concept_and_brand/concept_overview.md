@@ -1,10 +1,10 @@
-# Co.work.play Café Concept Overview
+# Co.work.PLAY Café Concept Overview
 
 ## Purpose of This Document
-This overview describes the Co.work.play Café concept for flagship operators, franchisees, designers, and investors. It explains how the café, cowork, and supervised play components integrate into a single family-first third place.
+This overview describes the Co.work.PLAY Café concept for flagship operators, franchisees, designers, and investors. It explains how the café, cowork, and supervised play components integrate into a single family-first third place.
 
 ## Big Idea
-Co.work.play Café combines specialty coffee, flexible workspace, and staffed play zones so parents and caregivers can work productively while children are engaged safely nearby. The flagship Phoenix site (≈8,500 SF) proves the model; franchise formats adapt the same experience to 4–9k SF footprints.
+Co.work.PLAY Café combines specialty coffee, flexible workspace, and staffed play zones so parents and caregivers can work productively while children are engaged safely nearby. The flagship Phoenix site (≈8,500 SF) proves the model; franchise formats adapt the same experience to 4–9k SF footprints.
 
 ## Who We Serve
 - **Remote and hybrid parents** who need predictable focus time close to their children.

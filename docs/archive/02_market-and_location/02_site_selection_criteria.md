@@ -1,4 +1,4 @@
-# Site Selection Criteria – Co.work.play Café
+# Site Selection Criteria – Co.work.PLAY Café
 
 ## 1. Overall Strategy
 

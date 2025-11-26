@@ -1,8 +1,8 @@
-# Co.work.play Café – Concept Overview
+# Co.work.PLAY Café – Concept Overview
 
 ## 1. What Co.work.play Is
 
-Co.work.play Café is a membership-based cowork café with supervised play for young children.
+Co.work.PLAY Café is a membership-based cowork café with supervised play for young children.
 
 It combines:
 

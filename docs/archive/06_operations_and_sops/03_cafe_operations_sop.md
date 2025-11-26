@@ -1,5 +1,5 @@
 # Café Operations SOP  
-Co.work.play Café
+Co.work.PLAY Café
 
 ## 1. Role Purpose
 

@@ -1,7 +1,7 @@
 # Flagship Business Plan – Phoenix Metro (≈8,500 SF)
 
 ## Purpose
-Provide the narrative business plan for the first Co.work.play Café flagship, aligning leadership, investors, lenders, and landlord partners around market fit, programming, and financial performance.
+Provide the narrative business plan for the first Co.work.PLAY Café flagship, aligning leadership, investors, lenders, and landlord partners around market fit, programming, and financial performance.
 
 ## Market Context
 - **Location thesis:** East Valley/Scottsdale border with strong young family density, high dual-income households, and proximity to healthcare/tech employers with remote policies.

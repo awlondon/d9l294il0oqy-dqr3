@@ -1,9 +1,9 @@
-# Co.work.play Café Brand Identity Overview
+# Co.work.PLAY Café Brand Identity Overview
 
 For a high-level summary, see [Brand One-Pager](./brand_one_pager.md).
 
 ## Brand Essence
-Co.work.play Café blends a modern coworking environment with supervised play and a welcoming café. The identity must balance credibility for working parents with warmth and delight for kids, making the space feel productive, safe, and lively.
+Co.work.PLAY Café blends a modern coworking environment with supervised play and a welcoming café. The identity must balance credibility for working parents with warmth and delight for kids, making the space feel productive, safe, and lively.
 
 ## Personality & Tone
 - **Modern & resourceful:** Confident, organized, and tech-aware to reassure working adults.

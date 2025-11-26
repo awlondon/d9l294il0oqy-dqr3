@@ -1,5 +1,5 @@
 # Cleaning & Safety Checklists  
-Co.work.play Café
+Co.work.PLAY Café
 
 > This document defines **who does what**, **how often**, and **what counts as “done”**  
 > for cleaning and safety procedures across the space.
@@ -208,7 +208,7 @@ Use these two sheets in Word/Docs and export as a 2-page PDF for daily use.
 
 **Title:**
 
-Co.work.play Café – Daily Cleaning & Safety Checklist (Opening & Closing)  
+Co.work.PLAY Café – Daily Cleaning & Safety Checklist (Opening & Closing)  
 Date: ________ Manager: ________
 
 #### A. Opening – Before First Guests
@@ -345,7 +345,7 @@ Closing completed by: _______ Time: _______
 
 **Title:**
 
-Co.work.play Café – Midday & Weekly Cleaning / Safety Checklist  
+Co.work.PLAY Café – Midday & Weekly Cleaning / Safety Checklist  
 Week of: ________ Manager: ________
 
 #### A. Midday – During Service (Repeat Throughout Day)
@@ -403,7 +403,7 @@ Manager weekly review complete: ______ Date: ______
 
 > Copy/paste into a single page; add checkboxes or lines as needed.
 
-Co.work.play Café — Daily Cleaning & Safety Checklist
+Co.work.PLAY Café — Daily Cleaning & Safety Checklist
 
 Date: ____________  Open by: ____________  Close by: ____________
 

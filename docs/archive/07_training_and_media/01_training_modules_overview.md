@@ -1,4 +1,4 @@
-# Training Modules Overview – Co.work.play Café
+# Training Modules Overview – Co.work.PLAY Café
 
 This document maps the core training modules for flagship and franchise locations.  
 Each module is delivered via:

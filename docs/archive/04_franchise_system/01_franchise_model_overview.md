@@ -1,4 +1,4 @@
-# Franchise Model Overview – Co.work.play Café
+# Franchise Model Overview – Co.work.PLAY Café
 
 ## 1. Strategic Role of Franchising
 

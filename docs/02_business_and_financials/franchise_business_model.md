@@ -1,7 +1,7 @@
 # Franchise Business Model
 
 ## Purpose
-Outline the commercial structure, responsibilities, and unit economics for Co.work.play Café franchisees and the franchisor.
+Outline the commercial structure, responsibilities, and unit economics for Co.work.PLAY Café franchisees and the franchisor.
 
 ## Fee Structure
 - **Initial franchise fee:** $50,000 (includes site review, design kit, training, and launch support).

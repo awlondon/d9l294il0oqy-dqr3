@@ -4,11 +4,11 @@
 Template email/RFP language to solicit proposals from architecture and interior design firms for flagship or franchise builds.
 
 ## RFP Email Draft
-Subject: RFP – Co.work.play Café [Flagship/Franchise] Architecture & Interiors
+Subject: RFP – Co.work.PLAY Café [Flagship/Franchise] Architecture & Interiors
 
 Hello [Firm Name],
 
-Co.work.play Café is an 8,500 SF café + cowork + supervised play concept launching in the Phoenix metro, with franchise rollouts planned nationally. We are seeking an architecture/interiors partner to lead test-fit, permitting, and construction documentation while protecting a warm-modern, family-friendly experience.
+Co.work.PLAY Café is an 8,500 SF café + cowork + supervised play concept launching in the Phoenix metro, with franchise rollouts planned nationally. We are seeking an architecture/interiors partner to lead test-fit, permitting, and construction documentation while protecting a warm-modern, family-friendly experience.
 
 **Scope Highlights**
 - Space planning for café, cowork, play (2–5), under-2 room, party/flex studio, meeting rooms, and back-of-house.
@@ -41,4 +41,4 @@ Please reply with your relevant experience (hospitality + family), proposed team
 Thank you,
 [Name]
 [Role]
-Co.work.play Café
+Co.work.PLAY Café
