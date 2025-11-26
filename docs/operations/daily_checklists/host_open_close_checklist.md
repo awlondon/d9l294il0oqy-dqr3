@@ -6,6 +6,7 @@
 - Log into POS/membership system; confirm cash drawer starting balance (if used).
 - Walk entry/lobby for hazards; confirm stroller/parking zones marked.
 - Review birthday/party schedule and expected tours; prep welcome notes.
+- Walk the floor to confirm seat signage and QR codes are present, visible, and match the seat map.
 
 ## Mid-Shift
 - Greet each party; verify authorized adults and apply matching wristbands/QRs.
