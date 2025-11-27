@@ -95,6 +95,14 @@ This mix yields 100 stores across 14 metros with a balanced national and cross-b
 | 10 | Toronto | 4 | 7 | 100 |
 | 10 | Vancouver | 7 | 7 | 100 |
 
+## Years 7–10 Focus
+
+- Continue expansion of core neighborhood / community-center units in new and existing metros.
+- Evaluate 1–2 pilot **Co.work.PLAY Express** locations at international airports or major transit hubs, only if:
+  - Core unit economics are strong and stable.
+  - A suitable airport operator or concessionaire partnership is in place.
+- Airport pilots are optional and not required to achieve the 100-store plan; the store count math assumes core neighborhood units carry the growth.
+
 ## System Revenue and Royalties by Year
 
 | Year | Total stores | Approx. system revenue ($M) | Royalties 6% ($M) | Marketing 2% ($M) |

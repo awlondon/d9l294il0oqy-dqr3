@@ -25,3 +25,10 @@
 - Concept renderings and operational playbooks in development.
 - Site selection underway for Phoenix flagship.
 - Franchise recruiting and owner readiness programming planned post-flagship launch.
+
+## Long-Term Vision / Future Growth Options
+
+- **Airport / Transit Hubs (Future Option)**
+  - Potential Phase 3–4 “Co.work.PLAY Express” concept for international airports and major transit hubs.
+  - High-visibility brand presence and premium short-stay offering for traveling families.
+  - To be explored only after the core flagship + neighborhood model is proven across multiple metros.
