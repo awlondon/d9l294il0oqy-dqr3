@@ -15,6 +15,10 @@ Overview of training modules and linked assets; use as the table of contents for
   - Learning objectives: safety supervision, dirty-toy flow, incident logging, capacity management.
   - Script: `video_scripts/play_attendant_safety_02.md`
   - Sora prompts: `Sora_prompt_library.md` (Play attendant prompts)
+- **Shared Caregivers & Nannies**
+  - Audience: Hosts, Managers, Play Attendants.
+  - Learning objectives: check-in flows for caregivers with children from multiple families, verifying Approved Caregivers, applying ratio guidance, and clearly stating on-site responsibility.
+  - Assets: Script for shared caregiver video (to be added), excerpts from Membership ToS and Children’s Safety & Wellness Policy.
 - **Café Operations**
   - Learning objectives: food safety, mobile order routing, robot handoff readiness, allergy communication.
   - Script: pending (`video_scripts/cafe_ops_03.md` placeholder)
