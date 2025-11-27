@@ -65,3 +65,23 @@ Host (or Manager covering Host).
 ### End session
 - When member leaves or at end of time: Open Session → **End session**.
 - Confirm: “We’ve closed out your seat session. Any remaining charges will be on your account receipt.”
+
+## Check-In: Shared Caregivers & Nannies
+
+When a caregiver arrives with children from multiple families:
+
+1. Confirm identity:
+   - Ask for the caregiver’s name and check if they are an Approved Caregiver in one or more member accounts.
+2. For each child:
+   - Confirm the child’s name and age.
+   - Confirm which parent/guardian account they belong to.
+   - Verify that this caregiver is listed as an Approved Caregiver for that child.
+3. Confirm ratios:
+   - Ensure the total number of children under this caregiver does not exceed our internal ratio guidelines.
+   - If it does, politely explain that an additional adult will be required, or that we can only admit a smaller number of children at this time.
+4. Review responsibilities:
+   - Briefly remind the caregiver:  
+     “While our staff supervise the play environment, you remain responsible for the children in your care and must stay on site.”
+5. Complete check-in:
+   - Register all children as present under this caregiver’s visit.
+   - Assign a seat/workstation for the caregiver as usual.

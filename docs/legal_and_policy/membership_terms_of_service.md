@@ -13,6 +13,27 @@ Mirrors the outline in `docs/06_legal_and_policy/membership_terms_of_service.md`
 - ID may be requested at check-in or pick-up; photo preferences recorded in the account.
 - Access may be paused for nonpayment or safety concerns.
 
+## Shared Caregivers & Nannies
+
+### Approved Caregivers
+
+- Each member household may designate one or more **Approved Caregivers** (for example, a nanny, grandparent, relative, or close friend) who are allowed to bring the member’s child(ren) to Co.work.PLAY Café.
+- Approved Caregivers must be registered in the member’s account with full name and contact details.
+- The member is responsible for ensuring that Approved Caregivers understand and follow all house rules, safety policies, and wellness standards.
+
+### Multiple Families, One Caregiver
+
+- Co.work.PLAY Café allows a single Approved Caregiver (such as a nanny) to bring children from multiple member households, provided:
+  - Each child is registered under their own parent/guardian’s membership, and
+  - Each parent/guardian has actively designated that caregiver as an Approved Caregiver for their child(ren).
+- When an Approved Caregiver is on site with children from multiple households, they are considered the **caregiver of record** for that session. Children remain under their supervision and responsibility at all times while on the premises.
+
+### Responsibility & Non-Daycare Status
+
+- Co.work.PLAY Café is not a licensed daycare or childcare center. Our staff supervise the **environment** (including the play area) but do not replace the role of the accompanying caregiver.
+- At all times, a designated adult (member or Approved Caregiver) must be present on site and is responsible for the behavior, safety, and wellbeing of the children in their care.
+- Unless a specifically advertised staffed drop-off program is offered, visits are **on-site supervision only** and require the caregiver of record to stay for the duration of the session.
+
 ## Wellness & Safety Expectations
 - **24-hour non-sick policy:** Families agree not to visit if any listed adult/child has been symptomatic within the past 24 hours.
 - Follow posted house rules (socks in play zones, food in café areas, supervision requirements) and staff instructions.

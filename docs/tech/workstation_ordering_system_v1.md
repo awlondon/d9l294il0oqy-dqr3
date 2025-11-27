@@ -52,6 +52,35 @@
 - **order:** id, member_id, seat_code, items, total, payment_status, fulfillment_status, timestamps.
 - **notification:** id, member_id, seat_code, type (order_ready, thank_you, issue), channel, content, status.
 
+### Member
+
+- `id`
+- `first_name`, `last_name`
+- `email`, `phone`
+- `membership_type`
+- `status`
+- `default_payment_token_id`
+- `children[]` (list of Child records)
+- `approved_caregivers[]` (list of Adult profiles who may bring this member’s children)
+
+### Child
+
+- `id`
+- `first_name`, `last_name`
+- `date_of_birth`
+- `primary_guardian_member_id`
+- `notes` (allergies, medical, etc.)
+
+### Visit / Play Session
+
+- `id`
+- `caregiver_adult_id` (member or Approved Caregiver)
+- `children_present_ids[]` (list of Child ids)
+- `start_time`, `end_time`
+- `seat_session_id` (if caregiver is also using a workstation)
+
+`caregiver_adult_id` can reference the member themself or an Approved Caregiver who is linked to one or more member accounts, and `children_present_ids[]` may include children from different `primary_guardian_member_id` values.
+
 ## API Outline
 - `POST /seats/assign` – assign seat_code to member and open `seat_session`.
 - `POST /seats/{seat_code}/login` – claim active session via phone/email + PIN or QR token.

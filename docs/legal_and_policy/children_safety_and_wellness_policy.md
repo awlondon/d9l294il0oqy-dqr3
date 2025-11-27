@@ -12,6 +12,16 @@ Operational policy to protect children and set clear expectations for families.
 - **Staff roles:** Hosts manage entry/exit; play attendants monitor floor safety; café team enforces food/bev rules; managers oversee incidents.
 - **Capacity limits:** Enforced by zone; staff may meter entry to maintain safe ratios (e.g., under-2 zone at tighter ratios).
 
+### Shared Caregivers & Group Visits
+
+- For safety reasons, Co.work.PLAY Café may limit the number of children one caregiver can supervise at a time, based on age and activity level.
+- As a general guideline:
+  - One adult may supervise up to 3 children over age 3.
+  - For children under age 3, stricter ratios or additional adults may be required.
+- Our staff may refuse entry, request additional adults, or modify access if we believe a caregiver is responsible for more children than they can safely supervise in this environment.
+- Staff are instructed to treat the on-site caregiver (member or Approved Caregiver) as the primary point of contact for all behavior, safety, and wellness issues relating to the children in their group.
+- Note: Co.work.PLAY Café is a supervised play environment, not a licensed daycare facility. Our team supports safety and play, but does not assume full-time caregiver duties for any child.
+
 ## Conduct & Behavior
 - Gentle play expected; no climbing on non-play structures or roughhousing in crowded areas.
 - Adults responsible for their children’s behavior; staff may redirect or pause play to maintain safety.
