@@ -87,3 +87,14 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [READY] [Franchise prototype brief](03_architecture_and_design/franchise_prototype_brief.md)
 - [READY] [Interior design guidelines outline](03_architecture_and_design/interior_design_guidelines_outline.md)
 - [READY] [Architect RFP text](03_architecture_and_design/architect_rfp_text.md)
+
+## Long-Term Expansion
+
+### Phase 3–4: Airport / Transit Hub Exploration (Co.work.PLAY Express)
+
+- Develop an **Express** variant of Co.work.PLAY for international airports and major transit hubs.
+- Focus: short, high-value visits (30–90 minutes) for traveling families.
+- Status: **Future exploration only.** No current commitments for airport units until:
+  - Core flagship + neighborhood models are proven across multiple metros.
+  - Systems and economics are stable at scale.
+- See: [Airport / Transit Hub Concept – Future Exploration](./expansion/airport_transit_hub_concept.md)

@@ -11,3 +11,7 @@ Members can order from their seats and be served at their workstations via table
 
 ## Franchise Training Tone (for Owners)
 “Treat the corporate playbook as your scaffolding, not your prison. Our guardrails exist to protect children, guests, staff, and the long-term value of everyone’s investment. Inside those lines, you have real room to create: how your team greets guests, how you activate the community, what programming you layer on. We want owners who want to take that responsibility.”
+
+### Future Formats (Not Yet Available)
+
+In the long term, Co.work.PLAY may develop additional formats such as **Co.work.PLAY Express** units in airports or major transit hubs. These formats would require different unit economics, staffing, and program mix, and are not part of the initial franchise offerings. The current focus for franchisees is on neighborhood and community retail locations serving local families.
