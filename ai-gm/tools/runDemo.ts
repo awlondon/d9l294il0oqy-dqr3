@@ -7,7 +7,7 @@ startServer();
 
 function emit(event: AiGmEvent) {
   console.log(`[demo] ${event.type}`);
-  eventBus.publishEvent(event);
+  eventBus.publish(event);
 }
 
 function cycleEvents() {
