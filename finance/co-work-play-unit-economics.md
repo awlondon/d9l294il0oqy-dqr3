@@ -2,9 +2,18 @@
 
 This document captures the base mature-unit financial model for a Co.Work.Play hybrid coworking + café + play space. It is designed as a reference for both investors and franchisees when evaluating single-unit performance and multi-unit scalability.
 
+## Scope
+- Generic mature unit revenue baseline: **$2.0M/year**.
+- Phoenix flagship operates at a higher baseline captured in `phoenix-flagship-model.csv` and summarized in `finance/phoenix-flagship-summary.md`.
+- This document focuses on the generic unit model; Phoenix-specific costs and timelines live in the Phoenix files.
+
+## Who This Is For
+- Franchisees: use this to understand store-level EBITDA, payback timelines, and staffing guardrails before committing to a build.
+- Investors: use this to gauge system-wide fee revenue, multi-unit scaling potential, and thresholds that preserve brand health.
+
 ## 1. Single-Unit Revenue (Mature Store)
 
-Assumptions (steady state, Year 3+ for a generic unit; the Phoenix flagship uses the $3.0M annual / $250k monthly baseline captured in `phoenix-flagship-model.csv`):
+Assumptions (steady state, Year 3+ for a generic unit):
 
 - Total annual revenue per location: **$2,000,000** (illustrative for non-Phoenix units)
   - Café / Food & Beverage: **$900,000** (45%)
@@ -38,12 +47,6 @@ Annual operating expense assumptions:
 **Total Opex (pre-fees) = $1,060,000**
 
 Labor sensitivity analysis is provided in `finance/co-work-play-labor-sensitivity.csv`, showing how store-level EBITDA margin degrades as labor costs rise above the 30% baseline.
-
-Training & recruiting guardrails that align with the Phoenix flagship model:
-
-- Year 1 training & recruiting budget: **4–6% of payroll**
-- Stabilized training & recruiting budget: **2–3% of payroll**
-- Red flag: if total labor (wages + taxes + training/recruit) exceeds **35–37% of revenue** for more than three consecutive months, trigger an operational review and staffing plan reset.
 
 > **EBITDA before franchise fees = 1,610,000 – 1,060,000 = $550,000 (~27.5% margin)**
 
@@ -81,7 +84,13 @@ Target positioning:
 - Mature-unit EBITDA margin after all fees: **18–20%**
 - Payback window: **3–4 years** at steady state
 
-## 6. Multi-Unit & Franchisor Economics (Illustrative)
+## 6. Per-Square-Foot Snapshot
+- Typical generic unit size: **~7,000 ft²**.
+- Revenue/ft²: 2,000,000 ÷ 7,000 ≈ **$286/ft²**.
+- EBITDA/ft² (after fees): 370,000 ÷ 7,000 ≈ **$53/ft²**.
+- Use these figures to benchmark against other retail, café, and family entertainment concepts.
+
+## 7. Multi-Unit & Franchisor Economics (Illustrative)
 
 ### 10 Mature Units
 
@@ -97,12 +106,14 @@ Target positioning:
 
 These figures exclude one-time franchise fees and corporate overhead, which are handled in a separate model.
 
-## 7. Churn and CAC Sensitivity
+## 8. Sensitivities
+- **Labor creep:** At 35% labor ($700k), EBITDA after fees falls to **~$270k (~13.5% margin)**; at 37% labor ($740k), EBITDA after fees trends toward **~$230k (~11.5% margin)**. Crossing **35–37%** for three consecutive months is a red flag that should trigger staffing and scheduling redesign.
+- **Churn & CAC:** `finance/co-work-play-churn-cac-model.csv` tracks low/base/high churn at 3% / 5% / 8% monthly. Higher churn raises required new members to hold ~350 active members and cuts LTV; in the high (8%) case, CAC must fall materially or retention programs must improve before adding units.
+- **Ramp & cash:** `finance/co-work-play-ramp-model.csv` approximates ramp, operating leverage, and runway; falling below planned visit conversion or above planned burn is a red flag for slowing expansion.
 
-Churn and CAC assumptions are modeled in `finance/co-work-play-churn-cac-model.csv`.
-
-We explicitly track LTV and healthy CAC ranges at 3%, 5%, and 8% monthly churn, and we compute the new members per month required to hold 350 active members steady.
-
-## 8. Ramp and Cash Runway
+## 9. Ramp and Cash Runway
 
 A simple 24-month ramp and cash runway model is in `finance/co-work-play-ramp-model.csv`. It approximates revenue ramp, operating leverage, and cumulative cash to illustrate required runway (6–9 months of operating buffer is recommended).
+
+## Disclaimer
+Numbers are illustrative, not investment, legal, or tax advice, and are subject to change as vendor quotes and operating data evolve.
