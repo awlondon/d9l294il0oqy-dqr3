@@ -1,8 +1,8 @@
-# Franchise Model Overview – Co.work.PLAY Café
+# Franchise Model Overview – Co.work.PLAY Cafe
 
 ## 1. Strategic Role of Franchising
 
-The long-term value of Co.work.play lies in:
+The long-term value of Co.work.PLAY lies in:
 
 - **Brand + IP** – a tested concept for remote-first families.
 - **Playbook** – proven layouts, staffing models, membership structures.
@@ -16,9 +16,9 @@ The **Phoenix flagship** is the prototype and training hub. Franchising allows r
 
 We plan to standardize three primary format templates:
 
-1. **Neighborhood Co.work.play (5–6k SF)**
+1. **Neighborhood Co.work.PLAY (5–6k SF)**
    - Located in family-heavy, car-oriented neighborhoods.
-   - Strong play and café components; leaner cowork.
+   - Strong play and cafe components; leaner cowork.
 
 2. **Urban Compact (4–5k SF)**
    - High-density urban or inner-ring locations.
@@ -26,7 +26,7 @@ We plan to standardize three primary format templates:
 
 3. **Destination Flagship (8–9k SF)**
    - Larger regional centers or premium neighborhoods.
-   - Full program (café, extensive play, cowork, party room) – based on Phoenix flagship.
+   - Full program (cafe, extensive play, cowork, party room) – based on Phoenix flagship.
 
 Each format will have a defined program, capacity, and indicative CapEx range.
 
@@ -34,7 +34,7 @@ Each format will have a defined program, capacity, and indicative CapEx range.
 
 - **Play:** Core play hall, infant/toddler zones, and modular party room that can flex into overflow weekend seating.
 - **Cowork:** Mix of open seating and reservable phone booths or micro offices; add lounge zones for smaller footprints.
-- **Café:** Counter-service espresso bar with speed-line items; small kitchens focus on reheating/assembly for consistency across franchisees.
+- **Cafe:** Counter-service espresso bar with speed-line items; small kitchens focus on reheating/assembly for consistency across franchisees.
 - **Support spaces:** Family restrooms with changing tables, janitorial and trash staging, office/storage sized to fit format.
 - **Safety and security:** Controlled entries to play zones, camera coverage for public areas, and defined egress/ADA clearances baked into every template.
 
@@ -42,7 +42,7 @@ Each format will have a defined program, capacity, and indicative CapEx range.
 
 ## 3. Franchisor & Franchisee Roles
 
-**Franchisor (Co.work.play HQ)**
+**Franchisor (Co.work.PLAY HQ)**
 
 - Provides:
   - Brand, trademarks, and visual identity.
@@ -89,7 +89,7 @@ Primary franchisor revenue streams (details in separate doc):
 - Build-out and equipment cost varies with format and market.  
 - Revenue comes from:
   - Memberships and day passes.
-  - Café sales.
+  - Cafe sales.
   - Parties, events, and classes.
   - Room rentals (meeting pods, private nursing rooms during events).
   - Camps or seasonal programming (where licensing permits).
@@ -102,7 +102,7 @@ Franchisee targets:
 Key levers:
 
 - Pre-sales goal of ~150 founding memberships and booked parties before opening to smooth cash ramp.
-- Labor as the controllable cost center—cross-train host/play/café hybrid roles and align staffing to real-time demand.
+- Labor as the controllable cost center—cross-train host/play/cafe hybrid roles and align staffing to real-time demand.
 - Pricing discipline: periodic HQ-led reviews to align with inflation, competitive set, and brand positioning.
 
 Detailed assumptions and scenarios live in:

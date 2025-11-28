@@ -1,15 +1,15 @@
 # Co.Work.Play Business Model Overview
 
 ## Concept Overview
-Co.Work.Play blends coworking, specialty café, and supervised play into a single destination for parents, remote workers, and families. The concept targets households that value flexible work options and high-quality third spaces where kids are engaged while adults work or socialize.
+Co.Work.Play blends coworking, specialty cafe, and supervised play into a single destination for parents, remote workers, and families. The concept targets households that value flexible work options and high-quality third spaces where kids are engaged while adults work or socialize.
 
 ## Revenue Streams
-- Café: espresso, light food, and grab-and-go items with steady daypart traffic.
+- Cafe: espresso, light food, and grab-and-go items with steady daypart traffic.
 - Cowork: memberships, day passes, conference rooms, and dedicated desks.
 - Events: birthday parties, buyouts, classes, and seasonal programming.
 
 ## Cost Structure
-- COGS: food and beverage inputs with café margins tuned to ~35% COGS, lower COGS on cowork and events.
+- COGS: food and beverage inputs with cafe margins tuned to ~35% COGS, lower COGS on cowork and events.
 - Labor: baristas, kitchen, play attendants, and management; disciplined scheduling tied to traffic.
 - Rent & occupancy: negotiated on high-visibility sites with family-friendly zoning.
 - Core OpEx: utilities, insurance, marketing, cleaning, POS/networking, and **AI-GM** operations.

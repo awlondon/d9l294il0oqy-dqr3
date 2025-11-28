@@ -1,6 +1,6 @@
 # CapEx Budget Summary
 
-- **Build-out and finishes**: Assumes warm shell to finished café + play interiors.
+- **Build-out and finishes**: Assumes warm shell to finished cafe + play interiors.
 - **Play equipment**: Custom play structures, soft play for under-2, and safety surfacing.
 - **Kitchen and bar**: Espresso/coffee program, light food prep, dish, and back bar equipment.
 - **Furniture and fixtures**: Cowork tables, chairs, banquettes, party room furniture, and storage.

@@ -1,16 +1,16 @@
 # Host / Front-of-House SOP  
-Co.work.PLAY Café
+Co.work.PLAY Cafe
 
 ## 1. Role Purpose
 
-The Host is the **first and last impression** of Co.work.PLAY Café.
+The Host is the **first and last impression** of Co.work.PLAY Cafe.
 
 They are responsible for:
 
 - Greeting every adult and child with warmth and clarity.
 - Managing check-in for **members, reservations, and guest day passes**.
 - Helping control flow into the play areas and cowork zones.
-- Coordinating with the Play Attendant and Café team to keep the experience smooth and safe.
+- Coordinating with the Play Attendant and Cafe team to keep the experience smooth and safe.
 
 The Host is not “just a cashier” – they are the **traffic controller** and **vibe keeper**.
 
@@ -26,7 +26,7 @@ The Host is not “just a cashier” – they are the **traffic controller** and
 - Direct guests to:
   - Play areas,
   - Cowork zones, and
-  - Café/bar.
+  - Cafe/bar.
 - Manage waitlist when at capacity.
 - Notify Manager of incidents, complaints, or safety concerns.
 - Maintain a clean, tidy front entry.
@@ -54,7 +54,7 @@ The Host is not “just a cashier” – they are the **traffic controller** and
 ### 4.1 Member – No Reservation
 
 1. **Greeting**  
-   - “Hi, welcome to Co.work.PLAY Café! Are you a member with us today?”
+   - “Hi, welcome to Co.work.PLAY Cafe! Are you a member with us today?”
 
 2. **Lookup**  
    - Search by last name, phone, or membership ID.
@@ -72,14 +72,14 @@ The Host is not “just a cashier” – they are the **traffic controller** and
    - Point out:
      - Play areas and age zones.
      - Cowork areas (quiet vs open).
-     - Café ordering location.
+     - Cafe ordering location.
      - Restrooms / nursing-friendly spaces.
 
 6. **Handoff**  
    - If child is going straight into play room:
      - Radio or verbally notify Play Attendant:
        - “New member: [Child name + age], [brief note].”
-   - Politely direct adult to Café or Cowork.
+   - Politely direct adult to Cafe or Cowork.
 
 ---
 
@@ -109,7 +109,7 @@ The Host is not “just a cashier” – they are the **traffic controller** and
    - “Is this your first time here? I can walk you through how it works.”
 
 2. **Brief pitch** (30–45 seconds max)  
-   - What Co.work.play is (café + cowork + supervised play).  
+   - What Co.work.PLAY is (cafe + cowork + supervised play).  
    - That we are *not* a daycare; adults remain on-site.  
    - Today’s options:
      - Guest day pass (with price),
@@ -131,7 +131,7 @@ The Host is not “just a cashier” – they are the **traffic controller** and
    - Play rules (no shoes where required, no outside food in play, etc.).  
    - Rough time limit / duration of day pass if applicable.
 
-6. **Handoff to Play Attendant / Café**  
+6. **Handoff to Play Attendant / Cafe**  
    - Introduce them if possible: “This is [Play Attendant’s name]; they’ll help your kiddo get settled.”
 
 ---
@@ -143,11 +143,11 @@ The Host is not “just a cashier” – they are the **traffic controller** and
     - Adult name, child name, phone, arrival time.
   - Provide realistic wait time estimates.
   - Offer:
-    - Café-only seating,
+    - Cafe-only seating,
     - Option to reschedule if wait is long.
 
 - When **cowork** or **quiet area** is full:
-  - Direct overflow to café seating.
+  - Direct overflow to cafe seating.
   - Note patterns for Manager to adjust staffing/layout.
 
 ---
@@ -173,7 +173,7 @@ The Host is not “just a cashier” – they are the **traffic controller** and
 - Host stand stocked: wristbands, pens, clipboards, wipes.
 - POS logged in and tested.
 - Walk front entry for cleanliness and safety (no tripping hazards).
-- Confirm with Play Attendant and Café that they’re ready.
+- Confirm with Play Attendant and Cafe that they’re ready.
 
 **Closing**
 

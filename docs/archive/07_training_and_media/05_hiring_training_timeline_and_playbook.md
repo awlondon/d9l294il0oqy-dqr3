@@ -34,8 +34,8 @@ Single-page view to drop into slides. Use shaded blocks (■) per cell to show a
 | Hosts – Role Training (FOH)        |     |     |     |     | ■   | ■   | ■  |     |
 | Play Attendants – Hire & Orient    |     |     | ■   | ■   |     |     |    |     |
 | Play Attendants – Safety & Play    |     |     |     |     | ■   | ■   | ■  |     |
-| Café Team – Hire & Orient          |     |     | ■   | ■   |     |     |    |     |
-| Café – Menu & Service Training     |     |     |     |     | ■   | ■   | ■  |     |
+| Cafe Team – Hire & Orient          |     |     | ■   | ■   |     |     |    |     |
+| Cafe – Menu & Service Training     |     |     |     |     | ■   | ■   | ■  |     |
 | Support/Flex – Cross-Training      |     |     |     |     | ■   | ■   | ■  |     |
 
 ---
@@ -47,11 +47,11 @@ Use this as the master reference provided to franchisees (20–30 pages). Pair t
 ## 1. Introduction
 
 ### 1.1 Purpose of This Playbook
-- How to use this document to staff and train your Co.work.PLAY Café.
+- How to use this document to staff and train your Co.work.PLAY Cafe.
 - Scope: pre-opening, opening, and first 90 days.
 
 ### 1.2 Concept Recap
-- One-paragraph summary of Co.work.play and who it serves.
+- One-paragraph summary of Co.work.PLAY and who it serves.
 - Flagship-driven model, training hub, and why consistent hiring matters.
 
 ## 2. Roles & Org Structure
@@ -60,7 +60,7 @@ Use this as the master reference provided to franchisees (20–30 pages). Pair t
 - Manager / Shift Lead
 - Host / Front-of-House
 - Play Attendant
-- Café Operator / Barista
+- Cafe Operator / Barista
 - Support/Flex
 
 ### 2.2 Example Org Chart by Store Size
@@ -102,7 +102,7 @@ Use this as the master reference provided to franchisees (20–30 pages). Pair t
 ### 4.3 Interview Guides
 - Behavioral questions for Hosts (warmth, clarity).
 - Scenario questions for Play Attendants (safety, behavior).
-- Service and attention-to-detail questions for Café staff.
+- Service and attention-to-detail questions for Cafe staff.
 - Leadership and problem-solving questions for Manager.
 
 ### 4.4 Evaluation Rubrics
@@ -117,7 +117,7 @@ Use this as the master reference provided to franchisees (20–30 pages). Pair t
 ### 5.2 Training Modules by Role
 - Host modules (greeting, check-in flows, membership, policies).
 - Play Attendant modules (safety, engagement, incident response).
-- Café modules (menu, equipment, food safety, queue management).
+- Cafe modules (menu, equipment, food safety, queue management).
 - Manager modules (leadership, reporting, labor, guest recovery).
 
 ### 5.3 Modalities
@@ -134,7 +134,7 @@ Use this as the master reference provided to franchisees (20–30 pages). Pair t
 ### 6.2 Pre-Opening Checklist by Role
 - Host: complete modules H1–H5, shadow 2 soft-open events.
 - Play Attendant: modules P1–P6, safety walk-through sign-off.
-- Café: modules C1–C6, menu tasting and recipe quiz.
+- Cafe: modules C1–C6, menu tasting and recipe quiz.
 - Manager: modules M1–M8, run at least 2 full mock shifts.
 
 ### 6.3 Soft-Opening Playbook
@@ -150,7 +150,7 @@ Use this as the master reference provided to franchisees (20–30 pages). Pair t
 - Rapid feedback loop with franchisor.
 
 ### 7.2 Coaching & Observation
-- Manager observation sheets: what to look for at Host, Play, Café.
+- Manager observation sheets: what to look for at Host, Play, Cafe.
 - Short 1:1 coaching sessions each week for first month.
 
 ### 7.3 First 90 Days KPIs
@@ -164,7 +164,7 @@ Use this as the master reference provided to franchisees (20–30 pages). Pair t
 ### 8.1 Role-Based Checklists
 - “Host Fully Trained” checklist.
 - “Play Attendant Fully Trained” checklist.
-- “Café Operator Fully Trained” checklist.
+- “Cafe Operator Fully Trained” checklist.
 - “Manager Certified” checklist.
 
 ### 8.2 Quizzes & Scenario Tests

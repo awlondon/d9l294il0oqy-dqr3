@@ -9,13 +9,13 @@ Provide the structure for detailed finish, FF&E, and brand environment standards
    - Mood boards and reference imagery.
 2. **Space Planning Principles**
    - Sightlines from host to play; ADA and stroller circulation.
-   - Acoustic zoning between café/cowork and play.
+   - Acoustic zoning between cafe/cowork and play.
 3. **Finish Standards**
-   - Floors: resilient plank in café/cowork, rubberized in play, tile in restrooms.
+   - Floors: resilient plank in cafe/cowork, rubberized in play, tile in restrooms.
    - Walls: washable paint specs, impact protection at kid-height, accent panels.
-   - Ceilings: acoustic baffles over play, wood slats/soft clouds over café and cowork.
+   - Ceilings: acoustic baffles over play, wood slats/soft clouds over cafe and cowork.
 4. **Millwork & Casework**
-   - Café bar layout with service heights; lockable undercounter storage.
+   - Cafe bar layout with service heights; lockable undercounter storage.
    - Host stand with check-in tech, cubbies, and stroller/merch integration.
 5. **FF&E**
    - Seating typologies (banquettes, stacking chairs, lounge, high chairs), durability criteria, cleanability tests.

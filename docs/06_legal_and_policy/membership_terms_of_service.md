@@ -15,7 +15,7 @@ Draft for counsel review; references current membership products and wellness po
 
 ## Wellness & Safety Expectations
 - **24-hour non-sick policy:** Families agree not to visit if any listed adult/child has been symptomatic within the past 24 hours.
-- Follow posted house rules (socks in play zones, food in café areas, supervision requirements) and staff instructions.
+- Follow posted house rules (socks in play zones, food in cafe areas, supervision requirements) and staff instructions.
 - Staff may redirect guests to the “dirty toy” station or cleaning queue when items are soiled.
 
 ## Cancellations, Pauses, and Refunds

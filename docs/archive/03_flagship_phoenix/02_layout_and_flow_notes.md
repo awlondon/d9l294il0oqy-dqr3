@@ -4,9 +4,9 @@
 
 The flagship layout is organized into **three vertical bands** across a 100' (width) x 85' (depth) rectangle:
 
-1. **Left (Adult Zone)** – Café Seating & Lounge, Open Cowork, Quiet Cowork/Phone.  
+1. **Left (Adult Zone)** – Cafe Seating & Lounge, Open Cowork, Quiet Cowork/Phone.  
 2. **Center (Family Core)** – Entry/Host/Retail, Main Toddler Play, Baby/Under-2 & Sensory.  
-3. **Right (Service Spine)** – Café Bar & To-Go, Multi-Use/Party Room, Restrooms + BOH/Kitchen.
+3. **Right (Service Spine)** – Cafe Bar & To-Go, Multi-Use/Party Room, Restrooms + BOH/Kitchen.
 
 The goal is to keep adults and children **connected but not in each other’s way**.
 
@@ -22,8 +22,8 @@ Refer to:
 - **Main entry** at center front, opening into the Entry/Host zone.
 - **Host desk** offset toward the right, creating a clear *line-of-sight* path to:
   - Main toddler play zone (straight ahead).
-  - Café seating (left).
-  - Café bar and multi-use room (right).
+  - Cafe seating (left).
+  - Cafe bar and multi-use room (right).
 
 Key elements:
 
@@ -36,9 +36,9 @@ Key elements:
 
 ---
 
-## 3. Adult Zone – Café & Cowork
+## 3. Adult Zone – Cafe & Cowork
 
-**Café Seating & Lounge (front-left)**
+**Cafe Seating & Lounge (front-left)**
 
 - Clusters of small tables for families or solo laptop users.  
 - A wall banquette and a small lounge cluster (two sofas + coffee table).  
@@ -64,7 +64,7 @@ Key elements:
 
 - Central climber / play structure.  
 - Four play “pods” in the corners (e.g., reading nook, pretend kitchen, building blocks).  
-- Perimeter benches along café-facing edge for supervising adults.  
+- Perimeter benches along cafe-facing edge for supervising adults.  
 - Low fence or gate toward entry to control access.
 
 **Baby / Under-2 & Sensory (back-center)**
@@ -78,7 +78,7 @@ Key elements:
 
 ## 5. Service Spine – Bar, Party, BOH
 
-**Café Bar & To-Go (front-right)**
+**Cafe Bar & To-Go (front-right)**
 
 - Primary espresso and beverage bar.  
 - Back bar with refrigeration, storage, and small prep.  
@@ -105,10 +105,10 @@ Key elements:
 
 - Central **spine from entry**:
   - Visual access to play immediately when you walk in.
-  - Clear signage and intuitive branching into café, cowork, and party room.
+  - Clear signage and intuitive branching into cafe, cowork, and party room.
 
 - Parents can:
-  - Sit in the café or cowork and still see the play area.
+  - Sit in the cafe or cowork and still see the play area.
   - Move quickly between laptop and child if needed.
 
 These notes should be used by design professionals alongside the floorplan PDFs to create detailed architectural and interior design drawings.

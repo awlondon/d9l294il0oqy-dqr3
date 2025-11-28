@@ -3,8 +3,8 @@ import ZoneMarker from './ZoneMarker';
 const zones = [
   { title: 'Open Cowork', description: 'Communal tables and lounge seating with power everywhere.', icon: '🧑‍💻', x: 30, y: 25 },
   { title: 'Quiet Cowork / Phone', description: 'Eight focus desks plus two phone rooms.', icon: '🤫', x: 55, y: 18 },
-  { title: 'Café Seating & Lounge', description: 'Soft seating wrapped around the café bar.', icon: '☕', x: 20, y: 55 },
-  { title: 'Café Bar & To-Go', description: 'Order specialty drinks and grab-and-go bites.', icon: '🥐', x: 48, y: 62 },
+  { title: 'Cafe Seating & Lounge', description: 'Soft seating wrapped around the cafe bar.', icon: '☕', x: 20, y: 55 },
+  { title: 'Cafe Bar & To-Go', description: 'Order specialty drinks and grab-and-go bites.', icon: '🥐', x: 48, y: 62 },
   { title: 'Main Toddler Play', description: 'Climbing cubes, slides, and imaginative play corners.', icon: '🧸', x: 70, y: 50 },
   { title: 'Under-2 & Sensory', description: 'Soft mats, sensory bins, and cozy lighting.', icon: '🌿', x: 75, y: 65 },
   { title: 'Multi-Use / Party Room', description: 'Bookable for classes, meetings, or weekend celebrations.', icon: '🎈', x: 60, y: 80 }
@@ -31,7 +31,7 @@ const ZonesMap = () => {
       <div className="mx-auto max-w-5xl px-4 py-10 text-center sm:px-6">
         <h3 className="section-title">Every zone has a story</h3>
         <p className="section-subtitle mx-auto">
-          Hover over each marker to see how the floor plan blends café culture, coworking focus, and play-forward safety.
+          Hover over each marker to see how the floor plan blends cafe culture, coworking focus, and play-forward safety.
         </p>
         <a
           href="/assets/floorplan.pdf"

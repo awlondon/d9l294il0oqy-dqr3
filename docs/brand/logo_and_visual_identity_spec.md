@@ -1,6 +1,6 @@
 # Logo and Visual Identity Spec
 
-Guidelines for using the Co.work.PLAY Café logo across digital and physical touchpoints.
+Guidelines for using the Co.work.PLAY Cafe logo across digital and physical touchpoints.
 
 ## Logo Usage
 - Maintain clear space equal to the height of the “C” around all sides.

@@ -1,9 +1,9 @@
-# Co.work.PLAY Café Logo Specification
+# Co.work.PLAY Cafe Logo Specification
 
 For a narrative overview of the brand, see `brand_one_pager.md`.
 
 ## Logo Concept – Overview
-The Co.work.PLAY Café logo is a **text-only wordmark** made of three coordinated parts:
+The Co.work.PLAY Cafe logo is a **text-only wordmark** made of three coordinated parts:
 - **“Co.work.”** signals a modern coworking experience with a technical, professional tone.
 - **“PLAY”** introduces warmth and kid-friendly energy through rounded letters and individual bright colors inspired by Toys R Us without copying their shapes.
 - **“Cafe”** adds an elegant hospitality note, softening the mark and making it approachable.

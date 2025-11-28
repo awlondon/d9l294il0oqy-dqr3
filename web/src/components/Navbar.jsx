@@ -6,7 +6,7 @@ const navLinks = [
   { href: '/about', label: 'About' },
   { href: '/zones', label: 'Visit' },
   { href: '/menu', label: 'Menu' },
-  { href: '/franchise', label: 'Own a Café' },
+  { href: '/franchise', label: 'Own a Cafe' },
   { href: '/careers', label: 'Careers' },
   { href: '/party', label: 'Party' },
   { href: '/staff', label: 'Staff Portal' }
@@ -20,7 +20,7 @@ const Navbar = () => {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
         <Link href="/" className="flex items-center gap-2 text-lg font-heading font-extrabold text-brand-espresso">
           <span className="h-3 w-3 rounded-full bg-brand-sunset" aria-hidden />
-          Co.work.play
+          Co.work.PLAY
         </Link>
         <button
           type="button"

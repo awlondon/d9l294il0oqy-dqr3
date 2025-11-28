@@ -1,20 +1,20 @@
 # Target Customer Profiles
 
 ## Purpose
-These profiles guide programming, pricing, and marketing for both the Phoenix flagship and franchise locations. They highlight motivations, friction points, and how Co.work.PLAY Café solves for them.
+These profiles guide programming, pricing, and marketing for both the Phoenix flagship and franchise locations. They highlight motivations, friction points, and how Co.work.PLAY Cafe solves for them.
 
 ## Remote Work Parents (Core)
 - **Who they are:** Dual-income households with children under 6; hybrid/remote roles in tech, healthcare admin, design, or education.
 - **Jobs-to-be-done:** Secure 2–4 hours of focused work while kids are nearby; avoid unreliable childcare or noisy coffee shops.
 - **Pain points:** Childcare gaps, unpredictable noise, lack of ergonomic seating, limited healthy food options.
-- **What wins them:** Guaranteed play supervision, reliable Wi-Fi and power, phone booths, membership discounts on café orders, easy booking of meeting rooms.
+- **What wins them:** Guaranteed play supervision, reliable Wi-Fi and power, phone booths, membership discounts on cafe orders, easy booking of meeting rooms.
 - **Marketing cues:** “Get work done while they play,” employer stipend-friendly memberships, weekday promos tied to school calendars.
 
 ## Freelancers & Micro Teams
 - **Who they are:** Designers, therapists, consultants, and micro agencies (2–6 people) who need occasional meeting space and prefer community over traditional coworking.
 - **Jobs-to-be-done:** Host clients, collaborate briefly, and tap into weekday energy without a long-term lease.
 - **Pain points:** Paying for unused office space; difficulty coordinating with teammates who are also parents.
-- **What wins them:** Hourly/day meeting room packages, café catering, priority booking, member storage lockers, and childcare add-ons during sprint days.
+- **What wins them:** Hourly/day meeting room packages, cafe catering, priority booking, member storage lockers, and childcare add-ons during sprint days.
 - **Marketing cues:** “Client-ready rooms with coffee handled,” team packs with bundled play credits.
 
 ## Caregivers & Grandparents

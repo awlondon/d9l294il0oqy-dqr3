@@ -3,16 +3,16 @@
 Savannah’s live script for onboarding new members during tours and first visits.
 
 ## Opening
-- “Welcome to Co.work.PLAY Café! I’m here to show you around and answer anything about memberships or day passes.”
+- “Welcome to Co.work.PLAY Cafe! I’m here to show you around and answer anything about memberships or day passes.”
 - Confirm household makeup (number/ages of kids, work needs) to tailor the tour.
 
 ## What You Can Expect from Us
 - Safe, clean play zones with attendants monitoring ratios and the “dirty toy” station.
-- Café with member discounts and fast mobile ordering; plenty of outlets and Wi-Fi for work.
+- Cafe with member discounts and fast mobile ordering; plenty of outlets and Wi-Fi for work.
 - Staff who will redirect unsafe behavior and keep the space calm and family-friendly.
 
 ## What We Ask from You
-- Keep an authorized adult on-site; socks in play areas; food stays in café/approved zones.
+- Keep an authorized adult on-site; socks in play areas; food stays in cafe/approved zones.
 - Follow the 24-hour non-sick policy; let us know if a toy or surface needs cleaning.
 - Be kind to staff and other families; we’ll step in if play gets rough or unsafe.
 

@@ -6,7 +6,7 @@
   - Critical path: landlord work letter, permit submission/approval, play structure fabrication, and IT/security install.
 - **Performance goals**: Target healthy cash-on-cash returns with payback in 3–5 years depending on capital stack and local rent.
   - Break-even volume generally reached at ~60–70% of steady-state monthly revenue; monitor labor and COGS to maintain margin glide path.
-- **Staffing model**: Lean operating teams with cross-trained hosts, play attendants, café staff, and a manager/owner-operator.
+- **Staffing model**: Lean operating teams with cross-trained hosts, play attendants, cafe staff, and a manager/owner-operator.
   - Owner-operator or GM anchors hiring and QA; add part-time bench for weekends/parties to protect service levels.
 - **Working capital**: Recommend 3–4 months of operating expenses reserved at opening to cover ramp plus marketing, training travel, and deposits for key vendors (POS, insurance, utilities).
 - **Unit expansion path**: Encourage multi-unit development agreements (2–3 units) where demographic density and household income support clustering to share management and training resources.

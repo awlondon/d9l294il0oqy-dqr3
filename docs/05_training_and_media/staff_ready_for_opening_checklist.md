@@ -6,7 +6,7 @@ Provide managers and franchisor support teams with a clear sign-off list to veri
 ## Team Certification
 - Hosts complete HOST-01 and HOST-02 modules; pass quiz (90%+) and live check-in demo.
 - Play attendants complete PLAY-01 and PLAY-03; pass headcount drill and first-aid verification.
-- Café operators complete CAFE-01 and CAFE-02; pass drink quality calibration and temp-log quiz.
+- Cafe operators complete CAFE-01 and CAFE-02; pass drink quality calibration and temp-log quiz.
 - Leads/Managers complete LEAD-01 and LEAD-02; run mock huddle and service recovery role-play.
 - CPR/First Aid and background checks documented for all staff.
 
@@ -17,7 +17,7 @@ Provide managers and franchisor support teams with a clear sign-off list to veri
 - POS, printers, access control, CCTV, Wi-Fi, and audio zones tested; backup power validated.
 
 ## Space & Equipment
-- Café equipment commissioned; water filters dated; ice machine cleaned; grinder burrs inspected.
+- Cafe equipment commissioned; water filters dated; ice machine cleaned; grinder burrs inspected.
 - Play structure inspected and signed off by installer; padding and anchors verified.
 - Under-2 room stocked with sanitized soft goods; storage locked for chemicals.
 - Restrooms stocked and signage installed; diaper disposal procedures posted.

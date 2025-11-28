@@ -6,7 +6,7 @@ Summarize the key operational and financial variables used in projections for th
 ## Guest & Volume Assumptions (Flagship)
 - **Families under membership:** ~350 active; average 2.2 visits/week.
 - **Day passes:** ~700/month; 18% convert to membership within 30 days.
-- **Café transactions:** ~5,500/month; average check $12 (includes grab-and-go and kids’ bentos).
+- **Cafe transactions:** ~5,500/month; average check $12 (includes grab-and-go and kids’ bentos).
 - **Party events:** ~24/month at $750 average ticket; 20% receive member discounts.
 - **Meeting rooms:** ~160 billable hours/month at $65 (member) blended rate.
 - **Classes/Programs:** ~180 enrollments/month at $45; camp weeks priced separately.
@@ -15,12 +15,12 @@ Summarize the key operational and financial variables used in projections for th
 ## Pricing & Discounts
 - Family membership: $320/month; sibling add-on $40.
 - Day pass: $35 for 2 hours; $12 per additional hour.
-- Café member discount: 10% on beverages/food.
+- Cafe member discount: 10% on beverages/food.
 - Corporate/HR bundle: 10% off membership list price when 10+ employees enrolled.
 
 ## Cost & Staffing Assumptions
-- **COGS:** ~32% on café items, 10% on merch; blended ~20% of total revenue.
-- **Labor mix:** Hosts (entry/check-in), play attendants (1:12 ratio; under-2 at 1:6), café team, party captains, shift leads, manager.
+- **COGS:** ~32% on cafe items, 10% on merch; blended ~20% of total revenue.
+- **Labor mix:** Hosts (entry/check-in), play attendants (1:12 ratio; under-2 at 1:6), cafe team, party captains, shift leads, manager.
 - **Labor cost:** ~32% of revenue at stabilization; includes taxes/benefits and 3% training allocation.
 - **Occupancy:** ~$24/SF NNN for flagship; ~$22/SF for typical franchise prototype.
 - **Marketing:** 3% of revenue locally, plus 2% brand fund for franchisees.

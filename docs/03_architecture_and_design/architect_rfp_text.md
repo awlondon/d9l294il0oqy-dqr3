@@ -4,16 +4,16 @@
 Template email/RFP language to solicit proposals from architecture and interior design firms for flagship or franchise builds.
 
 ## RFP Email Draft
-Subject: RFP – Co.work.PLAY Café [Flagship/Franchise] Architecture & Interiors
+Subject: RFP – Co.work.PLAY Cafe [Flagship/Franchise] Architecture & Interiors
 
 Hello [Firm Name],
 
-Co.work.PLAY Café is an 8,500 SF café + cowork + supervised play concept launching in the Phoenix metro, with franchise rollouts planned nationally. We are seeking an architecture/interiors partner to lead test-fit, permitting, and construction documentation while protecting a warm-modern, family-friendly experience.
+Co.work.PLAY Cafe is an 8,500 SF cafe + cowork + supervised play concept launching in the Phoenix metro, with franchise rollouts planned nationally. We are seeking an architecture/interiors partner to lead test-fit, permitting, and construction documentation while protecting a warm-modern, family-friendly experience.
 
 **Scope Highlights**
-- Space planning for café, cowork, play (2–5), under-2 room, party/flex studio, meeting rooms, and back-of-house.
+- Space planning for cafe, cowork, play (2–5), under-2 room, party/flex studio, meeting rooms, and back-of-house.
 - Finish and FF&E specification using our brand palette and cleanability standards.
-- Coordination with MEP for café equipment, laundry, and play structure loads/anchorage.
+- Coordination with MEP for cafe equipment, laundry, and play structure loads/anchorage.
 - Code review for assembly/mercantile/educational components; guidance on egress and accessibility.
 - Support for contractor bid set, submittal review, and site observation during build-out.
 
@@ -32,7 +32,7 @@ Co.work.PLAY Café is an 8,500 SF café + cowork + supervised play concept launc
 - Construction start: [date]
 
 **Information Provided**
-- Brand principles, program brief, prototype format guide, and café equipment list.
+- Brand principles, program brief, prototype format guide, and cafe equipment list.
 - Preliminary MEP notes and technology/IT requirements.
 - Landlord test-fit (if available) and shell drawings.
 
@@ -41,4 +41,4 @@ Please reply with your relevant experience (hospitality + family), proposed team
 Thank you,
 [Name]
 [Role]
-Co.work.PLAY Café
+Co.work.PLAY Cafe

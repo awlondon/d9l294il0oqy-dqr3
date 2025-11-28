@@ -1,10 +1,10 @@
 # AI-GM Screen Inventory, Circuits, and Patch Panel Map
 
-This file is the single source of truth for all displays, their zones, circuits, and patch panel ports for Floor 1 of the CoWorkPlay flagship layout (3×3 grid: Café, Entry, Bar, Open Cowork, Main Toddler Play, Multi-Use/Party, Quiet Cowork, Baby/Sensory, Restrooms+BOH/Kitchen).
+This file is the single source of truth for all displays, their zones, circuits, and patch panel ports for Floor 1 of the CoWorkPlay flagship layout (3×3 grid: Cafe, Entry, Bar, Open Cowork, Main Toddler Play, Multi-Use/Party, Quiet Cowork, Baby/Sensory, Restrooms+BOH/Kitchen).
 
 ## Circuit Overview
-- **Circuit 1 – Entry + Café Seating & Lounge**
-- **Circuit 2 – Café Bar & To-Go**
+- **Circuit 1 – Entry + Cafe Seating & Lounge**
+- **Circuit 2 – Cafe Bar & To-Go**
 - **Circuit 3 – Open Cowork**
 - **Circuit 4 – Quiet Cowork + Baby/Sensory**
 - **Circuit 5 – Play Core + Party Room**
@@ -13,18 +13,18 @@ This file is the single source of truth for all displays, their zones, circuits,
 ## Full Inventory
 | Screen ID | Zone | Role | Channel | Circuit | Patch Panel Port |
 |-----------|------|------|---------|---------|------------------|
-| F1_CAFE_TBL_01     | Café Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP01 |
-| F1_CAFE_TBL_02     | Café Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP02 |
-| F1_CAFE_TBL_03     | Café Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP03 |
-| F1_CAFE_TBL_04     | Café Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP04 |
-| F1_CAFE_TBL_05     | Café Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP05 |
-| F1_CAFE_TBL_06     | Café Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP06 |
-| F1_CAFE_TBL_07     | Café Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP07 |
-| F1_CAFE_TBL_08     | Café Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP08 |
+| F1_CAFE_TBL_01     | Cafe Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP01 |
+| F1_CAFE_TBL_02     | Cafe Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP02 |
+| F1_CAFE_TBL_03     | Cafe Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP03 |
+| F1_CAFE_TBL_04     | Cafe Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP04 |
+| F1_CAFE_TBL_05     | Cafe Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP05 |
+| F1_CAFE_TBL_06     | Cafe Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP06 |
+| F1_CAFE_TBL_07     | Cafe Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP07 |
+| F1_CAFE_TBL_08     | Cafe Seating & Lounge         | Customer | CUSTOMER | Ckt 1 | PP08 |
 | F1_ENTRY_INFO_01   | Entry / Host / Retail         | Customer | CUSTOMER | Ckt 1 | PP09 |
 | F1_ENTRY_STAFF_01  | Entry / Host / Retail         | Staff    | STAFF    | Ckt 1 | PP10 |
-| F1_BAR_STAFF_01    | Café Bar & To-Go              | Staff    | STAFF    | Ckt 2 | PP11 |
-| F1_BAR_STAFF_02    | Café Bar & To-Go              | Staff    | STAFF    | Ckt 2 | PP12 |
+| F1_BAR_STAFF_01    | Cafe Bar & To-Go              | Staff    | STAFF    | Ckt 2 | PP11 |
+| F1_BAR_STAFF_02    | Cafe Bar & To-Go              | Staff    | STAFF    | Ckt 2 | PP12 |
 | F1_CW_OPEN_TBL_01  | Open Cowork                   | Customer | CUSTOMER | Ckt 3 | PP13 |
 | F1_CW_OPEN_TBL_02  | Open Cowork                   | Customer | CUSTOMER | Ckt 3 | PP14 |
 | F1_CW_OPEN_TBL_03  | Open Cowork                   | Customer | CUSTOMER | Ckt 3 | PP15 |

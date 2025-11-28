@@ -4,7 +4,7 @@ Key sign types and layout cues for interiors and exterior wayfinding.
 
 ## Core Interior Signs
 - **House Rules:** Mounted near entry and play zones; concise bullets on wellness, supervision, socks, food zones, and dirty-toy bins.
-- **Zone Labels:** Clear labels for Café, Cowork, Play, Under-2, Party Room; include simple icons for quick recognition.
+- **Zone Labels:** Clear labels for Cafe, Cowork, Play, Under-2, Party Room; include simple icons for quick recognition.
 - **Wayfinding:** Arrows to restrooms, nursing room, stroller parking, exits; consistent arrow style and spacing.
 - **Capacity/age signs:** Under-2 and party room max capacity and age guidance posted at entrances.
 
@@ -16,7 +16,7 @@ Key sign types and layout cues for interiors and exterior wayfinding.
 
 ## Example Layouts
 - **House Rules Poster:** 18"x24" portrait, headline “Play Together. Stay Kind.” with five bullets and QR to full policy.
-- **Directional Blade Signs:** Double-sided hanging signs for Café and Cowork with icons; mounted above sightlines.
+- **Directional Blade Signs:** Double-sided hanging signs for Cafe and Cowork with icons; mounted above sightlines.
 - **Party Room Door:** Frosted vinyl with Party Room icon, capacity line, and “Please check in with host.”
 
 ## Installation Notes

@@ -32,12 +32,12 @@ const HeroSection = () => {
       </div>
       <div className="relative mx-auto flex max-w-6xl flex-col gap-10 px-4 py-16 sm:px-6 sm:py-24 lg:flex-row lg:items-center lg:gap-16">
         <div className="max-w-2xl space-y-6">
-          <p className="badge w-fit bg-white/70 text-brand-espresso shadow-soft">Cowork + café + supervised play</p>
+          <p className="badge w-fit bg-white/70 text-brand-espresso shadow-soft">Cowork + cafe + supervised play</p>
           <h1 className="text-4xl font-heading font-extrabold text-brand-espresso sm:text-5xl lg:text-6xl">
             Work, coffee, and play — together.
           </h1>
           <p className="text-lg text-brand-espresso/80">
-            A calm, supervised play space and café where caregivers can get real work done while their little ones explore nearby. Built
+            A calm, supervised play space and cafe where caregivers can get real work done while their little ones explore nearby. Built
             for remote and hybrid life, without the founder spotlight.
           </p>
           <div className="grid gap-4 sm:grid-cols-2">

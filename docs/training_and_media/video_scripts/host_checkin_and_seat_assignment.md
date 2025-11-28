@@ -5,7 +5,7 @@ Show new Hosts how to greet, check in, assign seats, and set expectations.
 
 ## Narration script (VO)
 **Scene 1 – Host stand, calm morning.**
-“At Co.work.PLAY Café, the Host is the first point of contact. Your job is to welcome caregivers, check them in quickly, and set them up for a focused, stress-free visit.”
+“At Co.work.PLAY Cafe, the Host is the first point of contact. Your job is to welcome caregivers, check them in quickly, and set them up for a focused, stress-free visit.”
 
 **Scene 2 – Close-up of Host tablet showing Dashboard.**
 “When a member arrives, tap ‘Check in member or guest’. Search by name, email, or phone, and confirm their membership is active.”
@@ -26,4 +26,4 @@ Show new Hosts how to greet, check in, assign seats, and set expectations.
 “Throughout the day, you can move seats, extend sessions, or end them from the Host Console. Clear, calm communication keeps families confident and the workspace running smoothly.”
 
 ## Visual direction for Sora prompt (short version)
-60–90 second training video inside a modern cowork + café + play space. A friendly Host at a branded front desk uses a tablet to check in a caregiver with a toddler, assigns a seat on a simple digital floorplan, then walks them to a workstation labeled “A-12” with a QR code. Soft camera moves, screen overlays showing the Host Console UI, and clear close-ups of seat labels and QR codes. Warm, bright lighting, calm background sound.
+60–90 second training video inside a modern cowork + cafe + play space. A friendly Host at a branded front desk uses a tablet to check in a caregiver with a toddler, assigns a seat on a simple digital floorplan, then walks them to a workstation labeled “A-12” with a QR code. Soft camera moves, screen overlays showing the Host Console UI, and clear close-ups of seat labels and QR codes. Warm, bright lighting, calm background sound.

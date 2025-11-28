@@ -1,14 +1,14 @@
-# SOP – Café Operator/Barista
+# SOP – Cafe Operator/Barista
 
 ## Purpose
-Deliver fast, consistent café service that complements cowork and play experiences.
+Deliver fast, consistent cafe service that complements cowork and play experiences.
 
 ## Scope
-Applies to all café staff responsible for beverage/food production, café seating upkeep, and light catering for parties/events.
+Applies to all cafe staff responsible for beverage/food production, cafe seating upkeep, and light catering for parties/events.
 
 ## Responsibilities
 - Execute beverage and food menu to spec with target ticket times under 3 minutes for core drinks.
-- Maintain café cleanliness, temperature logs, and inventory rotation.
+- Maintain cafe cleanliness, temperature logs, and inventory rotation.
 - Coordinate with Host/Play for large groups, parties, and allergen notes.
 - Promote member perks and add-on sales (grab-and-go, kids’ bentos, retail).
 
@@ -40,5 +40,5 @@ Applies to all café staff responsible for beverage/food production, café seati
 
 ## Metrics of Success
 - Ticket time ≤3 minutes for espresso core; ≤6 minutes for food requiring heat.
-- Waste under 2% of café sales; accurate temp logs 100% of days.
-- Café cleanliness audit >95%; upsell attachment rate >65% of check-ins.
+- Waste under 2% of cafe sales; accurate temp logs 100% of days.
+- Cafe cleanliness audit >95%; upsell attachment rate >65% of check-ins.

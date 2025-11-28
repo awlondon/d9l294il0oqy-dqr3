@@ -1,5 +1,5 @@
 # Play Attendant SOP  
-Co.work.PLAY Café
+Co.work.PLAY Cafe
 
 ## 1. Role Purpose
 

@@ -3,7 +3,7 @@
 ## Franchise Brochure Language
 **You own the story in your city.**
 
-Co.work.PLAY Café is a tested template for a specific kind of space: part café, part cowork, part supervised play. We provide the core: brand, standards, training, technology, and a proven economic model.
+Co.work.PLAY Cafe is a tested template for a specific kind of space: part cafe, part cowork, part supervised play. We provide the core: brand, standards, training, technology, and a proven economic model.
 
 Within that framework, you own your market. You decide how to hire, how to show up in your local parenting ecosystem, and how to compete. The families in your area won’t know the founders; they’ll know you—the person who brought this concept to their neighborhood.
 

@@ -1,12 +1,12 @@
 # Cleaning and Safety Checklists
 
 ## Purpose
-Standardized opening, midday, and closing checklists for all zones to keep the café, cowork, and play areas clean, safe, and guest-ready.
+Standardized opening, midday, and closing checklists for all zones to keep the cafe, cowork, and play areas clean, safe, and guest-ready.
 
 ## Roles
 - **Host:** Entry experience, wristbands/tags, lobby cleanliness.
 - **Play Attendant:** Play and under-2 zones, safety checks, toy rotation.
-- **Café Operator:** Bar, prep, café seating, and FOH cleanliness.
+- **Cafe Operator:** Bar, prep, cafe seating, and FOH cleanliness.
 - **Manager/Shift Lead:** Verifies completion, handles incidents, logs exceptions.
 
 ## Opening Checklist (Before Doors Open)
@@ -14,7 +14,7 @@ Standardized opening, midday, and closing checklists for all zones to keep the c
   - Turn on signage, music at set levels; unlock entry and test access control.
   - Wipe host stand, check wristband/tag inventory, power tablets/label printer.
   - Inspect stroller parking and retail shelves; restock sanitizer and masks.
-- Café
+- Cafe
   - Calibrate espresso grinders; pull test shots and log ratios.
   - Set up drip/PUC, restock milk/alt-milk, pastries, kids’ bentos, and grab-and-go.
   - Sanitize bar surfaces, handles, and condiment station; place clean rags and sanitizer buckets.
@@ -40,7 +40,7 @@ Standardized opening, midday, and closing checklists for all zones to keep the c
 
 ## Midday Reset (Every 2–3 Hours)
 - Entry/Host: Tidy stroller area, disinfect host stand, reset retail fronting.
-- Café: Wipe bar and condiment, empty trash, temp-check TCS items, replenish pastries/grab-and-go.
+- Cafe: Wipe bar and condiment, empty trash, temp-check TCS items, replenish pastries/grab-and-go.
 - Cowork: Spot clean tables, sanitize phone booths/headsets, restock water carafes.
 - Play: Quick sweep/vacuum, sanitize high-touch toys, reset loose items to bins, re-verify gate latch.
 - Under-2: Swap out any mouthed toys to sanitation bin; wipe mats; refresh burp cloths.
@@ -49,7 +49,7 @@ Standardized opening, midday, and closing checklists for all zones to keep the c
 
 ## Closing Checklist
 - Entry/Host: Collect lost-and-found, wipe host stand/screens, secure cash tips, lock doors/signage.
-- Café: Deep clean espresso heads/wands, empty/clean drip tray and grinders, label/cover milk, close POS batch, wipe refrigeration gaskets, sweep/mop.
+- Cafe: Deep clean espresso heads/wands, empty/clean drip tray and grinders, label/cover milk, close POS batch, wipe refrigeration gaskets, sweep/mop.
 - Cowork: Sanitize tables/chairs, power down monitors/AV, collect chargers and lost items.
 - Play: Sanitize mats, structure touchpoints, and high-use toys; launder cloth items; lock storage; final headcount and sweep.
 - Under-2: Sanitize all soft goods; launder linens; lock cabinets with cleaning supplies.

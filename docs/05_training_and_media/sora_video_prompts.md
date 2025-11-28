@@ -15,7 +15,7 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 ---
 
 **Sora Prompt – Visual & Action Description:**
-“Medium shot of the Black woman Host Trainer at a modern wood-and-pastel reception desk. Natural daylight, stroller parking in soft focus. She smiles, scans a parent’s phone, applies matching wristbands to parent and child, then gestures toward the play area with a calm wave. Background: children playing safely behind a glass divider, café menu board softly visible.”
+“Medium shot of the Black woman Host Trainer at a modern wood-and-pastel reception desk. Natural daylight, stroller parking in soft focus. She smiles, scans a parent’s phone, applies matching wristbands to parent and child, then gestures toward the play area with a calm wave. Background: children playing safely behind a glass divider, cafe menu board softly visible.”
 
 **Camera & Style Notes:**
 - Medium and medium-close shots; quick cut to close-up of wristbands.
@@ -23,11 +23,11 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 - On-screen text: “Step 1: Greet,” “Step 2: Wristbands,” “Step 3: Guide.”
 
 **Voiceover Script:**
-“Welcome to Co.work.play! I’ll scan you in, match your wristbands, and point you to the play zone. If you’re new, I’ll share our quick safety basics before you head in.”
+“Welcome to Co.work.PLAY! I’ll scan you in, match your wristbands, and point you to the play zone. If you’re new, I’ll share our quick safety basics before you head in.”
 
 **Technical Settings:**
 - 4K, 24fps, slow pan from desk to play area.
-- Subtitles on; natural café/child ambient audio under -18 LUFS.
+- Subtitles on; natural cafe/child ambient audio under -18 LUFS.
 
 ## HOST-02 – Wristbands & Safety Verifications
 **Role:** Host
@@ -63,7 +63,7 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 ---
 
 **Sora Prompt – Visual & Action Description:**
-“Medium shot of Host Trainer at reception speaking with a parent holding a latte. On-screen graphics show ‘Save with membership’ and ‘Party discounts.’ Host points to a wall calendar of classes and taps a digital form labeled ‘Party interest’. Café bar and play area glow warmly behind her.”
+“Medium shot of Host Trainer at reception speaking with a parent holding a latte. On-screen graphics show ‘Save with membership’ and ‘Party discounts.’ Host points to a wall calendar of classes and taps a digital form labeled ‘Party interest’. Cafe bar and play area glow warmly behind her.”
 
 **Camera & Style Notes:**
 - Start medium shot, cut to close-up of calendar and digital form, return to host smiling.
@@ -75,7 +75,7 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 
 **Technical Settings:**
 - 4K, 24fps, light handheld feel to keep energy.
-- Subtitles on; balanced café ambient under dialogue.
+- Subtitles on; balanced cafe ambient under dialogue.
 
 ## PLAY-01 – Safety & Ratios
 **Role:** Play Attendant
@@ -150,7 +150,7 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 - Subtitles on; low ambient audio, add soft chime for radio.
 
 ## CAFE-01 – Espresso & Beverage Quality
-**Role:** Café
+**Role:** Cafe
 
 **Clip Length Target:** 12–15s
 
@@ -159,11 +159,11 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 ---
 
 **Sora Prompt – Visual & Action Description:**
-“Medium-close of Hispanic woman Café Trainer behind the bar. She weighs and grinds espresso, pulls a shot with scale and timer, textures milk to glossy microfoam, and pours a heart latte art. Kid-friendly banquette and plants in soft focus.”
+“Medium-close of Hispanic woman Cafe Trainer behind the bar. She weighs and grinds espresso, pulls a shot with scale and timer, textures milk to glossy microfoam, and pours a heart latte art. Kid-friendly banquette and plants in soft focus.”
 
 **Camera & Style Notes:**
 - Close-ups on scale, timer, and latte art pour; return to trainer’s smile.
-- Clean, bright café bar with warm wood and matte black equipment.
+- Clean, bright cafe bar with warm wood and matte black equipment.
 - On-screen text: “Dose,” “Time,” “Texture.”
 
 **Voiceover Script:**
@@ -174,7 +174,7 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 - Subtitles on; soft espresso bar sounds.
 
 ## CAFE-02 – Food Safety & Allergen Handling
-**Role:** Café
+**Role:** Cafe
 
 **Clip Length Target:** 12–15s
 
@@ -183,7 +183,7 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 ---
 
 **Sora Prompt – Visual & Action Description:**
-“Medium shot of Café Trainer putting on gloves, reading an allergen note on a ticket, and using utensils marked ‘allergen safe.’ She uses a separate milk pitcher labeled with a color band, checks milk temperature with a thermometer, and wipes the station afterward.”
+“Medium shot of Cafe Trainer putting on gloves, reading an allergen note on a ticket, and using utensils marked ‘allergen safe.’ She uses a separate milk pitcher labeled with a color band, checks milk temperature with a thermometer, and wipes the station afterward.”
 
 **Camera & Style Notes:**
 - Alternating close-ups on allergen note, labeled utensils, and thermometer reading.
@@ -195,10 +195,10 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 
 **Technical Settings:**
 - 4K, 24fps, macro focus on thermometer and labels.
-- Subtitles on; quiet café ambient audio.
+- Subtitles on; quiet cafe ambient audio.
 
 ## CAFE-03 – Speed of Service
-**Role:** Café
+**Role:** Cafe
 
 **Clip Length Target:** 12–15s
 
@@ -207,7 +207,7 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 ---
 
 **Sora Prompt – Visual & Action Description:**
-“Wide-to-medium sequence showing three café teammates in a compact bar: one taking orders on tablet, one dialing espresso, one handing drinks to parents. A subtle on-screen timer shows tickets under 3 minutes. Kids and parents wait comfortably nearby.”
+“Wide-to-medium sequence showing three cafe teammates in a compact bar: one taking orders on tablet, one dialing espresso, one handing drinks to parents. A subtle on-screen timer shows tickets under 3 minutes. Kids and parents wait comfortably nearby.”
 
 **Camera & Style Notes:**
 - Start wide to show teamwork, cut to medium close-ups of handoffs and tablet screen.
@@ -255,7 +255,7 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 ---
 
 **Sora Prompt – Visual & Action Description:**
-“Medium shot of Manager Trainer at a café table speaking with a concerned parent. She listens, takes a brief note, apologizes sincerely, and offers a comp card with a calm smile. Child plays nearby; tone is empathetic.”
+“Medium shot of Manager Trainer at a cafe table speaking with a concerned parent. She listens, takes a brief note, apologizes sincerely, and offers a comp card with a calm smile. Child plays nearby; tone is empathetic.”
 
 **Camera & Style Notes:**
 - Medium two-shot for connection; insert close-up on comp card labeled “Make it right.”
@@ -267,7 +267,7 @@ Provide prompt text and micro scripts for generating consistent training clips. 
 
 **Technical Settings:**
 - 4K, 24fps, gentle push-in during apology.
-- Subtitles on; café ambient lowered.
+- Subtitles on; cafe ambient lowered.
 
 ## LEAD-03 – Incident Investigation
 **Role:** Manager/Lead

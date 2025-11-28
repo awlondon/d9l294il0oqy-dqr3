@@ -5,7 +5,7 @@ const FranchisePage = () => {
         <p className="badge bg-white/90 text-brand-espresso">Franchise</p>
         <h1 className="mt-4 text-4xl font-heading font-extrabold text-brand-espresso">Own the story in your city</h1>
         <p className="mt-3 text-lg text-brand-espresso/80">
-          Co.work.PLAY Café locations are locally owned and operated. We provide the system—brand, safety, operating model, training,
+          Co.work.PLAY Cafe locations are locally owned and operated. We provide the system—brand, safety, operating model, training,
           and technology—so you can lead a trusted space for caregivers and kids in your community.
         </p>
       </section>
@@ -27,7 +27,7 @@ const FranchisePage = () => {
             <ul className="mt-4 space-y-3 text-brand-espresso/80">
               <li>• Safety and wellness standards for children and caregivers.</li>
               <li>• Brand basics, core services, and a hospitality-forward mindset.</li>
-              <li>• Expectations for supervised play, café experience, and cleanliness.</li>
+              <li>• Expectations for supervised play, cafe experience, and cleanliness.</li>
             </ul>
           </div>
           <div className="rounded-2xl bg-white/90 p-6 shadow-soft">

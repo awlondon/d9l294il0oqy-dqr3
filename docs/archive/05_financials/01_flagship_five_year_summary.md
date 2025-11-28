@@ -14,7 +14,7 @@ Operational assumptions:
 
 - Membership ramp over first 18–24 months.  
 - Gradual increase in day passes and party/event bookings.  
-- Café sales correlated with member and guest traffic.
+- Cafe sales correlated with member and guest traffic.
 
 ---
 
@@ -23,7 +23,7 @@ Operational assumptions:
 By Year 3–5, an illustrative mix (percent of total revenue):
 
 - Memberships & passes: **~40–50%**  
-- Café & retail sales: **~25–35%**  
+- Cafe & retail sales: **~25–35%**  
 - Parties & events: **~10–20%**  
 - Miscellaneous (classes, corporate partnerships): **~5–10%**
 
@@ -56,7 +56,7 @@ Actual percentages should be pulled from the live model.
 
 - **Year 2**  
   - Membership and party/event volume maturing.  
-  - Café and retail attachment rates improving via better menu and operations.
+  - Cafe and retail attachment rates improving via better menu and operations.
 
 - **Year 3–5**  
   - Flagship operates as a stable, high-performing unit.  

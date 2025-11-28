@@ -3,7 +3,7 @@
 Bullet summary to hand off to counsel for the formal FDD/FA.
 
 ## What the Franchisee Receives
-- **Brand & trademarks:** Rights to operate under Co.work.PLAY Café with approved signage and marketing assets.
+- **Brand & trademarks:** Rights to operate under Co.work.PLAY Cafe with approved signage and marketing assets.
 - **Prototype design package:** Floor plan, finishes, furniture/fixture schedules, and approved vendor list.
 - **AI-GM platform:** Access to the core platform for occupancy monitoring, incident logging, and staff alerts.
 - **Training & playbook:** Pre-opening training, SOP library, and launch support toolkit.

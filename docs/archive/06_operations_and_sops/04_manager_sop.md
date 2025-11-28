@@ -1,12 +1,12 @@
 # Manager SOP  
-Co.work.PLAY Café
+Co.work.PLAY Cafe
 
 ## 1. Role Purpose
 
 The Manager is responsible for:
 
 - Overall **store performance** (experience, safety, and P&L).
-- Leading and developing the Host, Play Attendant, and Café team.
+- Leading and developing the Host, Play Attendant, and Cafe team.
 - Ensuring adherence to brand standards and franchise requirements (where applicable).
 - Acting as the primary liaison to the franchisor / HQ.
 
@@ -20,10 +20,10 @@ The Manager is responsible for:
 - Quick huddle with team:
   - Review reservations and parties.  
   - Identify any special needs or constraints.  
-  - Set focus for the day (e.g., membership conversions, café attach rate, safety reminders).
+  - Set focus for the day (e.g., membership conversions, cafe attach rate, safety reminders).
 
 - Walk the space:
-  - Entry, play areas, café, cowork, restrooms, BOH.  
+  - Entry, play areas, cafe, cowork, restrooms, BOH.  
   - Check for cleanliness, safety issues, and signage.
 
 - Ensure POS, radios, and other systems are online.
@@ -31,7 +31,7 @@ The Manager is responsible for:
 ### 2.2 Midday Responsibilities
 
 - Monitor flow and guest experience:
-  - Step in to help at Host, Play, or Café when needed.  
+  - Step in to help at Host, Play, or Cafe when needed.  
   - Check in with guests and members (walk the floor).  
 
 - Manage breaks:
@@ -101,7 +101,7 @@ Log significant complaints and resolutions so HQ can see patterns.
 - Track key KPIs:
   - Membership count and churn.  
   - Day-pass volume.  
-  - Café attach rate (avg spend per adult).  
+  - Cafe attach rate (avg spend per adult).  
   - Party/event bookings.
 
 - Report metrics to franchisor / HQ using the agreed template and cadence.

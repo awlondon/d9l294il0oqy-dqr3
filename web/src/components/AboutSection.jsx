@@ -8,7 +8,7 @@ const pillars = [
     copy: 'Supervised zones, calming textures, and sightlines that help caregivers exhale without losing connection.'
   },
   {
-    title: 'Hospitality-forward café',
+    title: 'Hospitality-forward cafe',
     copy: 'Great coffee, snacks, and meals that honor the rhythms of families and the pace of real workdays.'
   },
   {
@@ -20,10 +20,10 @@ const pillars = [
 const AboutSection = () => (
   <section className="mx-auto max-w-5xl px-4 py-12 sm:px-6">
     <div className="space-y-4 text-center">
-      <h2 className="section-title">What Co.work.PLAY Café is</h2>
+      <h2 className="section-title">What Co.work.PLAY Cafe is</h2>
       <p className="section-subtitle mx-auto">
         A place where caregivers can get real work done while their kids play nearby, safely and joyfully. We combine
-        coworking comfort, supervised play, and a hospitality-first café under one roof so families feel welcome and
+        coworking comfort, supervised play, and a hospitality-first cafe under one roof so families feel welcome and
         focused.
       </p>
     </div>

@@ -17,7 +17,7 @@ const PartyPage = () => {
           <ul className="mt-3 list-disc space-y-2 pl-5 text-brand-espresso/80">
             <li>Capacity for up to 30 guests with flexible seating.</li>
             <li>Theme-ready decor hooks plus AV for slideshows or music.</li>
-            <li>Café-led catering or outside vendors by request.</li>
+            <li>Cafe-led catering or outside vendors by request.</li>
           </ul>
         </div>
         <div className="mt-6">

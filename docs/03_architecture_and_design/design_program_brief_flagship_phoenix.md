@@ -4,12 +4,12 @@
 Guide architects and interior designers on program mix, space allocations, and experiential priorities for the Phoenix flagship.
 
 ## Background & Timeline
-- **November 10, 2025** – Concept conceived during a video call between co-founders Alex London and Savannah Strasner while prompting an AI to develop a “Phoenix flagship” cowork + play café concept and a flagship-plus-franchise rollout model.
+- **November 10, 2025** – Concept conceived during a video call between co-founders Alexander Warren London and Savannah Strasner while prompting an AI to develop a “Phoenix flagship” cowork + play cafe concept and a flagship-plus-franchise rollout model.
 - **Late November 2025 onward** – Business plan, financial model, and brand system refined; Phoenix-area flagship targeted for early 2026 opening.
 
 ## Space Program & Approximate SF
 - **Entry/Host & Retail:** 400 SF; includes stroller parking, retail shelving, and digital signage.
-- **Café & Seating:** 1,800 SF; bar, grab-and-go, condiment, family banquette, and stroller-friendly aisles.
+- **Cafe & Seating:** 1,800 SF; bar, grab-and-go, condiment, family banquette, and stroller-friendly aisles.
 - **Cowork Open Seating:** 1,100 SF; mix of 2-top and 4-top tables, soft seating, focus nooks.
 - **Phone Booths:** 6 units at ~25 SF each (150 SF total) with ventilation and acoustic seals.
 - **Meeting Rooms:** Three rooms (2x 8–10p, 1x 12p) totaling ~550 SF; AV-equipped.
@@ -22,13 +22,13 @@ Guide architects and interior designers on program mix, space allocations, and e
 
 ## Adjacency Priorities
 - Host stand aligned with entry and direct view to play entry gate.
-- Café adjacent to cowork and visible from play for easy ordering; avoid smells/noise bleeding into play.
+- Cafe adjacent to cowork and visible from play for easy ordering; avoid smells/noise bleeding into play.
 - Play entry controlled with single access gate near host; restrooms located along play edge for quick supervision.
 - Party studio near play but acoustically separated; direct path to storage and janitorial.
 - BOH separated from guest flow with discreet loading route.
 
 ## Experience & Operational Cues
-- **Zoning:** Acoustical separation between cowork/café and play; ceiling treatments and soft surfaces to control noise.
+- **Zoning:** Acoustical separation between cowork/cafe and play; ceiling treatments and soft surfaces to control noise.
 - **Safety:** Rounded edges, tamper-proof outlets, ADA routes, and CCTV coverage of entry/exit points.
 - **Visibility:** Low partitions for adult sightlines into play; mirrors or glazing at key corners.
 - **Cleanability:** Washable finishes, removable play elements for sanitizing, handwash/sanitizer stations at entries.

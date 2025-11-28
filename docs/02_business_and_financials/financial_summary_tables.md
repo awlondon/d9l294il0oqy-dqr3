@@ -8,7 +8,7 @@ High-level revenue and EBITDA snapshots for the Phoenix flagship and a typical f
 | --- | --- | --- |
 | Memberships | $112,000 | $1,344,000 |
 | Day Passes | $24,500 | $294,000 |
-| Café | $66,000 | $792,000 |
+| Cafe | $66,000 | $792,000 |
 | Parties & Events | $18,000 | $216,000 |
 | Meeting Rooms | $10,400 | $124,800 |
 | Classes/Programs | $8,100 | $97,200 |
@@ -28,7 +28,7 @@ High-level revenue and EBITDA snapshots for the Phoenix flagship and a typical f
 | --- | --- | --- |
 | Memberships | $72,000 | $864,000 |
 | Day Passes | $17,000 | $204,000 |
-| Café | $48,300 | $579,600 |
+| Cafe | $48,300 | $579,600 |
 | Parties & Events | $10,400 | $124,800 |
 | Meeting Rooms | $6,000 | $72,000 |
 | Classes/Programs | $5,900 | $70,800 |

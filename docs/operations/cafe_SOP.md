@@ -1,4 +1,4 @@
-# Café Operator SOP – Receiving & Preparing Seat Orders
+# Cafe Operator SOP – Receiving & Preparing Seat Orders
 
 ## Purpose
 Keep seat orders flowing smoothly through POS → prep → runner handoff.
@@ -11,8 +11,8 @@ Keep seat orders flowing smoothly through POS → prep → runner handoff.
   - Tray space for multiple orders.
 
 ## B. Order Handling
-1. New seat order appears (POS/KDS): shows items + “Seat A-12 – Alex London”.
-2. Prep items as normal following café recipes and standards.
+1. New seat order appears (POS/KDS): shows items + “Seat A-12 – Alexander Warren London”.
+2. Prep items as normal following cafe recipes and standards.
 3. When order is complete:
    - Place all items on a tray in “Seat Orders” area.
    - Tap Ready / “Out for delivery” in KDS.

@@ -1,18 +1,18 @@
 # Robot Food Glider Integration
 
-Phased approach to introducing robotic runners for café orders.
+Phased approach to introducing robotic runners for cafe orders.
 
 **Delivery V1 = manual runners using seat codes printed on signage, KDS tickets, and labels. Robots are a later drop-in replaceability test, not required at launch.**
 
 ## Physical Requirements
 - **Lanes:** Clear, level lanes at least 36–42 inches wide; avoid tight turns and steep ramps.
 - **Zones:** Restricted areas around toddler/under-2 zones, stairs, restrooms, and exits.
-- **Charging/base:** Designated docking station near café/back-of-house with power and Wi-Fi coverage.
+- **Charging/base:** Designated docking station near cafe/back-of-house with power and Wi-Fi coverage.
 - **Signage:** Floor markings and gentle audio cues to alert guests; child-height visibility considered.
 
 ## Order Flow
 1. Order placed via app/POS and tagged as “robot eligible” (future-state flag; defaults to manual runner).
-2. Café operator loads the robot with labeled order; selects destination table/zone on tablet.
+2. Cafe operator loads the robot with labeled order; selects destination table/zone on tablet.
 3. Robot follows mapped route; if blocked, pings staff for assist or reroute.
 4. Guest retrieves order; robot confirms pickup and returns to base or next stop.
 5. Failed delivery path triggers fallback to manual runner.

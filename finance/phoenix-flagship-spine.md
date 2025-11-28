@@ -1,4 +1,4 @@
-# Co.work.PLAY Café — Phoenix Flagship Model Spine (v2)
+# Co.work.PLAY Cafe — Phoenix Flagship Model Spine (v2)
 
 This document narrates the Phoenix flagship economics and timeline in terms that align with the canonical finance models in:
 - `phoenix-flagship-model.csv`
@@ -18,7 +18,7 @@ All Phoenix P&L and ramp calculations are driven off these values in `phoenix-fl
 At stabilization, monthly revenue of $250k is composed as follows (see `phoenix-flagship-model.csv`):
 - Memberships: **24%**
 - Day passes: **18%**
-- Café: **32%**
+- Cafe: **32%**
 - Parties & events: **12%**
 - Programs/classes: **8%**
 - Other (retail, etc.): **6%**

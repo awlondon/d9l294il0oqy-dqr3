@@ -19,10 +19,10 @@ Overview of training modules and linked assets; use as the table of contents for
   - Audience: Hosts, Managers, Play Attendants.
   - Learning objectives: check-in flows for caregivers with children from multiple families, verifying Approved Caregivers, applying ratio guidance, and clearly stating on-site responsibility.
   - Assets: Script for shared caregiver video (to be added), excerpts from Membership ToS and Children’s Safety & Wellness Policy.
-- **Café Operations**
+- **Cafe Operations**
   - Learning objectives: food safety, mobile order routing, robot handoff readiness, allergy communication.
   - Script: pending (`video_scripts/cafe_ops_03.md` placeholder)
-  - Sora prompts: `Sora_prompt_library.md` (Café ops prompts)
+  - Sora prompts: `Sora_prompt_library.md` (Cafe ops prompts)
 - **Manager/Shift Lead**
   - Learning objectives: staffing adjustments, guest recovery, incident escalation, AI-GM dashboard use.
   - Script: pending (`video_scripts/manager_lead_04.md` placeholder)

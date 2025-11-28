@@ -1,6 +1,6 @@
-# Co.work.PLAY Café
+# Co.work.PLAY Cafe
 
-Co.work.PLAY Café is a remote-first coworking café paired with supervised play for young children. This repository is the single source of truth for the flagship business plan (Phoenix metro) and the franchise system that will scale the concept nationally and beyond.
+Co.work.PLAY Cafe is a remote-first coworking cafe paired with supervised play for young children. This repository is the single source of truth for the flagship business plan (Phoenix metro) and the franchise system that will scale the concept nationally and beyond.
 
 ## Repository Purpose
 - **Flagship operations:** Market thesis, design program, SOPs, and training for the ~8,500 SF Phoenix location.
@@ -17,7 +17,7 @@ Co.work.PLAY Café is a remote-first coworking café paired with supervised play
 - `docs/07_investor_materials/` – Investor one-pager, pitch narrative, CapEx/returns, and growth plan.
 - `docs/archive/` – Deprecated drafts from an older numbering scheme with README stubs pointing to their canonical replacements above.
 - `media/` – Floorplans, renders, and decks (add exports here as produced).
-- `web/` – Next.js marketing site for Co.work.PLAY Café with Tailwind CSS.
+- `web/` – Next.js marketing site for Co.work.PLAY Cafe with Tailwind CSS.
 
 ## Quick Start
 - Read the brand one-pager: `docs/01_concept_and_brand/brand_one_pager.md`
@@ -57,9 +57,9 @@ The `ai-gm` module turns the store into a software-defined game master that inge
 
 Screen ID pattern: `<FLOOR>_<ZONE>_<ROLE>_<INDEX>` (e.g., `F1_PLAY_STAFF_01`, `F1_ENTRY_INFO_01`). Staff channel screens render a darker “control room” motif; customer screens render a softer mirror-friendly UI.
 
-## Financial Model – Co.Work.Play Café
+## Financial Model – Co.Work.Play Cafe
 
-Preliminary unit economics and a simple model for the Co.Work.Play hybrid cowork + café + play concept are documented in:
+Preliminary unit economics and a simple model for the Co.Work.Play hybrid cowork + cafe + play concept are documented in:
 
 - `finance/co-work-play-unit-economics.md`
 - `finance/co-work-play-unit-model.csv`

@@ -8,7 +8,7 @@ Overview of inputs, core services, and outputs for the AI-enabled general manage
 - **Cameras:** Fixed-position cameras in public areas for occupancy counts and environmental monitoring (no restrooms/nursing rooms).
 - **Sensors:** Occupancy counters, noise level monitors, temperature/air quality sensors.
 - **Operational systems:** POS transactions, membership database, ticketing for parties/classes, incident logs.
-- **Manual flags:** Staff-submitted notes (e.g., spill in café, toy breakage) via tablets/phones.
+- **Manual flags:** Staff-submitted notes (e.g., spill in cafe, toy breakage) via tablets/phones.
 
 ## Core Services (planned upgrade)
 - **Occupancy monitoring:** Real-time counts by zone with alerts when nearing capacity limits.
