@@ -1,6 +1,6 @@
-# Co.Work.Play Café – Unit Economics & Franchise Model
+# Co.Work.Play Cafe – Unit Economics & Franchise Model
 
-This document captures the base mature-unit financial model for a Co.Work.Play hybrid coworking + café + play space. It is designed as a reference for both investors and franchisees when evaluating single-unit performance and multi-unit scalability.
+This document captures the base mature-unit financial model for a Co.Work.Play hybrid coworking + cafe + play space. It is designed as a reference for both investors and franchisees when evaluating single-unit performance and multi-unit scalability.
 
 ## Scope
 - Generic mature unit revenue baseline: **$2.0M/year**.
@@ -16,7 +16,7 @@ This document captures the base mature-unit financial model for a Co.Work.Play h
 Assumptions (steady state, Year 3+ for a generic unit):
 
 - Total annual revenue per location: **$2,000,000** (illustrative for non-Phoenix units)
-  - Café / Food & Beverage: **$900,000** (45%)
+  - Cafe / Food & Beverage: **$900,000** (45%)
   - Coworking (memberships, day passes): **$700,000** (35%)
   - Parties & Events (birthday rentals, buyouts): **$400,000** (20%)
 
@@ -24,7 +24,7 @@ Assumptions (steady state, Year 3+ for a generic unit):
 
 Blended COGS assumptions:
 
-- Café COGS: 35% of café sales → 0.35 × 900,000 = **$315,000**
+- Cafe COGS: 35% of cafe sales → 0.35 × 900,000 = **$315,000**
 - Cowork COGS: 5% of cowork sales → 0.05 × 700,000 = **$35,000**
 - Parties COGS: 10% of event sales → 0.10 × 400,000 = **$40,000**
 
@@ -70,7 +70,7 @@ On $2,000,000 annual revenue:
 
 ## 5. CAPEX & Payback
 
-All-in build-out cost per location (leasehold improvements, kitchen/café equipment, play equipment, FF&E, AI-GM screens & rack):
+All-in build-out cost per location (leasehold improvements, kitchen/cafe equipment, play equipment, FF&E, AI-GM screens & rack):
 
 - Estimated CAPEX: **$1.0M – $1.5M**
 - Midpoint used for modeling: **$1.2M**
@@ -88,7 +88,7 @@ Target positioning:
 - Typical generic unit size: **~7,000 ft²**.
 - Revenue/ft²: 2,000,000 ÷ 7,000 ≈ **$286/ft²**.
 - EBITDA/ft² (after fees): 370,000 ÷ 7,000 ≈ **$53/ft²**.
-- Use these figures to benchmark against other retail, café, and family entertainment concepts.
+- Use these figures to benchmark against other retail, cafe, and family entertainment concepts.
 
 ## 7. Multi-Unit & Franchisor Economics (Illustrative)
 

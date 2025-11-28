@@ -1,4 +1,4 @@
-# Co.work.PLAY Café – Value Proposition
+# Co.work.PLAY Cafe – Value Proposition
 
 ## 1. Customer Segments
 
@@ -25,13 +25,13 @@
 - **Working at home with toddlers is unsustainable**
   - Constant interruptions, guilt, noise, and stress.
 
-- **Cafés and cowork spaces aren’t built for kids**
+- **Cafes and cowork spaces aren’t built for kids**
   - Children are seen as “disruptive.”
   - No childproofing, no supervision, no age-appropriate play.
 
 ---
 
-## 3. Co.work.play’s Core Value
+## 3. Co.work.PLAY’s Core Value
 
 We provide a **single environment** where adults can work and kids can play, with:
 
@@ -49,7 +49,7 @@ In short:
 
 1. **Zoned design**  
    - Deliberate separation and visual connection between play and work zones.
-   - Quiet cowork areas with phone rooms, not just café tables.
+   - Quiet cowork areas with phone rooms, not just cafe tables.
 
 2. **Membership + day-pass hybrid**  
    - Recurring revenue from core members.
@@ -81,8 +81,8 @@ In short:
 
 For parents:
 
-> **“A membership-based café where your toddler plays happily with others while you actually get work done.”**
+> **“A membership-based cafe where your toddler plays happily with others while you actually get work done.”**
 
 For franchisees:
 
-> **“A play café concept engineered for remote-work families, with a proven flagship, strong brand, and franchisor support.”**
+> **“A play cafe concept engineered for remote-work families, with a proven flagship, strong brand, and franchisor support.”**

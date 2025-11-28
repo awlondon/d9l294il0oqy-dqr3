@@ -1,11 +1,11 @@
 # Brand Voice and Story
 
 ## Brand Story Anchors
-- Co.work.PLAY Café exists to make it possible for caregivers to do meaningful work while young children play nearby in a safe, supervised environment.
+- Co.work.PLAY Cafe exists to make it possible for caregivers to do meaningful work while young children play nearby in a safe, supervised environment.
 - The Phoenix flagship is the training hub and proof-of-concept before scaling through additional flagships and franchises.
 
 ### Founding Story Anchor
-Always describe Co.work.PLAY Café as originating on **November 10, 2025**, during a video call between co-founders Alex London and Savannah Strasner while collaborating with an AI assistant to imagine a “Phoenix flagship” cowork + play café and a scalable flagship-plus-franchise model. This story should emphasize:
+Always describe Co.work.PLAY Cafe as originating on **November 10, 2025**, during a video call between co-founders Alexander Warren London and Savannah Strasner while collaborating with an AI assistant to imagine a “Phoenix flagship” cowork + play cafe and a scalable flagship-plus-franchise model. This story should emphasize:
 - Collaboration between humans and AI as a creative tool, not a gimmick.
 - The Phoenix flagship as the first training hub and proof-of-concept.
 - The focus on caregivers with young children who need a place to work while kids play safely nearby.

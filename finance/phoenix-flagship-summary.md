@@ -27,14 +27,14 @@ We treat Phoenix as a three-phase, ~18-month validation project:
   - Start childcare/play + F&B licensing consult with legal (no guessing).
 - Months 4–6:
   - Submit permits (building, health, fire, play).
-  - Lock in equipment specs (kitchen, café, play, AI-GM).
+  - Lock in equipment specs (kitchen, cafe, play, AI-GM).
   - Finalize analytics spec (family_id, visit events, membership events, churn tracking).
 
 ### Phase 2 – Build-Out & Soft Opening (Months 6–12)
 
 - Months 6–10:
   - Execute leasehold improvements and MEP work.
-  - Install kitchen, café bar, play equipment, and AI-GM screen network.
+  - Install kitchen, cafe bar, play equipment, and AI-GM screen network.
   - Hire core leadership: GM, lead barista, lead play attendant.
 - Months 10–12:
   - Commissioning and soft open with limited hours.
@@ -47,7 +47,7 @@ We treat Phoenix as a three-phase, ~18-month validation project:
   - Treat this as a hard validation window:
     - Measure day-pass → member conversion.
     - Track member churn and visit frequency.
-    - Monitor labor %, turnover, and café vs play economics.
+    - Monitor labor %, turnover, and cafe vs play economics.
   - No franchise commitments until 6 months of stable data from Phoenix.
 
 ## 2. Capital Plan for Phoenix (~8,500 SF)
@@ -64,7 +64,7 @@ For ~8,500 SF:
 
 - Leasehold improvements (TI): **$150–$200/ft²**
   - ~8,500 ft² → **$1.3–1.7M**
-- Café + kitchen equipment:
+- Cafe + kitchen equipment:
   - Full espresso bar + kitchen line → **$250–350k**
 - Play equipment & safety:
   - Soft play, flooring, install → **$50–100k**

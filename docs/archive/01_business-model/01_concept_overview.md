@@ -1,12 +1,12 @@
-# Co.work.PLAY Café – Concept Overview
+# Co.work.PLAY Cafe – Concept Overview
 
-## 1. What Co.work.play Is
+## 1. What Co.work.PLAY Is
 
-Co.work.PLAY Café is a membership-based cowork café with supervised play for young children.
+Co.work.PLAY Cafe is a membership-based cowork cafe with supervised play for young children.
 
 It combines:
 
-- **Café** – Specialty coffee, pastries, sandwiches, and light meals.
+- **Cafe** – Specialty coffee, pastries, sandwiches, and light meals.
 - **Cowork** – Open seating, shared tables, quiet desks, and phone rooms.
 - **Play** – Supervised, developmentally appropriate play environments for toddlers and young children, plus a separate under-2 / sensory room.
 
@@ -39,13 +39,13 @@ Parents and caregivers can **work, meet, or recharge** while their children play
    - Working from home with toddlers is exhausting and isolating.
 
 3. **Lack of “third places” that welcome kids + laptops**  
-   - Traditional cafés aren’t child-proof; play gyms don’t support focused work.
+   - Traditional cafes aren’t child-proof; play gyms don’t support focused work.
 
 ---
 
 ## 4. Our Solution
 
-Co.work.play offers:
+Co.work.PLAY offers:
 
 - A **membership and guest-pass model** that gives predictable access to a well-designed, family-friendly cowork space.
 - **Supervised play zones** where attendants engage with children while parents stay on-site and productive.

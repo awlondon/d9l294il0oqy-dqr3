@@ -8,7 +8,7 @@
 
 ## During Service
 - Rotate attendants through zones every 60–90 minutes to stay fresh and observant.
-- Sweep for tripping hazards, spills, and misplaced café items; redirect food to café.
+- Sweep for tripping hazards, spills, and misplaced cafe items; redirect food to cafe.
 - Move soiled toys to “dirty toy” bin; spray/wipe high-touch surfaces hourly.
 - Log incidents (bumps/falls, conflicts) with time, child initials, and action taken.
 - Meter entry if capacity limits approached; coordinate with host.

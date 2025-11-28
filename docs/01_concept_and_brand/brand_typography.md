@@ -1,4 +1,4 @@
-# Co.work.PLAY Café Typography Guidelines
+# Co.work.PLAY Cafe Typography Guidelines
 
 ## Logo Fonts
 - **Co.work.:** Modern, technical sans-serif (recommend Montserrat Medium or Roboto Medium) to keep the coworking signal clear.
@@ -16,10 +16,10 @@
 - Keep PLAY display fonts out of dense paragraphs to avoid readability issues.
 
 ### Example Text Hierarchy
-- **H1 – “Co.work.PLAY Café”** – Montserrat Bold, 36 pt / 44 pt leading
+- **H1 – “Co.work.PLAY Cafe”** – Montserrat Bold, 36 pt / 44 pt leading
 - **H2 – “Membership & Play”** – Montserrat SemiBold, 24 pt / 32 pt leading
 - **H3 – “Work. Play. Sip.”** – Montserrat SemiBold, 18 pt / 26 pt leading
-- **Body – “Co.work.PLAY Café is a hybrid space…”** – Roboto Regular, 11–12 pt / 16–18 pt leading
+- **Body – “Co.work.PLAY Cafe is a hybrid space…”** – Roboto Regular, 11–12 pt / 16–18 pt leading
 - **Accent/Kid Callout – “Let’s PLAY!”** – Baloo Bold, sized to context but avoid smaller than 16 pt
 
 ## Pairing & Usage Notes

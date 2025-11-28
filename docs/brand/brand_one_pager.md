@@ -1,11 +1,11 @@
 # Brand One-Pager (Concise)
 
 ## Promise
-A calm, design-forward café and cowork playground where parents can work, kids can play safely, and everyone feels welcomed.
+A calm, design-forward cafe and cowork playground where parents can work, kids can play safely, and everyone feels welcomed.
 
 ## Audience
 - Remote/hybrid parents who need reliable daytime workspace plus play.
-- Families seeking clean, supervised play with café-quality food.
+- Families seeking clean, supervised play with cafe-quality food.
 - Employers offering family-friendly benefits and HR bundles.
 
 ## Voice & Tone
@@ -13,7 +13,7 @@ Warm, clear, and respectful; hospitality-first with plain English. Confident abo
 
 ## Proof Points
 - Supervised play with clear safety rules and visible cleanliness standards.
-- Café-quality food and coffee with mobile ordering and future robot delivery.
+- Cafe-quality food and coffee with mobile ordering and future robot delivery.
 - Memberships that prioritize convenience: fast check-in, optional biometrics for adults, and predictable pricing.
 
 ## Visual Markers

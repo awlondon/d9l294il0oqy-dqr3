@@ -1,7 +1,7 @@
 # Franchise Business Model
 
 ## Purpose
-Outline the commercial structure, responsibilities, and unit economics for Co.work.PLAY Café franchisees and the franchisor.
+Outline the commercial structure, responsibilities, and unit economics for Co.work.PLAY Cafe franchisees and the franchisor.
 
 ## Fee Structure
 - **Initial franchise fee:** $50,000 (includes site review, design kit, training, and launch support).
@@ -14,7 +14,7 @@ Outline the commercial structure, responsibilities, and unit economics for Co.wo
 - Secure site, lease, and local permits.
 - Fund build-out and working capital; implement approved design kit-of-parts.
 - Hire and train staff to franchisor standards; maintain required certifications and background checks.
-- Operate daily café, cowork, and play programs within policy; uphold safety ratios and SOPs.
+- Operate daily cafe, cowork, and play programs within policy; uphold safety ratios and SOPs.
 - Participate in marketing calendar and report weekly KPIs (revenue mix, conversion, incidents, retention).
 
 ## Franchisor Responsibilities
@@ -26,9 +26,9 @@ Outline the commercial structure, responsibilities, and unit economics for Co.wo
 
 ## Unit Economics (Typical Medium Footprint ~6.5k SF)
 - **Startup costs:** $1.4M–$1.7M (build-out, FF&E, opening inventory, pre-open payroll, working capital).
-- **Revenue mix (stabilized monthly ≈ $165k):** 44% memberships/day passes, 29% café, 17% parties/events/classes, 10% meeting rooms/retail.
-- **COGS:** ~19% blended (higher for café, lower for services).
-- **Labor:** ~34% of revenue (host, play attendants, café team, supervisor/lead).
+- **Revenue mix (stabilized monthly ≈ $165k):** 44% memberships/day passes, 29% cafe, 17% parties/events/classes, 10% meeting rooms/retail.
+- **COGS:** ~19% blended (higher for cafe, lower for services).
+- **Labor:** ~34% of revenue (host, play attendants, cafe team, supervisor/lead).
 - **Occupancy:** ~$22/SF NNN → ~$12k/month plus utilities.
 - **EBITDA range:** 22–28% once stabilized, dependent on staffing discipline and occupancy.
 

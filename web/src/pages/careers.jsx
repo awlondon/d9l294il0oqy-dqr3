@@ -15,7 +15,7 @@ const careerHighlights = [
 
 const rolePrinciples = [
   'Serve caregivers, children, and teammates with respect and warmth.',
-  'Stay comfortable working around kids and in a café setting.',
+  'Stay comfortable working around kids and in a cafe setting.',
   'Keep spaces calm, clean, and aligned with our safety standards.',
   'Collaborate with your team and practice honest, timely communication.',
   'Seek growth opportunities where possible, from new skills to leadership moments.'
@@ -28,7 +28,7 @@ const CareersPage = () => {
         <p className="badge bg-white/90 text-brand-espresso">Careers</p>
         <h1 className="mt-4 text-4xl font-heading font-extrabold text-brand-espresso">Join a team that wants to be here</h1>
         <p className="mt-3 text-lg text-brand-espresso/80">
-          Work at Co.work.PLAY Café is intentional and meaningful. We support caregivers, kids, and each other with clear expectations
+          Work at Co.work.PLAY Cafe is intentional and meaningful. We support caregivers, kids, and each other with clear expectations
           and a culture grounded in safety, hospitality, and respect.
         </p>
       </section>
@@ -55,7 +55,7 @@ const CareersPage = () => {
         <div className="rounded-2xl bg-white/90 p-6 shadow-soft">
           <h2 className="text-2xl font-heading font-semibold text-brand-espresso">Culture and role expectations</h2>
           <p className="mt-3 text-brand-espresso/80">
-            Purpose-driven roles at Co.work.PLAY Café blend hospitality and childcare support. We look for team members who are calm under
+            Purpose-driven roles at Co.work.PLAY Cafe blend hospitality and childcare support. We look for team members who are calm under
             pressure, kind to families, and committed to safety.
           </p>
           <ul className="mt-4 space-y-3 text-brand-espresso/80">

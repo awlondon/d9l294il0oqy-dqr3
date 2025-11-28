@@ -1,4 +1,4 @@
-# Co.work.PLAY Café – Revenue Streams
+# Co.work.PLAY Cafe – Revenue Streams
 
 ## 1. Memberships
 
@@ -9,7 +9,7 @@ Example tiers (to be finalized in pricing model):
 - **Core Membership (Parent + 1 child)**  
   - Monthly fee.  
   - Includes a set number of play hours per week/month.  
-  - Access to cowork + café seating with priority reservations.
+  - Access to cowork + cafe seating with priority reservations.
 
 - **Expanded Family Membership**  
   - Parent(s) + multiple children.  
@@ -34,7 +34,7 @@ Example tiers (to be finalized in pricing model):
 
 ---
 
-## 3. Café Sales
+## 3. Cafe Sales
 
 - **Beverages**  
   - Specialty coffee, tea, matcha, kids’ drinks, seasonal specials.
@@ -47,7 +47,7 @@ Example tiers (to be finalized in pricing model):
   - Branded mugs, cups, and apparel.  
   - Small curated selection of toys, books, and learning materials.
 
-Café sales provide both incremental margin and a core part of the guest experience.
+Cafe sales provide both incremental margin and a core part of the guest experience.
 
 ---
 
@@ -74,7 +74,7 @@ Once the flagship is validated:
   - Upfront cash for brand license, design, and initial training.
 
 - **Ongoing royalties** (% of gross sales)  
-  - From memberships, passes, café sales, and events.
+  - From memberships, passes, cafe sales, and events.
 
 - **Marketing fund contributions**  
   - System-wide marketing and brand campaigns.
@@ -92,7 +92,7 @@ Potential future streams:
   - Corporate packages where companies pay part of memberships for employees.
 
 - **Sponsored content & brand collaborations**  
-  - Co-branded events or products in the café or play space.
+  - Co-branded events or products in the cafe or play space.
 
 - **Digital layer**  
   - Apps for booking, tracking visits, and content for parents (long-term).

@@ -9,7 +9,7 @@ Applies to all play attendants overseeing the 2–5 zone and under-2 room during
 ## Responsibilities
 - Enforce safety rules, maintain ratios, and perform headcounts every 30 minutes.
 - Lead hourly resets and light engagement (storytime, guided play) without over-structuring.
-- Communicate allergies/notes from host to café and leadership when relevant.
+- Communicate allergies/notes from host to cafe and leadership when relevant.
 - Inspect equipment daily and report maintenance needs.
 - Support party setups and breakdowns as scheduled.
 
@@ -24,7 +24,7 @@ Applies to all play attendants overseeing the 2–5 zone and under-2 room during
 ## Procedures
 1. **Safety Rules to Communicate**
    - Socks required; no shoes on mats/structure.
-   - No food/drink beyond café-safe zones; water bottles allowed in designated area.
+   - No food/drink beyond cafe-safe zones; water bottles allowed in designated area.
    - Caregivers stay reachable; under-2 has stricter calm/no-running rules.
 2. **Incident Response**
    - Minor (scrape/bump): Provide first-aid per training, log, and inform caregiver and Shift Lead.

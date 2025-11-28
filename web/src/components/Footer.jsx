@@ -9,7 +9,7 @@ const Footer = () => {
         </div>
         <div>
           <p className="text-sm uppercase tracking-[0.2em] text-brand-sunset">Visit</p>
-          <p className="mt-2 text-sm">123 Co.work.play Way</p>
+          <p className="mt-2 text-sm">123 Co.work.PLAY Way</p>
           <p className="text-sm">Warm Modern District, Anywhere</p>
         </div>
         <div>
@@ -36,7 +36,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="border-t border-brand-sand/30 px-4 py-4 text-center text-xs text-brand-sand/80 sm:px-6">
-        Co.work.PLAY Café locations are locally owned and operated within a shared safety and brand framework.
+        Co.work.PLAY Cafe locations are locally owned and operated within a shared safety and brand framework.
       </div>
     </footer>
   );

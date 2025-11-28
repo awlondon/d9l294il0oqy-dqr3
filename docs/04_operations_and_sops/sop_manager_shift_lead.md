@@ -16,8 +16,8 @@ Applies to managers and shift leads overseeing operations at flagship and franch
 ## Daily Routine
 - **Pre-open:** Review bookings/parties, labor schedule, and maintenance tickets; run 10-minute huddle covering safety focus and promo of the day.
 - **Active hours:**
-  - Float between host/play/café; spot-check check-in accuracy and café quality.
-  - Track KPIs: check-in wait time, café ticket time, headcounts, and cleanliness scores.
+  - Float between host/play/cafe; spot-check check-in accuracy and cafe quality.
+  - Track KPIs: check-in wait time, cafe ticket time, headcounts, and cleanliness scores.
   - Support breaks and shift changes to maintain ratios.
 - **Wrap:** Confirm checklists, reconcile cash, close POS batches, submit daily report (revenue mix, incidents, staffing notes).
 

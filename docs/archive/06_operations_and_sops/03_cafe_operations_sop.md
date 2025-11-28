@@ -1,15 +1,15 @@
-# Café Operations SOP  
-Co.work.PLAY Café
+# Cafe Operations SOP  
+Co.work.PLAY Cafe
 
 ## 1. Role Purpose
 
-The Café team (baristas / café operators) ensures:
+The Cafe team (baristas / cafe operators) ensures:
 
 - High-quality coffee and food.  
 - Smooth, friendly service.  
 - Cleanliness and safety in all food and beverage areas.
 
-The café is both a **standalone experience** and a support engine for members working and watching their children.
+The cafe is both a **standalone experience** and a support engine for members working and watching their children.
 
 ---
 
@@ -32,7 +32,7 @@ Menus and SKUs will be defined per location and documented in a separate appendi
 
 ---
 
-## 3. Opening Checklist (Café)
+## 3. Opening Checklist (Cafe)
 
 Before opening to guests:
 
@@ -64,8 +64,8 @@ Before opening to guests:
 ### 4.1 Ordering
 
 - Most orders are taken at:
-  - The **bar POS** (café), or  
-  - The **Host stand** for combined check-in + café pre-pay (if configured).
+  - The **bar POS** (cafe), or  
+  - The **Host stand** for combined check-in + cafe pre-pay (if configured).
 
 - Always:
   - Confirm name for the order.  
@@ -102,13 +102,13 @@ Before opening to guests:
 
 ## 6. Cleaning During Service
 
-- Wipe bar and café tables regularly.  
+- Wipe bar and cafe tables regularly.  
 - Maintain trash at safe levels; remove before overflowing.  
 - Spot mop spills immediately (or call support) and mark with a caution sign.
 
 ---
 
-## 7. Closing Checklist (Café)
+## 7. Closing Checklist (Cafe)
 
 1. Turn off and clean espresso machine according to manufacturer and store procedures.  
 2. Clean grinders, brewers, and surfaces.  
@@ -118,4 +118,4 @@ Before opening to guests:
 6. Lock storage and back-of-house food areas if applicable.  
 7. Log closing counts or waste data if required for inventory.
 
-This SOP is paired with café operations training clips and step-by-step checklists.
+This SOP is paired with cafe operations training clips and step-by-step checklists.

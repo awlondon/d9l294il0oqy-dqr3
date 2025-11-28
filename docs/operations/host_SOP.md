@@ -15,7 +15,7 @@ Host (or Manager covering Host).
   - A clear seat label (A-12, etc.).
   - A visible QR code sign ("Scan to order from this seat").
   - Replace any missing or damaged signs.
-- Check with the café that KDS / POS are online and receiving test orders.
+- Check with the cafe that KDS / POS are online and receiving test orders.
 
 ## B. Standard Check-In Flow – Member
 ### Greet

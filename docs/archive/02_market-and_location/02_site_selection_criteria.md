@@ -1,8 +1,8 @@
-# Site Selection Criteria – Co.work.PLAY Café
+# Site Selection Criteria – Co.work.PLAY Cafe
 
 ## 1. Overall Strategy
 
-We aim to locate Co.work.play in **family-dense, remote-work-heavy** neighborhoods with:
+We aim to locate Co.work.PLAY in **family-dense, remote-work-heavy** neighborhoods with:
 
 - Sufficient affluence to support memberships.  
 - Strong daytime and weekend demand.  
@@ -86,9 +86,9 @@ Minimum for flagship:
 
 Other considerations:
 
-- Ability to vent kitchen / café equipment as needed.  
+- Ability to vent kitchen / cafe equipment as needed.  
 - Existing restrooms that can be reconfigured or expanded.  
-- Capacity for adequate HVAC, including additional loads from play + café.
+- Capacity for adequate HVAC, including additional loads from play + cafe.
 
 ---
 

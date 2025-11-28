@@ -8,11 +8,11 @@ Document clear, repeatable flows for member and day-pass guests to reduce fricti
    - Host greets and scans member profile; confirms children on file and any notes/allergies.
    - Apply matching adult/child wristbands or tags; confirm visit end time if play capacity is limited.
 2. **Orientation**
-   - Remind of today’s classes/parties and available cowork seats; highlight café specials.
+   - Remind of today’s classes/parties and available cowork seats; highlight cafe specials.
    - If under-2, review calmer play rules; if meeting room reserved, provide access code.
 3. **During Visit**
    - Host monitors dwell; play attendant logs headcounts every 30 minutes.
-   - Café applies automatic member discount; encourage pre-order via app for second drink.
+   - Cafe applies automatic member discount; encourage pre-order via app for second drink.
 4. **Extension/Bookings**
    - Offer add-on hour if capacity allows; prompt booking of next visit or party at checkout.
 5. **Check-Out**
@@ -24,7 +24,7 @@ Document clear, repeatable flows for member and day-pass guests to reduce fricti
 2. **Payment & Timing**
    - Collect day-pass payment; set end time and communicate extension policy ($12/hr after first 2 hours).
 3. **Orientation**
-   - Review play rules, café options, and meeting room availability; suggest membership if visiting 2x/month.
+   - Review play rules, cafe options, and meeting room availability; suggest membership if visiting 2x/month.
 4. **During Visit**
    - Track wristband colors for expiration; 10-minute warning before end time; offer membership conversion with crediting of day-pass fee if signed same day.
 5. **Check-Out**

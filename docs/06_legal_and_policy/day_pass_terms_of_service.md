@@ -16,7 +16,7 @@ Plain-language terms for non-member guests using day passes; to be reviewed by c
 5. **Fees & Refunds**
    - Fees due at check-in; no refunds for early departure unless facility issue forces closure.
 6. **Liability & Waiver**
-   - Guests acknowledge inherent risks of indoor play and release Co.work.play to the extent permitted by law.
+   - Guests acknowledge inherent risks of indoor play and release Co.work.PLAY to the extent permitted by law.
 7. **Privacy**
    - Personal data used for visit management and safety per `privacy_policy.md`.
 8. **Damages**

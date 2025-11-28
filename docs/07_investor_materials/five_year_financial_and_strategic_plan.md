@@ -1,7 +1,7 @@
 # Five-Year Financial & Strategic Plan
 
 ## Purpose
-Provide a concise five-year roadmap for Co.work.PLAY Café, combining unit-level economics with the expansion cadence needed to reach multi-region scale while managing capital intensity.
+Provide a concise five-year roadmap for Co.work.PLAY Cafe, combining unit-level economics with the expansion cadence needed to reach multi-region scale while managing capital intensity.
 
 ## Expansion Roadmap (Years 1–5)
 - **Regional growth model:** Start with a Phoenix flagship as the proof-of-concept and training hub, cluster nearby locations to refine operations, then replicate the format across additional regions.
@@ -12,15 +12,15 @@ Provide a concise five-year roadmap for Co.work.PLAY Café, combining unit-level
 
 ## Unit CAPEX (3,000–5,000 SF Prototype)
 - **Leasehold improvements:** ~$150–$200 per SF; a 4,000 SF site ranges ~$600K–$800K.
-- **Café/kitchen equipment:** ~$200K for espresso/brewing/blending gear plus $50K–$100K for ovens, refrigeration, and dish.
+- **Cafe/kitchen equipment:** ~$200K for espresso/brewing/blending gear plus $50K–$100K for ovens, refrigeration, and dish.
 - **Play equipment:** $30K–$50K for commercial toddler play modules, mats, and sensory items.
 - **AI-GM hardware:** $10K–$20K for displays (3–5 screens), media players/mini-PCs, sensors, and mounts.
-- **FF&E:** $50K–$100K for seating, café bar, conference furnishings, fixtures, and décor.
+- **FF&E:** $50K–$100K for seating, cafe bar, conference furnishings, fixtures, and décor.
 - **Build-out labor & soft costs:** $150K–$250K for contractor fees, permits, design, signage, and contingency.
 - **Total per unit:** ~$1.0–$1.5M depending on finish level and shell condition.
 
 ## Unit OPEX (Annual)
-- **Staffing:** ~$180K–$300K (10–15 staff across café, play area, and community management).
+- **Staffing:** ~$180K–$300K (10–15 staff across cafe, play area, and community management).
 - **Rent:** ~$240K/year assuming ~$5/SF/month on 4,000 SF urban retail.
 - **Utilities:** ~$40K/year (electric, water, gas, internet).
 - **Maintenance & security:** $12K–$36K/year for cleaning, sanitization, repairs, and monitoring.
@@ -29,9 +29,9 @@ Provide a concise five-year roadmap for Co.work.PLAY Café, combining unit-level
 
 ## Revenue Model & Margin Targets
 - **Coworking:** ~$6–$13 per SF/month; at 4,000 SF this implies ~$288K–$624K/year at high occupancy. Breakeven typically requires 60–70% utilization.
-- **Café:** ~$300–$800 per SF/year on ~1,000 SF café zone; ~$300K–$800K/year at maturity. Gross margin ~60%; net EBITDA margin ~15%.
+- **Cafe:** ~$300–$800 per SF/year on ~1,000 SF cafe zone; ~$300K–$800K/year at maturity. Gross margin ~60%; net EBITDA margin ~15%.
 - **Party/Event rentals:** $500–$1,500 per event; 10 events/month at $1,000 adds ~$120K/year of high-margin revenue.
-- **Blended yield:** Combined coworking + café can target ~$500–$800 per SF/year (~$2.0–3.2M/year at full capture on 4,000 SF).
+- **Blended yield:** Combined coworking + cafe can target ~$500–$800 per SF/year (~$2.0–3.2M/year at full capture on 4,000 SF).
 - **Net margin:** System-level net margin expected in the 10–15% range once stabilized, with upside to 20%+ at mature, high-occupancy units.
 
 ## Cash Flow & Payback
@@ -60,6 +60,6 @@ Provide a concise five-year roadmap for Co.work.PLAY Café, combining unit-level
 ## Risk Watchlist
 - **Occupancy risk:** Mitigation via local marketing, employer partnerships, and community events to drive early desk adoption.
 - **Capex creep:** Guardrails through standardized design kit, value-engineered finishes, and landlord TI negotiations.
-- **Labor variability:** Cross-train café/play/community roles; monitor wage inflation by market.
+- **Labor variability:** Cross-train cafe/play/community roles; monitor wage inflation by market.
 - **Regulatory drift:** Periodic reviews of childcare, food, and accessibility codes per region; local counsel for international pilots.
 - **Technology adoption:** Ensure AI-GM reliability and clear staff training; maintain privacy-by-design practices for sensors/cameras.

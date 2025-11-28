@@ -1,7 +1,7 @@
 # Privacy Policy (Outline)
 
 ## Purpose
-Explain how Co.work.PLAY Café collects, uses, and protects personal information for members, guests, and franchisees. Final language subject to legal review and local regulation.
+Explain how Co.work.PLAY Cafe collects, uses, and protects personal information for members, guests, and franchisees. Final language subject to legal review and local regulation.
 
 ## Information We Collect
 - Contact details (name, email, phone), child names/ages, authorized pickups.

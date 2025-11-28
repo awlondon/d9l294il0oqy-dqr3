@@ -22,7 +22,7 @@ const MenuPage = () => {
     <div className="bg-brand-sand">
       <section className="mx-auto max-w-5xl px-4 pt-10 sm:px-6 sm:pt-14">
         <p className="badge bg-white/90 text-brand-espresso">Menu</p>
-        <h1 className="mt-4 text-4xl font-heading font-extrabold text-brand-espresso">Café fuel + kid joy</h1>
+        <h1 className="mt-4 text-4xl font-heading font-extrabold text-brand-espresso">Cafe fuel + kid joy</h1>
         <p className="mt-3 text-lg text-brand-espresso/80">
           Specialty coffee, hearty snacks, and playful kid plates crafted for caregivers on the go.
         </p>

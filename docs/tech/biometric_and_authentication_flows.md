@@ -17,7 +17,7 @@ Adult-only, optional biometrics paired with inclusive alternatives.
 
 ## Workstation Login & Ordering
 - Members can authenticate at shared workstations/tablets via biometric tap or QR/PIN.
-- Orders placed in café app can leverage stored authentication; fallback to card/contactless payment at POS.
+- Orders placed in cafe app can leverage stored authentication; fallback to card/contactless payment at POS.
   - Biometric use is limited to seat login and account confirmation for adults; it is not used for child identification.
 
 ## Account Changes & Opt-Out

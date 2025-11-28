@@ -5,7 +5,7 @@ High-level structure for the franchise agreement/FDD items; counsel to draft fin
 
 ## Core Sections
 1. **Grant of Franchise & Territory**
-   - Rights to operate Co.work.PLAY Café within defined territory; exclusivity parameters and conditions for encroachment.
+   - Rights to operate Co.work.PLAY Cafe within defined territory; exclusivity parameters and conditions for encroachment.
 2. **Term & Renewal**
    - Initial term (e.g., 10 years) with renewal options; conditions for renewal and fees.
 3. **Fees & Payments**

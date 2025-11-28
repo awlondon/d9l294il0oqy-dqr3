@@ -1,4 +1,4 @@
-# Co.work.PLAY Café Legal and Financial Specifications
+# Co.work.PLAY Cafe Legal and Financial Specifications
 
 ## Franchise Agreement Summary
 - **Grant of Franchise & Territory**: Provides franchisees with exclusive rights to operate within a defined geographic territory (city, ZIP code, or equivalent). Includes parameters for exclusivity, encroachment protections, and conditions for multi-unit development.
@@ -18,12 +18,12 @@
 - **Franchisor Rights & Obligations**: Summarizes franchisor commitments (brand development, initial training, ongoing support) and franchisee obligations (compliance, fees, reporting). Notes exhibits/schedules such as Site Criteria, Design Guidelines, Opening Checklist, Insurance Requirements, and Manuals Acknowledgement.
 
 ## Membership & Guest Pass Terms of Service
-- **Membership Types & Fees**: Defines available plans (e.g., unlimited family plan, part-time, add-on children) with included benefits (supervised play for specified children, coworking access, café discounts) and pricing. Includes auto-payment terms (monthly billing) and initial enrollment fees.
+- **Membership Types & Fees**: Defines available plans (e.g., unlimited family plan, part-time, add-on children) with included benefits (supervised play for specified children, coworking access, cafe discounts) and pricing. Includes auto-payment terms (monthly billing) and initial enrollment fees.
 - **Billing & Cancellation**: Explains auto-renewal and cancellation policy requiring 30 days’ notice before next billing. States partial-month refunds are not provided; prorated credits may apply for extended closures. Describes late fees and service suspension after grace periods.
 - **Access & Check-In**: Requires adult members and children to check in with matching wristbands/IDs. Only pre-authorized adults may pick up each child; ID checks may apply.
-- **Use of Facilities**: Members and guests must follow Play Area Safety Rules (socks required, no shoes in play structures, no rough play, clean up spills, respect others’ space) and staff instructions. Outside snacks only in designated café areas; water bottles permitted. Notes age-specific rules (e.g., quiet zone for under‑2s).
+- **Use of Facilities**: Members and guests must follow Play Area Safety Rules (socks required, no shoes in play structures, no rough play, clean up spills, respect others’ space) and staff instructions. Outside snacks only in designated cafe areas; water bottles permitted. Notes age-specific rules (e.g., quiet zone for under‑2s).
 - **Health & Conduct**: Visitors must be symptom-free; staff may refuse entry or end visits if illness or unsafe conduct is observed. Repeated violations can lead to suspension or termination of access.
-- **Waiver & Liability Release**: Members acknowledge inherent risks of indoor play and release Co.work.play and franchisees from liability to the extent permitted by law. Guardians consent to basic first aid and emergency care. Clarifies Co.work.play is not licensed childcare and supervised play is not daycare.
+- **Waiver & Liability Release**: Members acknowledge inherent risks of indoor play and release Co.work.PLAY and franchisees from liability to the extent permitted by law. Guardians consent to basic first aid and emergency care. Clarifies Co.work.PLAY is not licensed childcare and supervised play is not daycare.
 - **Photo/Video Consent**: Informs visitors that photography/video may occur for safety or marketing, with opt-out instructions and usage limits.
 - **Privacy & Data Use**: References the Privacy Policy for details. States member data (contact info, child info, payment details, usage history) is used for account management, safety, and communications and is not sold.
 - **Suspension/Termination**: Reserves the right to suspend or terminate membership for non-payment, safety violations, facility misuse, or breach of terms, with applicable refund/credit rules.
@@ -45,13 +45,13 @@
 - **Insurance Requirements**: Maintain general liability, commercial property, workers’ compensation, and umbrella/excess liability coverage; add liquor liability if serving alcohol. Franchise agreement should specify minimum coverages and require proof of insurance with franchisor as additional insured.
 
 ## Risk Mitigation and Waivers
-- **Play Area Safety Rules**: Post rules covering footwear (socks required, no outdoor shoes), food/drink limits (water only in play; food in café areas), supervision expectations (adults on-site; staff not babysitters; quiet rules for under-2 area), cleanliness reporting, and behavior standards (no rough-housing, throwing toys, or climbing exteriors; respect shared spaces).
+- **Play Area Safety Rules**: Post rules covering footwear (socks required, no outdoor shoes), food/drink limits (water only in play; food in cafe areas), supervision expectations (adults on-site; staff not babysitters; quiet rules for under-2 area), cleanliness reporting, and behavior standards (no rough-housing, throwing toys, or climbing exteriors; respect shared spaces).
 - **Waiver and Liability Release**: Include assumption of risk, agreement to comply with rules and staff instructions, medical consent for basic first aid and emergency care when guardians are unreachable, liability release and indemnification provisions, photo/video consent with opt-out, and explicit non-childcare disclaimer.
 - **Operational Notes**: Require waivers at first visit and upon material updates; link waiver records to member accounts/wristbands. Train staff to enforce rules and log incidents consistently.
 
 ## Financial Specifications
 ### Flagship CapEx and OpEx Budget Structure
-- **Capital Expenditures (CapEx)**: Build-out and finishes from warm shell to completed interiors; play equipment and safety surfacing; kitchen/café equipment; furniture and fixtures; signage/branding; technology/AV; and soft costs (architecture/design, permitting, legal, marketing launch, contingency). Placeholder example: total flagship CapEx estimated at $[2,200,000] for Phoenix prototype.
+- **Capital Expenditures (CapEx)**: Build-out and finishes from warm shell to completed interiors; play equipment and safety surfacing; kitchen/cafe equipment; furniture and fixtures; signage/branding; technology/AV; and soft costs (architecture/design, permitting, legal, marketing launch, contingency). Placeholder example: total flagship CapEx estimated at $[2,200,000] for Phoenix prototype.
 - **Operating Expenses (OpEx)**: Rent/lease for ~8,500 SF (with CAM/utilities if separate); salaries/payroll for management, baristas, and play staff; utilities; insurance and permit renewals; maintenance and supplies; marketing/advertising; technology/software subscriptions; royalty/brand fund contributions where applicable; and miscellaneous expenses (office costs, bank/processing fees, small equipment replacement, training updates).
 
 ### Franchise Fee Model (Template)
@@ -64,12 +64,12 @@
 - **Example Placeholder**: Initial Fee $[50,000]; Royalty [6]% of Gross Sales; Marketing Fund [2]% of Gross Sales.
 
 ### Investor ROI Scenarios
-- **Flagship (Owner-Operator) ROI**: Investment includes CapEx plus working capital. Revenues from memberships, day passes, and café sales with target gross margin of ~65–70%. Aim for break-even around 18–24 months and EBITDA of [__]% by Year 3. Illustrative placeholders: IRR ≈ []% with payback in [] years.
+- **Flagship (Owner-Operator) ROI**: Investment includes CapEx plus working capital. Revenues from memberships, day passes, and cafe sales with target gross margin of ~65–70%. Aim for break-even around 18–24 months and EBITDA of [__]% by Year 3. Illustrative placeholders: IRR ≈ []% with payback in [] years.
 - **Franchisor ROI**: Upfront brand development investment ~$[X] with recovery via initial franchise fees (e.g., $[50K] per new franchise), recurring royalties ([6]% of sales), marketing fund contributions, and profits from company-owned units. Example scenario: [10] franchises by Year 5 yields $[500K] in initial fees plus ongoing royalties of $[Y]. Franchise system equity value increases as units scale.
 - **Equity Considerations**: Evaluate franchisor entity valuation alongside cash flows to capture system growth.
 
 ### Break-Even Timeline & Cost Assumptions
-- **Assumptions**: Establish fixed monthly costs (rent, salaries, utilities, insurance, marketing, other) and variable costs per customer (café margin, cost per play session/child-hour). Define revenue metrics (membership price, day-pass price, average daily volume).
+- **Assumptions**: Establish fixed monthly costs (rent, salaries, utilities, insurance, marketing, other) and variable costs per customer (cafe margin, cost per play session/child-hour). Define revenue metrics (membership price, day-pass price, average daily volume).
 - **Calculation**: Estimate break-even monthly sales to cover fixed costs using average revenue per visit. Translate into required memberships or day-pass visits per month.
 - **Timeline**: With planned ramp-up of memberships and day-pass volume, target break-even around [__] months post-launch (e.g., month 18 as memberships mature).
 - **Metrics Table (Placeholders)**:

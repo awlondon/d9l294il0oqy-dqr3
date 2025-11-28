@@ -11,7 +11,7 @@ For each site, we rate:
 - **Visibility & Access (0–10)** – signage, traffic, parking, stroller-friendliness.  
 - **Physical Fit (0–10)** – SF, shape, ceiling heights, build-out flexibility.  
 - **Economics (0–10)** – rent vs. model, TI potential, CAM, incentives.  
-- **Overall Co.work.play Fit (0–10)** – holistic sense of brand and operational fit.
+- **Overall Co.work.PLAY Fit (0–10)** – holistic sense of brand and operational fit.
 
 ---
 
@@ -74,7 +74,7 @@ For each site, we rate:
   - Mix of retail, dining, boutique fitness, and possibly offices.
 
 - **Pros**  
-  - High-spend demographic; strong café and membership potential.  
+  - High-spend demographic; strong cafe and membership potential.  
   - Attractive co-tenancy and cross-traffic.
 
 - **Cons**  
@@ -98,7 +98,7 @@ For each site, we rate:
 - **Pros**  
   - Strong “kid logistics” traffic (before/after school, weekends).  
   - Lower rents than premium neighborhoods.  
-  - Great for a “Neighborhood Co.work.play” format.
+  - Great for a “Neighborhood Co.work.PLAY” format.
 
 - **Cons**  
   - Less brand halo than flagship sites.  

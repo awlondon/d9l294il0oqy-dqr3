@@ -1,7 +1,7 @@
 # CoWorkPlay Investor Deck: Key Slides
 
 - Problem and audience: remote-working parents seeking flexible childcare support.
-- Solution: café + supervised play with memberships and day passes.
+- Solution: cafe + supervised play with memberships and day passes.
 - Market: Phoenix flagship opportunity and national franchise expansion.
 - Business model: revenue mix, membership tiers, royalties/fees.
 - Traction and timeline: site selection, design milestones, and opening targets.

@@ -1,5 +1,5 @@
 # Cleaning & Safety Checklists  
-Co.work.PLAY Café
+Co.work.PLAY Cafe
 
 > This document defines **who does what**, **how often**, and **what counts as “done”**  
 > for cleaning and safety procedures across the space.
@@ -9,7 +9,7 @@ Co.work.PLAY Café
 ## 1. Zones Covered
 
 - Entry / Host & Retail
-- Café Bar & Café Seating
+- Cafe Bar & Cafe Seating
 - Cowork Areas (Open + Quiet + Phone Rooms)
 - Main Toddler Play
 - Baby / Under-2 & Sensory Room
@@ -36,15 +36,15 @@ Each checklist indicates: **Responsible Role** + **Frequency**.
 - [ ] Check for tripping hazards (mats flat, cables secured).
 - [ ] Confirm emergency exits and exit paths are unobstructed.
 
-### 2.2 Café Bar & Seating  
-**Responsible:** Café Team  
+### 2.2 Cafe Bar & Seating  
+**Responsible:** Cafe Team  
 **Frequency:** Daily, before opening
 
 - [ ] Sanitize all bar surfaces and counters.
-- [ ] Wipe café tables and chairs (tops and arms).
+- [ ] Wipe cafe tables and chairs (tops and arms).
 - [ ] Check chairs and stools for stability.
 - [ ] Clean pastry case glass and interior surfaces (as allowed).
-- [ ] Sweep/mop café floor as needed.
+- [ ] Sweep/mop cafe floor as needed.
 - [ ] Confirm trash cans are empty, liners replaced.
 - [ ] Check espresso machine, grinders, and brewer exteriors are clean.
 
@@ -99,7 +99,7 @@ Each checklist indicates: **Responsible Role** + **Frequency**.
 - [ ] Confirm baby changing stations are clean and stocked.
 
 ### 2.8 Back-of-House / Kitchen / Storage  
-**Responsible:** Café Team + Manager  
+**Responsible:** Cafe Team + Manager  
 **Frequency:** Daily, before opening
 
 - [ ] Sanitize food prep surfaces.
@@ -122,7 +122,7 @@ Each checklist indicates: **Responsible Role** + **Frequency**.
 ### 3.1 Hourly or As-Needed Touch-Ups  
 **Responsible:** All roles, led by Manager
 
-- [ ] Wipe café tables between guest turnovers.
+- [ ] Wipe cafe tables between guest turnovers.
 - [ ] Spot-clean spills immediately (use wet floor signs if needed).
 - [ ] Empty trash if more than ~75% full.
 - [ ] Quick restroom check every 60–90 minutes:
@@ -147,11 +147,11 @@ Each checklist indicates: **Responsible Role** + **Frequency**.
 - [ ] Tidy retail shelves; consolidate products.
 - [ ] Turn off any entry displays, lights per policy.
 
-### 4.2 Café Bar & Seating  
+### 4.2 Cafe Bar & Seating  
 - [ ] Fully clean espresso machine per procedure.
 - [ ] Wipe all bar surfaces and equipment exteriors.
-- [ ] Clean and sanitize café tables and chairs.
-- [ ] Sweep and mop café floor.
+- [ ] Clean and sanitize cafe tables and chairs.
+- [ ] Sweep and mop cafe floor.
 - [ ] Discard or store food items according to food safety rules.
 - [ ] Remove trash and recycling; clean bins as needed.
 
@@ -194,7 +194,7 @@ Each checklist indicates: **Responsible Role** + **Frequency**.
 - [ ] Deep clean play equipment (per manufacturer guidelines).  
 - [ ] Launder or deep clean soft play items and cushions.  
 - [ ] Dust vents, high surfaces, and light fixtures.  
-- [ ] Move furniture and clean underneath in café and cowork.  
+- [ ] Move furniture and clean underneath in cafe and cowork.  
 - [ ] Deep descale espresso machine and coffee equipment (if not done more frequently).
 - [ ] Inspect walls and corners for scuffs; touch up as needed.
 
@@ -208,7 +208,7 @@ Use these two sheets in Word/Docs and export as a 2-page PDF for daily use.
 
 **Title:**
 
-Co.work.PLAY Café – Daily Cleaning & Safety Checklist (Opening & Closing)  
+Co.work.PLAY Cafe – Daily Cleaning & Safety Checklist (Opening & Closing)  
 Date: ________ Manager: ________
 
 #### A. Opening – Before First Guests
@@ -222,10 +222,10 @@ Date: ________ Manager: ________
 - [ ] Stroller parking clearly marked and unobstructed
 - [ ] Exits and exit paths clear
 
-**Café Bar & Seating**
+**Cafe Bar & Seating**
 
 - [ ] Bar surfaces sanitized
-- [ ] Café tables and chairs wiped
+- [ ] Cafe tables and chairs wiped
 - [ ] Pastry case glass cleaned; items displayed per policy
 - [ ] Trash bins empty; liners replaced
 - [ ] Espresso machine, grinders, brewers wiped and ready
@@ -288,12 +288,12 @@ Opening completed by: _______ Time: _______
 - [ ] Retail shelves neat; items consolidated
 - [ ] Trash removed; liners replaced
 
-**Café Bar & Seating**
+**Cafe Bar & Seating**
 
 - [ ] Espresso machine cleaned per closing procedure
 - [ ] Brewers, grinders, and bar surfaces sanitized
-- [ ] Café tables and chairs fully wiped
-- [ ] Café floors swept and mopped
+- [ ] Cafe tables and chairs fully wiped
+- [ ] Cafe floors swept and mopped
 - [ ] Perishable items stored or discarded per policy
 - [ ] Trash/recycling emptied; bins wiped if needed
 
@@ -345,7 +345,7 @@ Closing completed by: _______ Time: _______
 
 **Title:**
 
-Co.work.PLAY Café – Midday & Weekly Cleaning / Safety Checklist  
+Co.work.PLAY Cafe – Midday & Weekly Cleaning / Safety Checklist  
 Week of: ________ Manager: ________
 
 #### A. Midday – During Service (Repeat Throughout Day)
@@ -355,7 +355,7 @@ Week of: ________ Manager: ________
 - [ ] Spills cleaned immediately; wet floor sign used if needed
 - [ ] Trash & recycling emptied before overflowing (~75% full)
 
-**Café & Cowork**
+**Cafe & Cowork**
 
 - [ ] Tables wiped between guests
 - [ ] High-crumb or sticky spots cleaned promptly
@@ -382,7 +382,7 @@ Midday checks done by: ______ (initials/time)
 - [ ] Deep clean play equipment (per manufacturer)
 - [ ] Launder/deep clean soft items (cushions, fabric toys, etc.)
 - [ ] Dust high surfaces, vents, and light fixtures
-- [ ] Move furniture and clean underneath (café + cowork)
+- [ ] Move furniture and clean underneath (cafe + cowork)
 - [ ] Descale espresso machine and coffee equipment (if not more frequent)
 - [ ] Inspect walls/corners and address scuffs/marks
 
@@ -403,7 +403,7 @@ Manager weekly review complete: ______ Date: ______
 
 > Copy/paste into a single page; add checkboxes or lines as needed.
 
-Co.work.PLAY Café — Daily Cleaning & Safety Checklist
+Co.work.PLAY Cafe — Daily Cleaning & Safety Checklist
 
 Date: ____________  Open by: ____________  Close by: ____________
 
@@ -417,9 +417,9 @@ Date: ____________  Open by: ____________  Close by: ____________
 - [ ] Stroller parking area clear and marked
 - [ ] All exits and exit paths unobstructed
 
-**Café Bar & Seating**
+**Cafe Bar & Seating**
 - [ ] Bar surfaces sanitized
-- [ ] Café tables and chairs wiped (tops + arms)
+- [ ] Cafe tables and chairs wiped (tops + arms)
 - [ ] Pastry case glass cleaned; food displayed per policy
 - [ ] Trash bins empty, liners replaced
 - [ ] Espresso machine, grinders, brewers wiped and ready
@@ -470,7 +470,7 @@ Date: ____________  Open by: ____________  Close by: ____________
 - [ ] Spills cleaned immediately; wet floor sign used if needed
 - [ ] Trash/recycling emptied before overflowing (~75% full)
 
-**Café & Cowork**
+**Cafe & Cowork**
 - [ ] Tables wiped between guest turns
 - [ ] High-crumb / sticky areas spot-cleaned
 
@@ -491,11 +491,11 @@ Date: ____________  Open by: ____________  Close by: ____________
 - [ ] Retail shelves tidy; products consolidated if needed
 - [ ] Trash removed; liners replaced
 
-**Café Bar & Seating**
+**Cafe Bar & Seating**
 - [ ] Espresso machine cleaned per closing procedure
 - [ ] Brewers, grinders, and bar surfaces wiped and sanitized
-- [ ] Café tables and chairs fully wiped
-- [ ] Café floor swept and mopped
+- [ ] Cafe tables and chairs fully wiped
+- [ ] Cafe floor swept and mopped
 - [ ] Perishable items discarded or stored per food safety rules
 - [ ] Trash and recycling emptied; bins wiped if needed
 

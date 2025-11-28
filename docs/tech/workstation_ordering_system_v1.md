@@ -3,13 +3,13 @@
 ## Goals
 - Provide a reliable check-in-to-check-out workflow that pairs every member visit with an assigned workstation code.
 - Enable members to login and order from their seats via phone or optional shared tablet without staff intervention.
-- Route orders with clear seat context to the café and runners so table service stays fast and accurate.
+- Route orders with clear seat context to the cafe and runners so table service stays fast and accurate.
 - Keep data models and APIs simple enough for launch while leaving space for later automation.
 
 ## Roles & Actors
 - **Member/Guest:** Authenticates to a seat, places orders, and receives deliveries.
 - **Host:** Assigns seats at check-in, assists with login issues, and manages check-out.
-- **Café Operator/Kitchen:** Prepares orders with seat codes visible on the KDS and labels.
+- **Cafe Operator/Kitchen:** Prepares orders with seat codes visible on the KDS and labels.
 - **Runner:** Delivers completed orders to seats using seat codes; updates completion status if needed.
 - **System Services:** Authentication, seat assignment, order management, notifications.
 
@@ -33,10 +33,10 @@
 ### Ordering
 1. Member browses menu in the app or on the tablet tied to the seat_code.
 2. Order is created with seat_code, member ID, payment method, and any allergy notes.
-3. Payment is authorized; order status moves to `received` and routes to the café/KDS.
+3. Payment is authorized; order status moves to `received` and routes to the cafe/KDS.
 
 ### Fulfillment & Delivery (Manual Runners)
-1. Café operator prepares items; KDS and labels show seat_code prominently.
+1. Cafe operator prepares items; KDS and labels show seat_code prominently.
 2. Runner picks up completed orders, confirms seat_code, and delivers to the workstation.
 3. Runner can mark `delivered` in the system or notify host if the member is unavailable.
 

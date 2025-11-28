@@ -1,7 +1,7 @@
-# Co.work.PLAY Café – Owner Manifesto
+# Co.work.PLAY Cafe – Owner Manifesto
 
 ## Founding Moment
-Co.work.PLAY Café was first conceived on November 10, 2025, during a video call between co-founders Alex London and Savannah Strasner. On that call, they used an AI assistant to sketch a “Phoenix flagship” concept: a cowork café with a supervised toddler play space and a model that could scale as company-owned flagships and locally owned franchises. The Owner Manifesto you’re reading is the next chapter of that idea.
+Co.work.PLAY Cafe was first conceived on November 10, 2025, during a video call between co-founders Alexander Warren London and Savannah Strasner. On that call, they used an AI assistant to sketch a “Phoenix flagship” concept: a cowork cafe with a supervised toddler play space and a model that could scale as company-owned flagships and locally owned franchises. The Owner Manifesto you’re reading is the next chapter of that idea.
 
 ## What this is (and what it isn’t)
 Co.work.PLAY is a system designed to be owned, not a personality-driven or ego-driven venture. The playbook is built so you can run it with discipline and care, independent of any single founder’s charisma.

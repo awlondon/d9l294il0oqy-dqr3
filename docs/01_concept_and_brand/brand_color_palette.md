@@ -1,4 +1,4 @@
-# Co.work.PLAY Café Brand Color Palette
+# Co.work.PLAY Cafe Brand Color Palette
 
 ## Core Brand Colors
 | Name | Role | Hex | RGB | CMYK |

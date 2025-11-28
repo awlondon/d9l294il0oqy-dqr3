@@ -18,12 +18,12 @@ Applies to hosts at flagship and franchise locations during all operating hours.
 - **Active hours:**
   - Check-in: Confirm membership status, apply matching adult/child tags, review play rules, and note allergies.
   - Payment: Collect day-pass fees, add-on hours, or guest counts; process waivers if new.
-  - Communication: Radio play attendants for headcounts; alert café of large groups.
+  - Communication: Radio play attendants for headcounts; alert cafe of large groups.
 - **Wrap:** Reconcile cash/receipts, tidy lobby, log lost-and-found.
 
 ## Procedures
 1. **Check-In Script**
-   - “Welcome to Co.work.play! Are you a member or visiting today?”
+   - “Welcome to Co.work.PLAY! Are you a member or visiting today?”
    - For members: confirm identity, apply wristbands, remind of booking windows.
    - For day pass: process waiver, collect payment, set end time, and explain extension policy.
 2. **Safety Verification**

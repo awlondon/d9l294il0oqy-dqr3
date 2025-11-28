@@ -8,7 +8,7 @@ How Sora-generated clips flow into training modules and stay organized.
 - Metadata file (CSV/JSON) captures prompt text, generation date, resolution, and rights notes.
 
 ## Labeling & QA
-- Each clip tagged with module, role (host/play attendant/café/manager/franchise), scenario, and safety flags.
+- Each clip tagged with module, role (host/play attendant/cafe/manager/franchise), scenario, and safety flags.
 - Quick QA checklist: audio clarity, brand tone, signage accuracy, and no identifiable minors.
 - Versioning: increment version suffix when prompts are tweaked; keep prior versions for rollback.
 

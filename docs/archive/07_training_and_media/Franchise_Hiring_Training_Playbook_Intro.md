@@ -1,22 +1,22 @@
-# Co.work.PLAY Café  
+# Co.work.PLAY Cafe  
 Franchise Hiring & Training Playbook
 
 ## 1. Purpose of This Playbook
 
 This playbook is a practical guide to help you:
 
-- **Staff your Co.work.PLAY Café** with the right people in the right roles.
-- **Train your team** using the standard Co.work.play curriculum (videos, SOPs, and checklists).
+- **Staff your Co.work.PLAY Cafe** with the right people in the right roles.
+- **Train your team** using the standard Co.work.PLAY curriculum (videos, SOPs, and checklists).
 - **Open smoothly** and hit a high standard of guest experience from Day 1.
 
 It covers the period from **6 months before opening (T-6)** through the **first 90 days after opening (T+3)** and is designed to work for:
 
 - The Phoenix flagship store, and  
-- Franchise locations using Co.work.play’s brand and operating system.
+- Franchise locations using Co.work.PLAY’s brand and operating system.
 
 You should use this document alongside:
 
-- The **Operations SOPs** (Host, Play Attendant, Café, Manager).  
+- The **Operations SOPs** (Host, Play Attendant, Cafe, Manager).  
 - The **Cleaning & Safety Checklists**.  
 - The **Training Modules Overview & Video Library** in the franchisor portal.  
 
@@ -26,9 +26,9 @@ You should use this document alongside:
 
 ### 2.1 What We’re Staffing For
 
-Co.work.PLAY Café is a **hybrid space**:
+Co.work.PLAY Cafe is a **hybrid space**:
 
-- A **café** with high-quality coffee, snacks, and light meals.  
+- A **cafe** with high-quality coffee, snacks, and light meals.  
 - A **cowork environment** with Wi-Fi, power, and quiet zones.  
 - A **supervised play space** for young children (toddlers to early elementary), with a separate under-2 / sensory room.
 
@@ -42,7 +42,7 @@ To make this work, every store needs a team that can:
 
 - Keep children **safe and engaged**.  
 - Keep adults **welcomed and productive**.  
-- Run the café and facility with **professional, repeatable operations**.
+- Run the cafe and facility with **professional, repeatable operations**.
 
 ### 2.2 Core Roles
 
@@ -60,12 +60,12 @@ For most stores (including the flagship), the core roles are:
   - Supervises the play and baby/sensory areas.  
   - Conducts safety checks, manages behavior, and communicates with parents.  
 
-- **Café Operator / Barista**  
+- **Cafe Operator / Barista**  
   - Prepares beverages and food.  
-  - Maintains café standards and supports the atmosphere for working adults.  
+  - Maintains cafe standards and supports the atmosphere for working adults.  
 
 - **Support/Flex Team Member**  
-  - Floats between Host, Play, and Café.  
+  - Floats between Host, Play, and Cafe.  
   - Handles resets, cleaning, and simple tasks in each zone as trained.
 
 Each role has its own **SOP** and **training modules** that define:
@@ -78,7 +78,7 @@ Each role has its own **SOP** and **training modules** that define:
 
 ## 3. Timeline & Milestones
 
-Co.work.play uses a relative timeline to keep planning simple:
+Co.work.PLAY uses a relative timeline to keep planning simple:
 
 - **T-6**: 6 months before scheduled opening  
 - **T0**: Opening month  
@@ -119,8 +119,8 @@ You can also view the timeline by role:
 | Hosts – Role Training (FOH)         |     |     |     |     | X   | X   | X   |     |
 | Play Attendants – Hire & Orient     |     |     |     | X   | X   |     |     |     |
 | Play Attendants – Safety & Play     |     |     |     |     | X   | X   | X   |     |
-| Café Team – Hire & Orient           |     |     |     | X   | X   |     |     |     |
-| Café – Menu & Service Training      |     |     |     |     | X   | X   | X   |     |
+| Cafe Team – Hire & Orient           |     |     |     | X   | X   |     |     |     |
+| Cafe – Menu & Service Training      |     |     |     |     | X   | X   | X   |     |
 | Support/Flex – Cross-Training       |     |     |     |     | X   | X   | X   |     |
 
 This helps you verify that each role has **enough time** to be trained before opening.
@@ -155,7 +155,7 @@ The remaining sections of the playbook (not shown here) will go deeper into:
 **Goals:**
 - Manager fully grounded in brand, SOPs, and schedule plan.
 - New hires onboarded (paperwork, introductions, basic concept).
-- Everyone knows “what Co.work.play is” and who we serve.
+- Everyone knows “what Co.work.PLAY is” and who we serve.
 
 **Activities:**
 
@@ -179,17 +179,17 @@ The remaining sections of the playbook (not shown here) will go deeper into:
 - Assigned reading:
   - Play Attendant SOP, basic incident protocol.
 
-**Café Operators**
+**Cafe Operators**
 - One half-day group session:
-  - Café role in the overall experience.
+  - Cafe role in the overall experience.
   - Menu overview (no recipes yet).
 - Assigned reading:
-  - Café SOP (sections on service and cleanliness).
+  - Cafe SOP (sections on service and cleanliness).
 
 **Support/Flex**
 - Attend whichever session matches their future rotation.
 - Assigned reading:
-  - Overview sections of Host, Play, and Café SOPs.
+  - Overview sections of Host, Play, and Cafe SOPs.
 
 ---
 
@@ -227,14 +227,14 @@ The remaining sections of the playbook (not shown here) will go deeper into:
     - A shy child not joining play.
     - A child crying and needing parent.
 
-**Café Operators**
+**Cafe Operators**
 - 2 x 2–3 hour sessions:
-  - POS practice for café items.
+  - POS practice for cafe items.
   - Walkthrough of espresso machine and equipment (if installed).
   - Food safety basics and cleaning routines.
 
 **Support/Flex**
-- Shadow one Host session and one Play/Café session.
+- Shadow one Host session and one Play/Cafe session.
 - Clarify “where you go first” during busy periods.
 
 ---
@@ -255,7 +255,7 @@ The remaining sections of the playbook (not shown here) will go deeper into:
 
 **Hosts**
 - In-space drills (2–3 sessions):
-  - Walk-through from entry → host → play / café → cowork.
+  - Walk-through from entry → host → play / cafe → cowork.
   - Practice check-in with **timed role-plays**:
     - “New member, 1 child, nervous.”
     - “Existing member + guest, running late for reserved play block.”
@@ -269,7 +269,7 @@ The remaining sections of the playbook (not shown here) will go deeper into:
     - Minor injury scenario with Manager observing.
     - Document in incident log.
 
-**Café Operators**
+**Cafe Operators**
 - In-space drills:
   - Prep basic drinks (even if using water/test beans).
   - Practice ticket flow:
@@ -279,7 +279,7 @@ The remaining sections of the playbook (not shown here) will go deeper into:
 **Support/Flex**
 - Practice “floating”:
   - Start at Host during a mock mini-rush.
-  - Move to café to help with bussing/wiping.
+  - Move to cafe to help with bussing/wiping.
   - Jump into play reset between sessions.
 
 ---
@@ -297,7 +297,7 @@ The remaining sections of the playbook (not shown here) will go deeper into:
 - Guests: mostly friends & family, low stakes.
 - Focus:
   - Staff comfort with basic flows.
-  - Timing of check-ins, café orders, and play supervision.
+  - Timing of check-ins, cafe orders, and play supervision.
 - After-event debrief (same day):
   - What felt confusing?  
   - Where did guests pause or ask questions?  
@@ -326,7 +326,7 @@ The remaining sections of the playbook (not shown here) will go deeper into:
 - Manager + founders / franchisor review:
   - Are Hosts check-in flows solid?  
   - Are Play Attendants safe and confident?  
-  - Does the café team maintain quality at speed?  
+  - Does the cafe team maintain quality at speed?  
 - Decide:
   - Any extra training needed before or after opening.  
   - Any backup staff to keep on call for first 2 weeks.

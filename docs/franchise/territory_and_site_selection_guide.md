@@ -13,11 +13,11 @@ How to size territories and pick winning locations using the co.work.play criter
 - **Demographics:** Household density, HH income, family concentration, and remote-worker mix that support membership ramp.
 - **Access & parking:** Ground-floor or easy elevator access, stroller-friendly entries, plentiful parking, safe evening lighting.
 - **Co-tenancy:** Grocery-anchored or daily-needs centers; near schools, fitness, pediatric offices, or family dining.
-- **Space form factor:** 10k–14k SF with clear spans for play zones and café visibility; ceiling height sufficient for play structures.
+- **Space form factor:** 10k–14k SF with clear spans for play zones and cafe visibility; ceiling height sufficient for play structures.
 
 ## Selection Process
 1. Shortlist 5–10 sites using broker pipeline; log each against the criteria above.
 2. Run back-of-the-envelope P&L with rent, TI, and membership ramp assumptions.
 3. Conduct daytime/nighttime footfall checks; validate traffic with mobile data where available.
-4. Compare to competitive map (indoor play, childcare-adjacent, cowork, cafés) and set share targets.
+4. Compare to competitive map (indoor play, childcare-adjacent, cowork, cafes) and set share targets.
 5. Escalate top 2–3 sites for HQ review, site walks, and LOI negotiation.

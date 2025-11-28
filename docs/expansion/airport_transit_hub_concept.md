@@ -21,7 +21,7 @@ Core Co.work.PLAY (current focus):
 - Longer stays (2–4 hours, repeat weekly users).
 - Neighborhood/community retail centers near dense young-family zones.
 - Membership-centric, with some day passes.
-- Full cowork zone + play area + café, optimized for “serious work + supervised play.”
+- Full cowork zone + play area + cafe, optimized for “serious work + supervised play.”
 
 Airport / Transit Hub Co.work.PLAY Express (future):
 

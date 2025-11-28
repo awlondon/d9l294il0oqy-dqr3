@@ -5,7 +5,7 @@ Outline anticipated capital requirements, uses/sources, and illustrative returns
 
 ## Capital Requirements (Target ~$2.2M)
 - Leasehold improvements & construction: $1.25M
-- FF&E (café equipment, play structure, furniture, AV): $550k
+- FF&E (cafe equipment, play structure, furniture, AV): $550k
 - Soft costs (design, permitting, legal): $150k
 - Pre-opening (payroll, training, marketing): $120k
 - Technology & security: $60k

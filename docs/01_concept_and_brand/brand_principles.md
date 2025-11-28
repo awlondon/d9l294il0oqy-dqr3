@@ -1,10 +1,10 @@
 # Brand Principles
 
 ## Purpose
-Define the personality, tone, and experiential standards that keep Co.work.PLAY Café consistent across the flagship and all franchise locations.
+Define the personality, tone, and experiential standards that keep Co.work.PLAY Cafe consistent across the flagship and all franchise locations.
 
 ## Positioning Statement
-A warm-modern, hospitality-first café and cowork space where parents can be productive while children are engaged in safe, joyful play.
+A warm-modern, hospitality-first cafe and cowork space where parents can be productive while children are engaged in safe, joyful play.
 
 ## Tone of Voice
 - **Warm and competent:** Friendly without baby talk; confident without jargon.
@@ -16,12 +16,12 @@ A warm-modern, hospitality-first café and cowork space where parents can be pro
 - **Palette:** Soft neutrals with warm wood, balanced by muted blues/greens; accent color used sparingly for wayfinding.
 - **Materials:** Durable laminates, wipeable fabrics, rounded edges, acoustic felt, and greenery for biophilic comfort.
 - **Lighting:** Layered—ambient for warmth, task lighting at workstations, dimmable party/event settings.
-- **Sound:** Acoustic separation between café/cowork and play; white noise and soft music to keep energy even.
+- **Sound:** Acoustic separation between cafe/cowork and play; white noise and soft music to keep energy even.
 
 ## Experience Promises
 - **Predictable cleanliness:** Visible checklists, scent-neutral cleaning, and tidy sightlines from entry.
 - **Staff presence:** Hosts greet within 10 seconds; play attendants introduce themselves and review safety rules.
-- **Speed with care:** Under-3 minute café ticket times for core beverages during peak windows; proactive table touches.
+- **Speed with care:** Under-3 minute cafe ticket times for core beverages during peak windows; proactive table touches.
 - **Safety-first:** Secure check-in/check-out, wristbands or tags, headcounts every 30 minutes, and documented incident response.
 
 ## Signature Moments

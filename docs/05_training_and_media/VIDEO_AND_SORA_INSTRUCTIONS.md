@@ -1,8 +1,8 @@
-# Co.work.PLAY Café  
+# Co.work.PLAY Cafe  
 Video, Sora Prompts & Storyboard Instructions  
 (Training & Media Module)
 
-This document explains **how to design, name, and organize** all video content, Sora prompts, and storyboards for Co.work.PLAY Café training and franchise materials.
+This document explains **how to design, name, and organize** all video content, Sora prompts, and storyboards for Co.work.PLAY Cafe training and franchise materials.
 
 It is written for:
 - Founders
@@ -11,7 +11,7 @@ It is written for:
 
 The goal: create a **coherent, reusable training library** that is:
 - Short, clear, and visually consistent  
-- Easy to map to roles and modules (Host, Play Attendant, Café, Manager, etc.)  
+- Easy to map to roles and modules (Host, Play Attendant, Cafe, Manager, etc.)  
 - Easy to regenerate or update with Sora or other video tools  
 
 ---
@@ -24,16 +24,16 @@ The goal: create a **coherent, reusable training library** that is:
 
 2. **Role clarity**  
    - Each clip should clearly show:
-     - WHO is speaking (Host trainer, Play Attendant trainer, Manager trainer, Café trainer, Co-founders, etc.)
-     - WHERE they are (entry, café bar, play area, cowork zone, back-of-house).
+     - WHO is speaking (Host trainer, Play Attendant trainer, Manager trainer, Cafe trainer, Co-founders, etc.)
+     - WHERE they are (entry, cafe bar, play area, cowork zone, back-of-house).
      - WHAT the trainee should do or understand.
 
 3. **Visual consistency**  
    - Use a **consistent look** for each recurring trainer character:
      - Host Trainer: Black woman (warm, confident, friendly), front-of-house setting.
-     - Café Operator Trainer: Hispanic woman, behind café bar and in café seating.
+     - Cafe Operator Trainer: Hispanic woman, behind cafe bar and in cafe seating.
      - Manager Trainer: Asian woman, walking the floor, sometimes in office/back-of-house.
-     - Founders: Alex (male) and Savannah (female), appear in welcome/vision clips.
+     - Founders: Alexander Warren London (male) and Savannah (female), appear in welcome/vision clips.
      - Play Attendant Trainer: Distinct person (we’ll define and reuse consistently), in play area/baby room.
    - Lighting: bright, warm, natural-daylight feel.
    - Camera: mostly **medium shots** and **medium-close** for trainers, with occasional cutaways for context.
@@ -52,7 +52,7 @@ Each training topic gets a **module ID**:
 
 - `HOST-xx` for Host/front-of-house topics
 - `PLAY-xx` for Play Attendant topics
-- `CAFE-xx` for Café Operator topics
+- `CAFE-xx` for Cafe Operator topics
 - `MGR-xx` for Manager/Shift Lead topics
 - `GEN-xx` for general/brand/introduction topics
 - `FRAN-xx` for franchise-owner-specific modules
@@ -103,7 +103,7 @@ Use this template in `sora_video_prompts.md`:
 ```markdown
 ## [MODULE ID] – [Short Title]
 
-**Role:** [Host / Play Attendant / Café / Manager / General / Franchise]
+**Role:** [Host / Play Attendant / Cafe / Manager / General / Franchise]
 
 **Clip Length Target:** [8–10s, 12–15s, etc.]
 
@@ -152,7 +152,7 @@ Keep it short enough to fit the time – usually 1–2 sentences for 8–10s, up
 - Duration: [8 / 10 / 15 / 20 seconds]  
 - Aspect Ratio: 16:9 (landscape)  
 - Resolution: 1080p or better  
-- Style: photo-realistic training video, consistent with previous Co.work.play clips.
+- Style: photo-realistic training video, consistent with previous Co.work.PLAY clips.
 ```
 
 ### 3.2 Character Descriptions for Prompts
@@ -161,23 +161,23 @@ Re-use and keep consistent:
 
 Host Trainer
 
-“A Black woman in her early 30s, wearing a Co.work.PLAY Café host uniform (clean, modern, branded), standing at a welcoming host desk near the entrance.”
+“A Black woman in her early 30s, wearing a Co.work.PLAY Cafe host uniform (clean, modern, branded), standing at a welcoming host desk near the entrance.”
 
-Café Trainer (Hispanic female)
+Cafe Trainer (Hispanic female)
 
-“A Hispanic woman in her late 20s to early 30s, wearing a café apron with the Co.work.play logo, behind a warm, modern coffee bar with espresso machine and pastries visible.”
+“A Hispanic woman in her late 20s to early 30s, wearing a cafe apron with the Co.work.PLAY logo, behind a warm, modern coffee bar with espresso machine and pastries visible.”
 
 Manager Trainer (Asian female)
 
-“An Asian woman in her 30s, smart-casual attire with a subtle branded lanyard, standing in the middle of the café-play-cowork space, clearly in a leadership role.”
+“An Asian woman in her 30s, smart-casual attire with a subtle branded lanyard, standing in the middle of the cafe-play-cowork space, clearly in a leadership role.”
 
 Play Attendant Trainer
 
-“A friendly, energetic adult [specify age range and general style], dressed in comfortable and practical play-area attire with Co.work.play branding, standing near the indoor play structure and soft mat area.”
+“A friendly, energetic adult [specify age range and general style], dressed in comfortable and practical play-area attire with Co.work.PLAY branding, standing near the indoor play structure and soft mat area.”
 
-Co-founders (Alex & Savannah)
+Co-founders (Alexander Warren London & Savannah Strasner)
 
-“A male founder (Alex) and a female founder (Savannah) standing together in the main café area, relaxed, friendly, addressing the camera.”
+“A male founder (Alexander Warren London) and a female founder (Savannah Strasner) standing together in the main cafe area, relaxed, friendly, addressing the camera.”
 
 4. Storyboard Instructions
 
@@ -264,7 +264,7 @@ A child conflict and Play Attendant response.
 
 A guest raising a concern at Host, escalated to Manager.
 
-A mini rush at café and teamwork.
+A mini rush at cafe and teamwork.
 
 These may require 2–3 shots, so storyboard is recommended.
 
@@ -278,7 +278,7 @@ Staffing and training philosophy.
 
 Daily huddles and coaching.
 
-Seeing the space as a system (play, work, café, safety).
+Seeing the space as a system (play, work, cafe, safety).
 
 6. Writing Good Sora Prompts (Do & Don’t)
 
@@ -288,7 +288,7 @@ Be specific about:
 
 Character look (age range, role, outfit style).
 
-Location (host desk, café bar, play area, etc.).
+Location (host desk, cafe bar, play area, etc.).
 
 Key actions (smiles, gestures, points to signage, walks slightly).
 

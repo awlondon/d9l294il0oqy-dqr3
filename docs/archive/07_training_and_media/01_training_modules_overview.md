@@ -1,4 +1,4 @@
-# Training Modules Overview – Co.work.PLAY Café
+# Training Modules Overview – Co.work.PLAY Cafe
 
 This document maps the core training modules for flagship and franchise locations.  
 Each module is delivered via:
@@ -25,12 +25,12 @@ Each module is delivered via:
 - Communicating with parents (on-site).  
 - Incident reporting and basic first-response protocols.
 
-**Module 3 – Café Operations**
+**Module 3 – Cafe Operations**
 
 - Beverage and food service basics.  
 - Queue management and POS use.  
 - Food safety, allergen awareness, and cleanliness.  
-- Café opening and closing checklists.
+- Cafe opening and closing checklists.
 
 **Module 4 – Manager / Store Operations**
 
@@ -53,7 +53,7 @@ Each module is delivered via:
 Each module includes:
 
 1. **Intro clip** – Trainer character introduces the module, objectives, and why it matters.
-2. **Micro-lessons (clips)** – Short, focused segments (e.g., “Checking in a member with a reservation”, “Handling an upset parent”, “Pre-opening café checklist”).
+2. **Micro-lessons (clips)** – Short, focused segments (e.g., “Checking in a member with a reservation”, “Handling an upset parent”, “Pre-opening cafe checklist”).
 3. **Scenario clips** – “Good vs better” examples; typical situations staff will face.
 4. **Wrap-up clip** – Summary, key reminders, and where to find written SOPs.
 

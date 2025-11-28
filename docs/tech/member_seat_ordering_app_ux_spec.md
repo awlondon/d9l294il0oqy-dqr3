@@ -39,8 +39,8 @@
 **Purpose:** Confirm where the user is and whether they have a valid session.
 
 **Elements:**
-- Logo (small): Co.work.PLAY Café.
-- Title: “Welcome to Co.work.PLAY Café”.
+- Logo (small): Co.work.PLAY Cafe.
+- Title: “Welcome to Co.work.PLAY Cafe”.
 - Subtitle (dynamic by URL): “You’re at seat A-12.”
 - Message when seat code is present: “We’ll use this seat to bring your orders to you.”
 
@@ -79,7 +79,7 @@
 **Purpose:** Main landing for a seated member.
 
 **Layout:**
-- Header: “Hi, Alex 👋”; seat label “You’re at A-12”; time remaining (if known) “2h 15m left in your session”.
+- Header: “Hi, Alexander Warren London 👋”; seat label “You’re at A-12”; time remaining (if known) “2h 15m left in your session”.
 - Main tiles/buttons: **[Order food & drinks]** (primary CTA), **[Order history]**, **[House rules & policies]**, **[Notifications]** (badge when new), and later **[Watch quick tips / Sora clips]**.
 - Info bar: “We’ll deliver your order to this seat. Please keep the aisle clear.”
 - Primary flow: **[Order food & drinks]**.
@@ -124,12 +124,12 @@
 - Title: “Order in progress”.
 - Summary: “Order #1248 · Seat A-12”.
 - Short list: “Latte (12 oz, oat milk)”; “Snack Box – Kids”.
-- Status timeline: [●] Received → [○] In the café → [○] Out for delivery → [○] Delivered.
-- Text while in progress: “We’re preparing your order in the café. A team member will bring it to your seat.”
+- Status timeline: [●] Received → [○] In the cafe → [○] Out for delivery → [○] Delivered.
+- Text while in progress: “We’re preparing your order in the cafe. A team member will bring it to your seat.”
 - Hint: “Please keep the aisle clear so staff can deliver.”
 
 **Live updates:**
-- When café marks `in_progress` → highlight “In the café”.
+- When cafe marks `in_progress` → highlight “In the cafe”.
 - When runner marks `out_for_delivery` → highlight that step.
 - When runner marks `delivered`: switch to success state with header “✅ Delivered to Seat A-12”, text “Enjoy! If anything’s not right, please let our team know.” and buttons **[Order something else]** / **[Back to home]**.
 

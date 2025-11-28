@@ -1,11 +1,11 @@
-# Co.work.PLAY Café Roadmap & Status Board
+# Co.work.PLAY Cafe Roadmap & Status Board
 
 Use this as the quick orientation map for what exists, what is in motion, and what needs to be filled in next. Status tags: `[READY]`, `[IN PROGRESS]`, `[DRAFT]`, `[TODO]`.
 
 ## History
-- **2025-11-10** – Co.work.PLAY Café concept conceived on a video call between Alex London and Savannah Strasner, using an AI assistant to sketch a Phoenix flagship and flagship-plus-franchise model.
+- **2025-11-10** – Co.work.PLAY Cafe concept conceived on a video call between Alexander Warren London and Savannah Strasner, using an AI assistant to sketch a Phoenix flagship and flagship-plus-franchise model.
 - **2025-11-20+** – Detailed business plan and financial modeling begin.
-- **2025-11-22+** – Name “Co.work.PLAY Café” adopted; brand and logo exploration starts.
+- **2025-11-22+** – Name “Co.work.PLAY Cafe” adopted; brand and logo exploration starts.
 
 ## Brand
 - [READY] [Brand one-pager](01_concept_and_brand/brand_one_pager.md)
@@ -44,7 +44,7 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [READY] [Staffing and shift structure](04_operations_and_sops/staffing_and_shift_structure.md)
 - [READY] [SOP – Host](04_operations_and_sops/sop_host.md)
 - [READY] [SOP – Play attendant](04_operations_and_sops/sop_play_attendant.md)
-- [READY] [SOP – Café operator](04_operations_and_sops/sop_cafe_operator.md)
+- [READY] [SOP – Cafe operator](04_operations_and_sops/sop_cafe_operator.md)
 - [READY] [SOP – Manager/shift lead](04_operations_and_sops/sop_manager_shift_lead.md)
 - [READY] [Cleaning and safety checklists](04_operations_and_sops/cleaning_and_safety_checklists.md)
 - [READY] [Membership and check-in flows](04_operations_and_sops/membership_and_checkin_flows.md)

@@ -1,6 +1,6 @@
 # Why We Work Here
 
-Co.work.PLAY Café is not meant to be a “last resort” job. The work is emotionally and physically real: kids, coffee, messes, emotions, and logistics all in the same building. That only works if people are here because they want to be.
+Co.work.PLAY Cafe is not meant to be a “last resort” job. The work is emotionally and physically real: kids, coffee, messes, emotions, and logistics all in the same building. That only works if people are here because they want to be.
 
 We look for and try to create conditions where:
 

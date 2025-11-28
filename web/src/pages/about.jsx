@@ -7,7 +7,7 @@ const AboutPage = () => {
         <p className="badge bg-white/90 text-brand-espresso">About</p>
         <h1 className="mt-4 text-4xl font-heading font-extrabold text-brand-espresso">Built for caregivers, kids, and local owners</h1>
         <p className="mt-3 text-lg text-brand-espresso/80">
-          Co.work.PLAY Café is a system, not a personality brand. We exist so caregivers can do real work while children play nearby,
+          Co.work.PLAY Cafe is a system, not a personality brand. We exist so caregivers can do real work while children play nearby,
           and so local owners can bring that promise to life in their own communities.
         </p>
       </section>
@@ -18,7 +18,7 @@ const AboutPage = () => {
         <div className="space-y-4">
           <h2 className="section-title">Origin story (without ego)</h2>
           <p className="section-subtitle">
-            Co.work.PLAY Café was co-founded by Alexander Warren London and Savannah Strasner with early support from Michael Strasner.
+            Co.work.PLAY Cafe was co-founded by Alexander Warren London and Savannah Strasner with early support from Michael Strasner.
             The flagship in Phoenix serves as a prototype and training hub, proving that caregivers can work and kids can play in the same
             calm, supervised space. From day one, the goal has been a replicable system—not a founder spotlight.
           </p>
@@ -29,7 +29,7 @@ const AboutPage = () => {
         <div className="space-y-4">
           <h2 className="section-title">Ownership-first model</h2>
           <p className="section-subtitle">
-            Local franchise owners are the face of Co.work.PLAY Café in their neighborhoods. Corporate maintains the playbook—brand,
+            Local franchise owners are the face of Co.work.PLAY Cafe in their neighborhoods. Corporate maintains the playbook—brand,
             safety, operating model, training, and tech—while each owner adapts within clear guardrails to serve their market.
           </p>
           <div className="grid gap-6 lg:grid-cols-2">
@@ -55,7 +55,7 @@ const AboutPage = () => {
         <div className="mt-10 rounded-2xl border border-brand-sage/70 bg-white p-6 shadow-soft">
           <h3 className="text-lg font-heading font-semibold text-brand-espresso">Our Promise to Families</h3>
           <p className="mt-3 text-brand-espresso/80">
-            Every Co.work.PLAY Café honors safety, calm, and respect for caregivers and children. We keep sightlines open, maintain a
+            Every Co.work.PLAY Cafe honors safety, calm, and respect for caregivers and children. We keep sightlines open, maintain a
             predictable rhythm, and welcome feedback so everyone feels at ease.
           </p>
         </div>

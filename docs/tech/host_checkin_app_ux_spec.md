@@ -26,7 +26,7 @@
 **Purpose:** restrict tablet access to staff.
 
 **Elements:**
-- Logo: small Co.work.PLAY Café logo at top.
+- Logo: small Co.work.PLAY Cafe logo at top.
 - Title: “Host Console – Staff Login”.
 - Fields:
   - Staff ID or Email (text field).
@@ -52,7 +52,7 @@
 - Main area with two panels:
   - Panel A: “Arrivals & Check-Ins”.
     - Big button **[Check in member or guest]**.
-    - List recent check-ins (last 5–10), e.g., “9:05 – Alex London – Member – Seat A-12 – 3 hrs”.
+    - List recent check-ins (last 5–10), e.g., “9:05 – Alexander Warren London – Member – Seat A-12 – 3 hrs”.
   - Panel B: “Today’s Snapshot”.
     - Stats: “Active seat sessions: 18”; “Reserved but not arrived: 3”; “Estimated capacity: 18 / 32 seats in use”.
     - Status chips: Green “Play area: Open”; Yellow “Quiet Zone: 2 seats left”; Gray “Party Room: Available”.
@@ -112,7 +112,7 @@
 
 **Edge cases & confirmations:**
 - Selecting occupied seat: “Seat A-12 is currently in use. Please choose another seat.”
-- On confirm: create seat_session and show confirmation: “Alex London checked in at Seat A-12 until 12:30 PM.” with **[View Session]** or **[New Check-In]**.
+- On confirm: create seat_session and show confirmation: “Alexander Warren London checked in at Seat A-12 until 12:30 PM.” with **[View Session]** or **[New Check-In]**.
 
 ### 2.6 Active Session Details Screen
 **Purpose:** show visit details for a specific seat/session.
@@ -130,15 +130,15 @@
 ### 2.7 Session Actions
 **Move to different seat:**
 - Seat Map opens in move mode with current seat highlighted and available seats in green.
-- Select new seat → confirm dialog “Move Alex London from Seat A-12 to Seat B-04?”
+- Select new seat → confirm dialog “Move Alexander Warren London from Seat A-12 to Seat B-04?”
 - On confirm: update seat_session seat; map and dashboard refresh.
 
 **Extend session:**
-- Modal: “Extend Alex’s session?” with options +30m / +60m / Custom (time picker).
+- Modal: “Extend Alexander Warren London’s session?” with options +30m / +60m / Custom (time picker).
 - Confirmation: “New end time: 1:15 PM.”
 
 **End session:**
-- Confirmation: “End this seat session now? Any final charges will be applied to Alex’s account.”
+- Confirmation: “End this seat session now? Any final charges will be applied to Alexander Warren London’s account.”
 - Buttons: **[End session]** / **[Cancel]**; on confirm, mark seat_session ended and free the seat.
 
 ### 2.8 Alerts & System Messages

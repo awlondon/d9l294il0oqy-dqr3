@@ -3,7 +3,7 @@ import AboutSection from '@/components/AboutSection';
 import Link from 'next/link';
 
 const quickLinks = [
-  { title: 'Explore zones', href: '/zones', copy: 'See the supervised play areas, focus pods, and café seating.' },
+  { title: 'Explore zones', href: '/zones', copy: 'See the supervised play areas, focus pods, and cafe seating.' },
   { title: 'View the menu', href: '/menu', copy: 'Coffee, snacks, and meals designed for caregivers and kids.' },
   { title: 'Plan a party', href: '/party', copy: 'Book the multi-use room for celebrations or classes.' },
   { title: 'Our story', href: '/about', copy: 'Learn how the concept started and why local owners lead the way.' }
@@ -27,7 +27,7 @@ const familyBenefits = [
 const ownerHighlights = [
   {
     title: 'Own the story in your city',
-    copy: 'Become the face of Co.work.PLAY Café locally while using a proven, safety-first operating system.'
+    copy: 'Become the face of Co.work.PLAY Cafe locally while using a proven, safety-first operating system.'
   },
   {
     title: 'Guardrails with room to adapt',
@@ -54,7 +54,7 @@ const IndexPage = () => {
         <div className="space-y-3">
           <h2 className="section-title">For families</h2>
           <p className="section-subtitle max-w-3xl">
-            We built Co.work.PLAY Café so caregivers can stay close, stay productive, and still enjoy a warm, welcoming space with their
+            We built Co.work.PLAY Cafe so caregivers can stay close, stay productive, and still enjoy a warm, welcoming space with their
             kids.
           </p>
         </div>
@@ -74,7 +74,7 @@ const IndexPage = () => {
             <h2 className="section-title">For local owners</h2>
             <p className="section-subtitle">
               Own the story in your city. We provide the brand, safety standards, training, and tech platform; you build the culture and
-              relationships that make the café thrive.
+              relationships that make the cafe thrive.
             </p>
             <div className="space-y-3">
               {ownerHighlights.map((item) => (
