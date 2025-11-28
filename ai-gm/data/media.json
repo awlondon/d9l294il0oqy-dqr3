@@ -1,0 +1,20 @@
+{
+  "CUSTOMER_PLAYAREA_CAPACITY_NOTICE": {
+    "CUSTOMER": "/media/customer/playarea_full_loop.mp4"
+  },
+  "CUSTOMER_GENERIC_INFO": {
+    "CUSTOMER": "/media/customer/ambient_info_generic.mp4"
+  },
+  "STAFF_SUPERVISION_REMINDER": {
+    "STAFF": "/media/staff/safety_supervision_reminder.mp4"
+  },
+  "STAFF_PARTY_ROOM_TURNOVER": {
+    "STAFF": "/media/staff/party_room_turnover.mp4"
+  },
+  "STAFF_CLOSING_PROCEDURE_STEP": {
+    "STAFF": "/media/staff/closing_procedure.mp4"
+  },
+  "CUSTOMER_CLOSING_SOON": {
+    "CUSTOMER": "/media/customer/closing_soon.mp4"
+  }
+}

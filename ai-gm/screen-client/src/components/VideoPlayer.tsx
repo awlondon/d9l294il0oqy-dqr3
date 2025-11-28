@@ -1,4 +1,5 @@
 import React from "react";
+import styles from "./Screen.module.css";
 
 interface Props {
   videoUrl?: string;
@@ -6,25 +7,20 @@ interface Props {
 }
 
 export const VideoPlayer: React.FC<Props> = ({ videoUrl, tone }) => {
+  const fallback =
+    tone === "STAFF" ? "/media/staff/mastermind_parrot_generic.mp4" : "/media/customer/ambient_info_generic.mp4";
+  const urlToPlay = videoUrl || fallback;
+
   return (
-    <div
-      style={{
-        background: tone === "STAFF" ? "#0f1b2d" : "#0d304f",
-        color: "#e7ecf5",
-        border: "2px solid rgba(255,255,255,0.08)",
-        borderRadius: "12px",
-        padding: "32px",
-        height: "100%",
-        display: "flex",
-        alignItems: "center",
-        justifyContent: "center",
-        boxShadow: "0 10px 40px rgba(0,0,0,0.35)",
-      }}
-    >
-      <div style={{ textAlign: "center" }}>
-        <div style={{ fontSize: "1.2rem", fontWeight: 700 }}>Playing</div>
-        <div style={{ fontFamily: "monospace", marginTop: "8px" }}>{videoUrl ?? "Idle"}</div>
-      </div>
+    <div className={styles.videoWrapper}>
+      <video
+        src={urlToPlay}
+        style={{ width: "100%", borderRadius: "12px", background: "black" }}
+        autoPlay
+        muted
+        loop
+        controls={false}
+      />
     </div>
   );
 };

@@ -7,7 +7,7 @@ startServer();
 
 function emit(event: AiGmEvent) {
   console.log("Emitting", event.type);
-  eventBus.publishEvent(event);
+  eventBus.publish(event);
 }
 
 const now = new Date();
