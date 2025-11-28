@@ -2,6 +2,11 @@
 
 This document summarizes the target build-out, capital requirements, and validation timeline for the ~8,500 SF Co.Work.Play flagship in Phoenix. It is the primary reference for investors and internal planning.
 
+## 1-Page Investor Snapshot
+- Total capital target: **$2.7–3.0M** (CapEx, pre-opening, and runway).
+- Phases and timeline: 0–6 months (site/design/capital), 6–12 months (build-out & soft open), 12–18 months (live operations & validation).
+- Key validation metrics: day-pass → member conversion, monthly churn, labor %, and play attendant turnover.
+
 ## 1. Timeline Overview (18-Month Validation Arc)
 
 We treat Phoenix as a three-phase, ~18-month validation project:
@@ -97,21 +102,29 @@ Adding midpoints:
 - Pre-opening: **$0.25M**
 - Runway: **$0.6M**
 
-> **Total capital target for Phoenix flagship: ≈ $2.95M**  
+> **Total capital target for Phoenix flagship: ≈ $2.95M**
 > For investor conversations, we frame this as a **$2.7–3.0M** target range.
 
-## 3. Go / No-Go Gates for Phoenix
+## 3. How Phoenix Differs from a Generic Unit
+- Higher CapEx per ft² driven by flagship-grade finishes and denser play build-out.
+- Higher revenue baseline modeled in `phoenix-flagship-model.csv`, above the $2.0M generic unit assumption.
+- Phoenix is the validator for the franchise model; success here de-risks replication and informs unit-level guardrails.
+
+## 4. Go / No-Go Gates for Phoenix
 
 We will not advance franchise rollout unless Phoenix meets minimum thresholds over its first 6 months of full operation:
 
 - **Day-pass → member conversion:**
   - Target: ≥15%
-  - Alert: <10% for 6 consecutive months → revisit offering/pricing.
+  - Alert: <10% for 6 consecutive months → revisit offering/pricing; pause expansion until conversion program is redesigned.
 - **Member churn:**
   - Target: ≤5% monthly
-  - Alert: >6% monthly by Month 9 → pause replication until retention issues are solved.
+  - Alert: >6% monthly by Month 9 → pause replication, deploy retention fixes, and revalidate before reopening franchise sales.
 - **Play attendant turnover:**
   - Target: ≤35–40% annualized
-  - Alert: >50% annualized → staffing model and culture need redesign before franchising.
+  - Alert: >50% annualized → redo hiring, training, and compensation before any rollout.
 
 Phoenix is the validator. If these gates are not met, expansion is delayed in favor of fixing unit economics and retention.
+
+## Disclaimer
+Numbers are illustrative, not investment, legal, or tax advice, and are subject to change as vendor quotes and operating data evolve.

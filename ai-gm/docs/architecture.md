@@ -1,5 +1,8 @@
 # AI-GM Architecture
 
+## Business Context
+- AI-GM underpins the Co.Work.Play operating model by automating screens and staff prompts. For how it fits into the broader unit economics, see `finance/business-model-overview.md`.
+
 ## Event Flow
 - Sensors, POS/reservation systems, staff check-ins, and schedulers publish events to the event bus.
 - Events are wrapped in typed envelopes for consistent validation and tracing.
