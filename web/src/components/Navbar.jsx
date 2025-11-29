@@ -3,12 +3,15 @@ import Link from 'next/link';
 
 const navLinks = [
   { href: '/', label: 'Home' },
+  { href: '/membership', label: 'Membership' },
   { href: '/about', label: 'About' },
+  { href: '/events', label: 'Events' },
   { href: '/zones', label: 'Visit' },
   { href: '/menu', label: 'Menu' },
   { href: '/franchise', label: 'Own a Cafe' },
   { href: '/careers', label: 'Careers' },
   { href: '/party', label: 'Party' },
+  { href: '/community-board', label: 'Community' },
   { href: '/staff', label: 'Staff Portal' }
 ];
 
