@@ -10,6 +10,7 @@ Provide the structure for detailed finish, FF&E, and brand environment standards
 2. **Space Planning Principles**
    - Sightlines from host to play; ADA and stroller circulation.
    - Acoustic zoning between cafe/cowork and play.
+   - Toddler play room zoning follows [Toddler Play Area – Design Program & Narrative](../design/toddler_play_area_program.md): climb/slide zone, pretend play, activity tables, reading/calm corner, and adjacent under-2/sensory room.
 3. **Finish Standards**
    - Floors: resilient plank in cafe/cowork, rubberized in play, tile in restrooms.
    - Walls: washable paint specs, impact protection at kid-height, accent panels.
