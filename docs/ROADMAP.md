@@ -82,7 +82,8 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [IN PROGRESS] [Sora prompt library](training_and_media/Sora_prompt_library.md)
 - [IN PROGRESS] Shared Caregivers & Nannies module entry added to training module index.
 
-## Architecture
+## Architecture & Design
+- [READY] [Toddler Play Area – Design Program & Narrative](./design/toddler_play_area_program.md)
 - [READY] [Design program brief – Phoenix flagship](03_architecture_and_design/design_program_brief_flagship_phoenix.md)
 - [READY] [Franchise prototype brief](03_architecture_and_design/franchise_prototype_brief.md)
 - [READY] [Interior design guidelines outline](03_architecture_and_design/interior_design_guidelines_outline.md)

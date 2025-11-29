@@ -9,6 +9,14 @@ Provide quick guidance for play attendants on monitoring safety, supporting fami
 - Keep “dirty toy” bins moving to cleaning; restock high-demand toys and materials.
 - Escalate wellness or behavior concerns to the Host or Manager promptly.
 
+### Space & Zones Reference
+
+Play attendants should be familiar with the intended layout and use of each area within the toddler play room (climb/slide zone, pretend play zone, activity tables, reading/calm corner, and under-2/sensory room). The design narrative and program for this room are documented in:
+
+- [Toddler Play Area – Design Program & Narrative](../design/toddler_play_area_program.md)
+
+Staff training should reinforce how each zone is meant to function so that toys, activities, and supervision strategies match the layout and age range.
+
 ## Groups with a Shared Caregiver
 
 - If you see one caregiver watching several children, assume they are the caregiver of record for that group and address them first for behavior, safety, or wellness issues.
