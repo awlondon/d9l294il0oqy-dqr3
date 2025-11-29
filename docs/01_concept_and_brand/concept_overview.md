@@ -25,6 +25,13 @@ Co.work.PLAY Cafe combines specialty coffee, flexible workspace, and staffed pla
 3. **Warm modern:** Light woods, soft curves, and biophilic cues deliver an elevated yet durable family aesthetic.
 4. **Community heartbeat:** Programming (music class, parent meetups, workshops) makes the cafe a reliable weekly destination.
 
+## Kids as Witnesses of Creative Work
+- Sightlines keep the play area and cowork zone visually connected so kids naturally see adults building, writing, and collaborat
+ing.
+- Staff can host short, optional "quiet tour" walk-throughs where kids respectfully pass by desks to observe work in progress.
+- Micro-curriculum prompts like a "Kid questions" wall invite drawings or notes asking what adults are working on.
+- Storyboards or posters periodically spotlight different professions to spark curiosity without turning work into a performance.
+
 ## Core Components
 - **Cafe:** Specialty coffee, quick-serve food, kids’ bento options, and grab-and-go. POS integrates with memberships for discounts and stored payment.
 - **Cowork:** Mix of open seating, focus pods, phone booths, reservable meeting rooms, and family tables with stroller parking.
