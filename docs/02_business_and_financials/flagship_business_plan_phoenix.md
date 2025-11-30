@@ -3,6 +3,14 @@
 ## Purpose
 Provide the narrative business plan for the first Co.work.PLAY Cafe flagship, aligning leadership, investors, lenders, and landlord partners around market fit, programming, and financial performance.
 
+## Unit Economics & Financial Summary
+
+The detailed, canonical unit economics for the Phoenix flagship are maintained in:
+
+- [Phoenix Flagship Unit Economics (v2 – Canonical)](../finance/unit_economics_flagship_v2.md)
+
+We previously reviewed a more aggressive AI-generated scenario (see `../research/claude_business_plan_reference.md`), but our current plan uses more conservative, realistic assumptions about CapEx, rent, wages, and EBITDA margins.
+
 ## Market Context
 - **Location thesis:** East Valley/Scottsdale border with strong young family density, high dual-income households, and proximity to healthcare/tech employers with remote policies.
 - **Competition:** Independent coffee shops (limited seating, no play), indoor play spaces (no cowork or cafe), and traditional coworking (no family support). There is no integrated offer serving both productivity and supervised play.
@@ -21,7 +29,10 @@ Provide the narrative business plan for the first Co.work.PLAY Cafe flagship, al
 - **Parties:** $750 base package for 2 hours, 12 kids, includes party captain and light catering options.
 - **Programming:** $45/enrollment classes (music/movement/arts), seasonal camps at premium pricing.
 
-## Revenue Model (Monthly Stabilized)
+## Revenue Model (Legacy Draft – Superseded)
+
+> These figures reflect an earlier, more aggressive draft scenario. They are preserved for historical context but are **not** the canonical numbers. See [Phoenix Flagship Unit Economics (v2 – Canonical)](../finance/unit_economics_flagship_v2.md) for current assumptions.
+
 - Memberships: ~350 families → **$112,000**.
 - Day passes: ~700 passes → **$24,500**.
 - Cafe: ~5,500 transactions at $12 avg check → **$66,000**.
@@ -31,12 +42,15 @@ Provide the narrative business plan for the first Co.work.PLAY Cafe flagship, al
 - Retail/merch: curated toys/coffee gear → **$8,000**.
 - **Total monthly revenue:** ≈ **$247,000** (annualized ≈ $3.0M).
 
-## Cost Structure (Monthly at Scale)
+## Cost Structure (Legacy Draft – Superseded)
+
+> These illustrative costs and margins are kept for comparison only. Updated cost targets and margins are maintained in [Phoenix Flagship Unit Economics (v2 – Canonical)](../finance/unit_economics_flagship_v2.md).
+
 - **COGS:** ~20% blended (higher on cafe, minimal on memberships) → ~$49,000.
 - **Labor:** ~32% of revenue (hosts, play attendants, cafe crew, leads) → ~$79,000.
 - **Occupancy:** ~$24/SF NNN → ~$17,000/month plus utilities.
 - **Marketing:** ~$7,000 (digital, referral, community events).
-- **Utilities/IT:** ~$8,000 (fiber, POS, security, HVAC). 
+- **Utilities/IT:** ~$8,000 (fiber, POS, security, HVAC).
 - **G&A / Insurance / Laundry / Supplies:** ~$12,000.
 - **Repairs & maintenance:** ~$5,000.
 - **Estimated monthly EBITDA:** ~$70,000 (≈28%).
@@ -54,12 +68,16 @@ Provide the narrative business plan for the first Co.work.PLAY Cafe flagship, al
 - **Retention:** Member-only programming, early booking windows, and personalized check-ins at 30/60/90 days.
 
 ## Risks & Mitigations
+See [Risk Analysis & Mitigation](../strategy/risk_and_mitigation.md) for the consolidated risk register and mitigation plans.
+
 - **Throughput bottlenecks:** Solve with dual cafe makelines, mobile ordering for members, and party buffers.
 - **Staffing consistency:** Cross-train across host/play/cafe; offer clear career steps to lead/manager.
 - **Safety incidents:** Redundant headcounts, CCTV coverage of entries, and documented drills every two weeks.
 - **Seasonality:** Summer camp intensives, corporate packages during school holidays, and off-peak pricing tests.
 
 ## Milestones
+See [90-Day Action Plan – Phoenix Flagship](../strategy/90_day_action_plan_flagship.md) for a task-level breakdown once site and design milestones are triggered.
+
 - Site control & LOI: Month 0
 - Construction start: Month 3
 - Hiring start: Month 5

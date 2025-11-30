@@ -2,7 +2,7 @@
 
 **AI-GM is a Phase 2+ enhancement. The store can operate fully without it; this system will be layered onto the existing Workstation & Ordering System once economics and tech maturity permit.**
 
-Overview of inputs, core services, and outputs for the AI-enabled general manager assist planned as an optional upgrade.
+Overview of inputs, core services, and outputs for the AI-enabled general manager assist planned as an optional upgrade. See [System Overview – Co.work.PLAY Tech Stack](./system_overview.md) for the broader member-facing, operations, and back-office architecture.
 
 ## Inputs
 - **Cameras:** Fixed-position cameras in public areas for occupancy counts and environmental monitoring (no restrooms/nursing rooms).
