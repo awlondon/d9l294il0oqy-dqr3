@@ -49,7 +49,7 @@
   - Left: “Good morning, [StaffName]”.
   - Center: Date & time (e.g., “Tuesday, March 3 – 9:12 AM”).
   - Right: Small buttons **[New Check-In]**, **[Seat Map]**, **[Logout]**.
-- Main area with two panels:
+- Main area with two panels (collapsed by default, expand on tap):
   - Panel A: “Arrivals & Check-Ins”.
     - Big button **[Check in member or guest]**.
     - List recent check-ins (last 5–10), e.g., “9:05 – Alexander Warren London – Member – Seat A-12 – 3 hrs”.

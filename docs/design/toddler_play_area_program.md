@@ -6,6 +6,8 @@ The toddler play area at Co.work.PLAY Café must balance three things at once: j
 
 ## Zoning & Layout Narrative
 
+**100-word rotation response:** The toddler room runs like a small village with clear stations that guide rotation without chaos. Low climbers and slides burn energy safely; an imaginative play street swaps between kitchen, market, and clinic props; activity tables host Duplo, puzzles, and sorting tasks; a reading/calm corner offers soft landings; and an adjacent under-2 sensory room stays separated. Adults keep clean sightlines from benches and a staffed gate. Toys cycle through labeled bins, with “dirty” items parked for sanitizing so fresh sets can flow back out.
+
 At the heart of the room is a set of well-defined play zones rather than one giant pit. A low, soft climbing and slide area gives toddlers a place to burn energy without tall drops or hard edges—using wide, stepped platforms, short tunnels, and slides under about four feet high. Nearby, an imaginative play corner lets kids rotate between a mini kitchen, a tiny market/café stand, and a simple tool bench or pretend clinic. A separate area with child-height tables supports quieter, fine-motor activities like chunky puzzles, Duplo-scale blocks, and simple posting or sorting toys. In one corner, a cozy reading and calm zone with rugs, floor cushions, and low bookshelves becomes the default “reset” area for kids who need a break from stimulation. For the youngest children, an adjacent under-2/sensory room with soft mats, wobble cushions, textured panels, and gentle light features should stay physically separated from the main toddler flow.
 
 ## Furnishings, Toys & Storage
