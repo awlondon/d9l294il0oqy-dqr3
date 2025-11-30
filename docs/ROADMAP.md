@@ -23,12 +23,14 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 
 ## Business & Financials
 - [READY] [Flagship business plan – Phoenix](02_business_and_financials/flagship_business_plan_phoenix.md)
+- [READY] [Phoenix Flagship Unit Economics (v2 – Canonical)](./finance/unit_economics_flagship_v2.md)
 - [READY] [Financial assumptions](02_business_and_financials/financial_assumptions.md)
 - [READY] [Franchise business model summary](02_business_and_financials/franchise_business_model.md)
 - [READY] [Financial summary tables](02_business_and_financials/financial_summary_tables.md)
 - [IN PROGRESS] [Flagship P&L model spec](business_and_financials/flagship_PnL_model_spec.md)
 - [IN PROGRESS] [Franchisor P&L and 10-year projection](business_and_financials/franchisor_PnL_and_10yr_projection.md)
 - [IN PROGRESS] [Location economics playbook](business_and_financials/location_economics_playbook.md)
+- [REFERENCE] [Claude Business Plan – Reference Only](./research/claude_business_plan_reference.md)
 
 ## Franchise
 - [READY] [100-store rollout plan](franchise/100_store_rollout_plan.md)
@@ -36,6 +38,7 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [IN PROGRESS] [Territory and site selection guide](franchise/territory_and_site_selection_guide.md)
 - [IN PROGRESS] [Franchisee profile](franchise/franchisee_profile.md)
 - [DRAFT – core philosophy added] [Franchise messaging: ownership language](franchise/franchise_messaging_ownership_language.md)
+- [DRAFT] [Franchise Model Overview](franchise/franchise_model_overview.md)
 
 ## Franchise & Ownership
 - [READY] [Owner Manifesto](franchise/owner_manifesto.md) – Core philosophy for franchise owners.
@@ -58,10 +61,16 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 ## People & Culture
 - [DRAFT – core philosophy added] [Why we work here](people_and_culture/why_we_work_here.md)
 
+## Strategy & Execution
+- [READY] [Risk Analysis & Mitigation](./strategy/risk_and_mitigation.md)
+- [READY] [90-Day Action Plan – Phoenix Flagship](./strategy/90_day_action_plan_flagship.md)
+- [READY] [Marketing & Growth Strategy (v2)](./strategy/marketing_and_growth_v2.md)
+
 ## Tech
 - [DRAFT] [Workstation & Ordering System – V1](tech/workstation_ordering_system_v1.md) – **LAUNCH CRITICAL**
 - [DRAFT] [Workstation Future Enhancements (Biometrics, Robots, AI-GM)](tech/workstation_future_enhancements.md) – **PHASE 2+**
 - [DRAFT] [AI GM system architecture](tech/AI_GM_system_architecture.md)
+- [DRAFT] [System Overview – Tech Stack](./tech/system_overview.md)
 - [DRAFT] [Biometric and authentication flows](tech/biometric_and_authentication_flows.md)
 - [DRAFT] [Robot food glider integration](tech/robot_food_glider_integration.md)
 - [DRAFT] [Training video pipeline](tech/training_video_pipeline.md)
