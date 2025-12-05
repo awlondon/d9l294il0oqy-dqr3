@@ -1,6 +1,6 @@
 # Territory and Site Selection Guide
 
-How to size territories and pick winning locations using the co.work.play criteria.
+How to size territories and pick winning locations using the Co.work.PLAY criteria.
 
 ## Territory Structure
 - **Units per metro:** Plan 2–5 units in priority metros based on population density and commute patterns.
