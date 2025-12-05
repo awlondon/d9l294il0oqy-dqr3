@@ -1,6 +1,6 @@
 # Co.work.PLAY Cafe Roadmap & Status Board
 
-Use this as the quick orientation map for what exists, what is in motion, and what needs to be filled in next. Status tags: `[READY]`, `[IN PROGRESS]`, `[DRAFT]`, `[TODO]`.
+Use this as the quick orientation map for what exists, what is in motion, and what needs to be filled in next. Status tags: `[READY]`, `[IN PROGRESS]`, `[DRAFT]`, `[TODO]`. Jump to the cross-linked [Documentation hub](README.md) for a non-linear map and legacy folder notes.
 
 ## History
 - **2025-11-10** – Co.work.PLAY Cafe concept conceived on a video call between Alexander Warren London and Savannah Strasner, using an AI assistant to sketch a Phoenix flagship and flagship-plus-franchise model.
