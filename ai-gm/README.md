@@ -82,15 +82,16 @@ Example set:
 For the full list of screens, circuits, and patch panel ports, see: `docs/screen-map.md`.
 
 ## Documentation Included (in `ai-gm/docs`)
-1. `purchase-order.md` — Itemized hardware/networking bill with quantities, unit prices, and total CapEx (~$25,220).
-2. `capex-opex.md` — One-time and recurring cost breakdown (CapEx ~$25,220; OpEx ~$8,220/year including hosting, power, content, reserves).
-3. `financial-model.md` — Economics and ROI scenarios vs. traditional oversight labor (~$25k/yr), including 3-year models.
-4. `architecture.md` — Event flow, rules/intent pipeline, orchestrator behavior, screen topology, VLAN segmentation, PoE architecture.
-5. `deployment-plan.md` — Rollout guide covering hardware install, network config, imaging, kiosk mode, and hosting options.
-6. `screen-map.md` — Full screen ID map for customer/staff displays across zones.
-7. `sora-character-lore.md` — Staff-only anime channel lore, prompts, tone, and usage guidance.
-8. `docs/floor-plan-electrical.md` — Floor plan & electrical/low-voltage layout for AI-GM screens.
-9. `docs/architecture-upgrade-roadmap.md` — Implementation roadmap addressing intent timing, rule tooling, richer clients, and observability.
+1. `system-instructions-report.md` — Persistent system prompt for the AI-GM agent (Mastermind Boss + Parrot and customer channels) with personality, safety, API, and knowledge-base requirements.
+2. `purchase-order.md` — Itemized hardware/networking bill with quantities, unit prices, and total CapEx (~$25,220).
+3. `capex-opex.md` — One-time and recurring cost breakdown (CapEx ~$25,220; OpEx ~$8,220/year including hosting, power, content, reserves).
+4. `financial-model.md` — Economics and ROI scenarios vs. traditional oversight labor (~$25k/yr), including 3-year models.
+5. `architecture.md` — Event flow, rules/intent pipeline, orchestrator behavior, screen topology, VLAN segmentation, PoE architecture.
+6. `deployment-plan.md` — Rollout guide covering hardware install, network config, imaging, kiosk mode, and hosting options.
+7. `screen-map.md` — Full screen ID map for customer/staff displays across zones.
+8. `sora-character-lore.md` — Staff-only anime channel lore, prompts, tone, and usage guidance.
+9. `docs/floor-plan-electrical.md` — Floor plan & electrical/low-voltage layout for AI-GM screens.
+10. `docs/architecture-upgrade-roadmap.md` — Implementation roadmap addressing intent timing, rule tooling, richer clients, and observability.
 
 ## Demo Commands
 Manual event triggers (run from repo root):

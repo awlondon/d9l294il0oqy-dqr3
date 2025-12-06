@@ -49,6 +49,7 @@ Use this page as the orientation map for Co.work.PLAY Cafe. It links every canon
 ### Tech
 - [DRAFT] [System overview](tech/system_overview.md) + [Workstation & ordering system V1](tech/workstation_ordering_system_v1.md) — link to [biometric/authentication flows](tech/biometric_and_authentication_flows.md) and [future enhancements](tech/workstation_future_enhancements.md).
 - [DRAFT] [AI GM system architecture](tech/AI_GM_system_architecture.md) — pair with [AI GM backend](../ai-gm/backend/README.md) and [screen client](../ai-gm/screen-client/README.md) for implementation details.
+- [READY] [AI-GM agent system instructions](../ai-gm/docs/system-instructions-report.md) — persistent prompt and policy reference for the Mastermind Boss + Parrot and customer channels.
 
 ## Deprecations and legacy folders
 - Use the numbered `docs/0X_*` folders as the source of truth.
