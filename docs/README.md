@@ -35,6 +35,7 @@ Use this page as the orientation map for Co.work.PLAY Cafe. It links every canon
 ### Legal & policy
 - [READY] [Day pass terms of service](06_legal_and_policy/day_pass_terms_of_service.md) and [membership terms (outline)](06_legal_and_policy/membership_terms_of_service.md) — mirror operational language in [membership/check-in flows](04_operations_and_sops/membership_and_checkin_flows.md).
 - [IN PROGRESS] [Privacy policy and data use](legal_and_policy/privacy_policy_and_data_use.md) — ensure alignment with [biometrics and AI addendum](legal_and_policy/biometrics_and_AI_addendum.md) and the [tech stack overview](tech/system_overview.md).
+- [READY] [Digital security policy for AI-GM notifications and operations UI](06_legal_and_policy/digital_security_policy.md) — software and hardware controls to harden ordering, hosting, play attendant, café ops, and manager surfaces.
 
 ### Investor materials
 - [READY] [Investor one-pager](07_investor_materials/investor_one_pager.md) and [pitch narrative](../pitch/README.md) — reinforce claims with [financial summary tables](02_business_and_financials/financial_summary_tables.md).
