@@ -13,7 +13,7 @@ Guide architects and interior designers on program mix, space allocations, and e
 - **Cowork Open Seating:** 1,100 SF; mix of 2-top and 4-top tables, soft seating, focus nooks.
 - **Phone Booths:** 6 units at ~25 SF each (150 SF total) with ventilation and acoustic seals.
 - **Meeting Rooms:** Three rooms (2x 8–10p, 1x 12p) totaling ~550 SF; AV-equipped.
-- **Play Zone (1–5):** 1,600 SF toddler play area with zoned layout (climb/slide, pretend play, fine-motor tables, reading/calm) and soft flooring; acoustically separated yet visually connected to cafe/cowork. See [Toddler Play Area – Design Program & Narrative](../design/toddler_play_area_program.md) for full narrative.
+- **Play Zone (1–5):** 1,600 SF toddler play area with zoned layout (climb/slide, pretend play, fine-motor tables, reading/calm) and soft flooring; acoustically separated yet visually connected to cafe/cowork. See [Toddler Play Area – Design Program & Narrative](toddler_play_area_program.md) for full narrative.
 - **Under-2 Calming Room:** 350 SF; cushioned mats, dimmable lighting, glider seating; separated from main toddler flow but adjacent for caregiver visibility.
 - **Party / Flex Studio:** 600 SF; operable partitions, direct access to storage and janitorial.
 - **Circulation & Family Lounge:** 700 SF; clear sightlines from host to play entry; stroller and shoe cubbies.
@@ -39,7 +39,7 @@ Guide architects and interior designers on program mix, space allocations, and e
 The toddler play area should function as a self-contained “village” for children ages ~1–5, with clearly defined zones for climbing, pretend play, fine motor activities, and quiet reading/calm time, plus an adjacent under-2/sensory room. It must be acoustically separated yet visually connected to the main café and cowork areas so caregivers can see their children while maintaining a focused work environment.
 
 See the detailed design narrative and bullet-point program here:  
-[**Toddler Play Area – Design Program & Narrative**](../design/toddler_play_area_program.md)
+[**Toddler Play Area – Design Program & Narrative**](toddler_play_area_program.md)
 
 ## Aesthetic Direction
 Warm modern with biophilic touches: light woods, muted greens/blues, textured acoustic panels, and soft curves. Avoid cartoon themes; layer subtle play cues through shapes and lighting.

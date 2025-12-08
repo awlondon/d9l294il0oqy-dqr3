@@ -17,7 +17,7 @@ Provide scalable program guidance for franchise formats: Small (4–5k SF), Medi
 ## Program Notes
 - Maintain clear sightlines from host to play entry regardless of format.
 - Use the same FF&E kit-of-parts; scale quantity, not character.
-- Align play area zoning, acoustics, and under-2 adjacency with the [Toddler Play Area – Design Program & Narrative](../design/toddler_play_area_program.md).
+- Align play area zoning, acoustics, and under-2 adjacency with the [Toddler Play Area – Design Program & Narrative](toddler_play_area_program.md).
 - Small format prioritizes throughput: smaller party schedule, limited meeting rooms; focus on memberships + cafe.
 - Medium format mirrors financial model in `franchise_business_model.md` and `financial_summary_tables.md`.
 - Large format aligns to Phoenix flagship, with added party capacity and collaboration tables for micro teams.

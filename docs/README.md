@@ -3,7 +3,7 @@
 Use this page as the orientation map for Co.work.PLAY Cafe. It links every canonical document, points to legacy/deprecated folders, and creates side doors between topics so you can navigate Wikipedia-style instead of drilling linearly.
 
 - **Status key:** `[READY]` production-ready, `[IN PROGRESS]` partially complete, `[DRAFT]` early outline/reference.
-- **Legacy note:** Prefer the numbered folders below. Aliases such as `docs/design/` or `docs/operations/` persist for WIP only and are marked in [Deprecations](#deprecations-and-legacy-folders).
+- **Legacy note:** Prefer the numbered folders below. Former alias folders have been folded into the canonical sections and cataloged in [Deprecations](#deprecations-and-legacy-folders).
 - **Roadmap:** See [`docs/ROADMAP.md`](ROADMAP.md) for chronological status updates and work-in-flight.
 
 ## Canonical sections
@@ -21,20 +21,20 @@ Use this page as the orientation map for Co.work.PLAY Cafe. It links every canon
 ### Architecture & design
 - [READY] [Design program brief — Phoenix flagship](03_architecture_and_design/design_program_brief_flagship_phoenix.md) with the [architect RFP text](03_architecture_and_design/architect_rfp_text.md).
 - [READY] [Franchise prototype brief](03_architecture_and_design/franchise_prototype_brief.md) linking back to [franchise messaging](franchise/franchise_messaging_ownership_language.md).
-- [READY] [Interior design guidelines outline](03_architecture_and_design/interior_design_guidelines_outline.md) — tie into the [brand color palette](01_concept_and_brand/brand_color_palette.md) and [Toddler Play Area program](design/toddler_play_area_program.md).
+- [READY] [Interior design guidelines outline](03_architecture_and_design/interior_design_guidelines_outline.md) — tie into the [brand color palette](01_concept_and_brand/brand_color_palette.md) and [Toddler Play Area program](03_architecture_and_design/toddler_play_area_program.md).
 
 ### Operations & SOPs
 - [READY] [Staffing and shift structure](04_operations_and_sops/staffing_and_shift_structure.md) with linked role SOPs: [Host](04_operations_and_sops/sop_host.md), [Play attendant](04_operations_and_sops/sop_play_attendant.md), [Cafe operator](04_operations_and_sops/sop_cafe_operator.md), and [Manager/shift lead](04_operations_and_sops/sop_manager_shift_lead.md).
 - [READY] [Cleaning and safety checklists](04_operations_and_sops/cleaning_and_safety_checklists.md) and [membership/check-in flows](04_operations_and_sops/membership_and_checkin_flows.md); connect to [day pass terms](06_legal_and_policy/day_pass_terms_of_service.md) for guest language.
-- [DRAFT] [Roles and staffing model](operations/roles_and_staffing_model.md) — use alongside [AI GM](../ai-gm/) notifications to map duties to screens.
+- [DRAFT] [Roles and staffing model](04_operations_and_sops/in_progress/roles_and_staffing_model.md) — use alongside [AI GM](../ai-gm/) notifications to map duties to screens.
 
 ### Training & media
-- [READY] [Training content index](05_training_and_media/README.md) — link directly to [module index](training_and_media/module_index.md) and [Sora prompt library](training_and_media/Sora_prompt_library.md).
-- [IN PROGRESS] [Video scripts](training_and_media/video_scripts/) that borrow language from the [brand one-pager](01_concept_and_brand/brand_one_pager.md) and [house rules script](operations/enrollment_and_house_rules_script.md).
+- [READY] [Training content index](05_training_and_media/README.md) — link directly to the [module index](05_training_and_media/module_index.md) and [Sora prompt library](05_training_and_media/Sora_prompt_library.md).
+- [IN PROGRESS] [Video scripts](05_training_and_media/video_scripts/) that borrow language from the [brand one-pager](01_concept_and_brand/brand_one_pager.md) and [house rules script](04_operations_and_sops/in_progress/enrollment_and_house_rules_script.md).
 
 ### Legal & policy
 - [READY] [Day pass terms of service](06_legal_and_policy/day_pass_terms_of_service.md) and [membership terms (outline)](06_legal_and_policy/membership_terms_of_service.md) — mirror operational language in [membership/check-in flows](04_operations_and_sops/membership_and_checkin_flows.md).
-- [IN PROGRESS] [Privacy policy and data use](legal_and_policy/privacy_policy_and_data_use.md) — ensure alignment with [biometrics and AI addendum](legal_and_policy/biometrics_and_AI_addendum.md) and the [tech stack overview](tech/system_overview.md).
+- [IN PROGRESS] [Privacy policy and data use](06_legal_and_policy/in_progress/privacy_policy_and_data_use.md) — ensure alignment with the [biometrics and AI addendum](06_legal_and_policy/in_progress/biometrics_and_AI_addendum.md) and the [tech stack overview](tech/system_overview.md).
 - [READY] [Digital security policy for AI-GM notifications and operations UI](06_legal_and_policy/digital_security_policy.md) — software and hardware controls to harden ordering, hosting, play attendant, café ops, and manager surfaces.
 
 ### Investor materials
@@ -44,7 +44,7 @@ Use this page as the orientation map for Co.work.PLAY Cafe. It links every canon
 ### Strategy, franchise, and expansion
 - [READY] [Marketing & growth strategy (v2)](strategy/marketing_and_growth_v2.md) — reference [events strategy](events-strategy.md) for calendarized tactics.
 - [READY] [Risk analysis & mitigation](strategy/risk_and_mitigation.md) linked with [ownership-first brand philosophy](brand/brand_philosophy_ownership_model.md).
-- [IN PROGRESS] [Franchise offering outline](franchise/franchise_offering_outline.md) and [territory/site selection guide](franchise/territory_and_site_selection_guide.md) — align with [legal addenda](legal_and_policy/biometrics_and_AI_addendum.md) for compliance readiness.
+- [IN PROGRESS] [Franchise offering outline](franchise/franchise_offering_outline.md) and [territory/site selection guide](franchise/territory_and_site_selection_guide.md) — align with [legal addenda](06_legal_and_policy/in_progress/biometrics_and_AI_addendum.md) for compliance readiness.
 - [FUTURE] [Airport / transit hub concept](expansion/airport_transit_hub_concept.md) — connect back to [operations checklists](04_operations_and_sops/cleaning_and_safety_checklists.md) for scaled-down procedures.
 
 ### Tech
@@ -54,5 +54,5 @@ Use this page as the orientation map for Co.work.PLAY Cafe. It links every canon
 
 ## Deprecations and legacy folders
 - Use the numbered `docs/0X_*` folders as the source of truth.
-- Legacy aliases remain for continuity during migration: `docs/design/`, `docs/business_and_financials/`, `docs/operations/`, `docs/training_and_media/`, `docs/legal_and_policy/`, and similar. See [`DEPRECATIONS.md`](DEPRECATIONS.md) for details and mappings.
+- Legacy aliases have been retired into the numbered folders above with remaining drafts gathered under [`archive/legacy_aliases/`](archive/legacy_aliases/) for reference. See [`DEPRECATIONS.md`](DEPRECATIONS.md) for details and mappings.
 - Older drafts are retained under [`archive/`](archive/) with pointers back to the canonical destinations above.
