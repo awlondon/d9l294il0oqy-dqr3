@@ -27,9 +27,9 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [READY] [Financial assumptions](02_business_and_financials/financial_assumptions.md)
 - [READY] [Franchise business model summary](02_business_and_financials/franchise_business_model.md)
 - [READY] [Financial summary tables](02_business_and_financials/financial_summary_tables.md)
-- [IN PROGRESS] [Flagship P&L model spec](business_and_financials/flagship_PnL_model_spec.md)
-- [IN PROGRESS] [Franchisor P&L and 10-year projection](business_and_financials/franchisor_PnL_and_10yr_projection.md)
-- [IN PROGRESS] [Location economics playbook](business_and_financials/location_economics_playbook.md)
+- [IN PROGRESS] [Flagship P&L model spec](archive/legacy_aliases/business_and_financials/flagship_PnL_model_spec.md)
+- [IN PROGRESS] [Franchisor P&L and 10-year projection](archive/legacy_aliases/business_and_financials/franchisor_PnL_and_10yr_projection.md)
+- [IN PROGRESS] [Location economics playbook](archive/legacy_aliases/business_and_financials/location_economics_playbook.md)
 - [REFERENCE] [Claude Business Plan – Reference Only](./research/claude_business_plan_reference.md)
 
 ## Franchise
@@ -51,12 +51,12 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [READY] [SOP – Manager/shift lead](04_operations_and_sops/sop_manager_shift_lead.md)
 - [READY] [Cleaning and safety checklists](04_operations_and_sops/cleaning_and_safety_checklists.md)
 - [READY] [Membership and check-in flows](04_operations_and_sops/membership_and_checkin_flows.md)
-- [IN PROGRESS] [Roles and staffing model](operations/roles_and_staffing_model.md)
-- [IN PROGRESS] [Enrollment and house rules script](operations/enrollment_and_house_rules_script.md)
-- [IN PROGRESS] [Daily checklists](operations/daily_checklists)
+- [IN PROGRESS] [Roles and staffing model](04_operations_and_sops/in_progress/roles_and_staffing_model.md)
+- [IN PROGRESS] [Enrollment and house rules script](04_operations_and_sops/in_progress/enrollment_and_house_rules_script.md)
+- [IN PROGRESS] [Daily checklists](04_operations_and_sops/in_progress/daily_checklists)
 - [IN PROGRESS] Runner role and seat assignment/table-service ordering references embedded in SOPs and checklists.
-- [IN PROGRESS] [Host SOP](operations/host_SOP.md) – includes shared caregiver check-in procedures.
-- [IN PROGRESS] [Play Attendant SOP](operations/play_attendant_SOP.md) – includes guidance for groups with a shared caregiver.
+- [IN PROGRESS] [Host SOP](04_operations_and_sops/in_progress/host_SOP.md) – includes shared caregiver check-in procedures.
+- [IN PROGRESS] [Play Attendant SOP](04_operations_and_sops/in_progress/play_attendant_SOP.md) – includes guidance for groups with a shared caregiver.
 
 ## People & Culture
 - [DRAFT – core philosophy added] [Why we work here](people_and_culture/why_we_work_here.md)
@@ -79,20 +79,20 @@ Use this as the quick orientation map for what exists, what is in motion, and wh
 - [READY] [Day pass terms of service](06_legal_and_policy/day_pass_terms_of_service.md)
 - [READY] [Membership terms of service (outline)](06_legal_and_policy/membership_terms_of_service.md)
 - [READY] [Privacy policy (legacy)](06_legal_and_policy/privacy_policy.md)
-- [IN PROGRESS] [Membership terms of service refresh](legal_and_policy/membership_terms_of_service.md) – includes Shared Caregivers & Nannies policy.
-- [IN PROGRESS] [Privacy policy and data use](legal_and_policy/privacy_policy_and_data_use.md)
-- [IN PROGRESS] [Biometrics and AI addendum](legal_and_policy/biometrics_and_AI_addendum.md)
-- [IN PROGRESS] [Children safety and wellness policy](legal_and_policy/children_safety_and_wellness_policy.md) – adds caregiver-child ratio guidance and non-daycare clarification.
+- [IN PROGRESS] [Membership terms of service refresh](06_legal_and_policy/in_progress/membership_terms_of_service_refresh.md) – includes Shared Caregivers & Nannies policy.
+- [IN PROGRESS] [Privacy policy and data use](06_legal_and_policy/in_progress/privacy_policy_and_data_use.md)
+- [IN PROGRESS] [Biometrics and AI addendum](06_legal_and_policy/in_progress/biometrics_and_AI_addendum.md)
+- [IN PROGRESS] [Children safety and wellness policy](06_legal_and_policy/in_progress/children_safety_and_wellness_policy.md) – adds caregiver-child ratio guidance and non-daycare clarification.
 
 ## Training & Media
 - [READY] [Training content index](05_training_and_media/README.md)
-- [IN PROGRESS] [Module index](training_and_media/module_index.md)
-- [IN PROGRESS] [Video scripts](training_and_media/video_scripts)
-- [IN PROGRESS] [Sora prompt library](training_and_media/Sora_prompt_library.md)
+- [IN PROGRESS] [Module index](05_training_and_media/module_index.md)
+- [IN PROGRESS] [Video scripts](05_training_and_media/video_scripts)
+- [IN PROGRESS] [Sora prompt library](05_training_and_media/Sora_prompt_library.md)
 - [IN PROGRESS] Shared Caregivers & Nannies module entry added to training module index.
 
 ## Architecture & Design
-- [READY] [Toddler Play Area – Design Program & Narrative](./design/toddler_play_area_program.md)
+- [READY] [Toddler Play Area – Design Program & Narrative](03_architecture_and_design/toddler_play_area_program.md)
 - [READY] [Design program brief – Phoenix flagship](03_architecture_and_design/design_program_brief_flagship_phoenix.md)
 - [READY] [Franchise prototype brief](03_architecture_and_design/franchise_prototype_brief.md)
 - [READY] [Interior design guidelines outline](03_architecture_and_design/interior_design_guidelines_outline.md)

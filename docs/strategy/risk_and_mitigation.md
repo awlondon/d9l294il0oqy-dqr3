@@ -10,7 +10,7 @@ This document consolidates major risks for the Co.work.PLAY flagship and franchi
 
 - Robust insurance coverage.
 - Background checks and training (CPR/First Aid) for all play staff.
-- Clear, signed waivers and house rules (see `docs/legal_and_policy/`).
+- Clear, signed waivers and house rules (see `docs/06_legal_and_policy/`).
 - Video coverage in play areas (no bathrooms) with privacy safeguards.
 - Strict incident reporting and escalation protocols.
 

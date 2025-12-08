@@ -13,7 +13,7 @@ Provide quick guidance for play attendants on monitoring safety, supporting fami
 
 Play attendants should be familiar with the intended layout and use of each area within the toddler play room (climb/slide zone, pretend play zone, activity tables, reading/calm corner, and under-2/sensory room). The design narrative and program for this room are documented in:
 
-- [Toddler Play Area – Design Program & Narrative](../design/toddler_play_area_program.md)
+- [Toddler Play Area – Design Program & Narrative](../../03_architecture_and_design/toddler_play_area_program.md)
 
 Staff training should reinforce how each zone is meant to function so that toys, activities, and supervision strategies match the layout and age range.
 

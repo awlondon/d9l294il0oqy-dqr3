@@ -70,5 +70,5 @@ Preliminary unit economics and a simple model for the Co.Work.Play hybrid cowork
 These files capture a mature-unit revenue mix, cost structure, franchise fee stack, and illustrative payback period. A more detailed narrative and summary links live in the documentation hub at [`docs/README.md`](docs/README.md).
 
 ## Legacy and deprecated notes
-- Use the numbered `docs/0X_*` folders for all net-new content. Older aliases such as `docs/design/`, `docs/operations/`, and `docs/training_and_media/` remain only for in-progress drafts and are cataloged in [`docs/DEPRECATIONS.md`](docs/DEPRECATIONS.md).
+- Use the numbered `docs/0X_*` folders for all net-new content. Former alias folders have been folded into the canonical sections, with any lingering drafts cataloged in [`docs/DEPRECATIONS.md`](docs/DEPRECATIONS.md) and parked under [`docs/archive/legacy_aliases/`](docs/archive/legacy_aliases/).
 - Archived drafts are under [`docs/archive/`](docs/archive/) with stubs pointing to their canonical replacements.
