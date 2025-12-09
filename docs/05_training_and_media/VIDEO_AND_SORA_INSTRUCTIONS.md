@@ -38,9 +38,12 @@ The goal: create a **coherent, reusable training library** that is:
    - Lighting: bright, warm, natural-daylight feel.
    - Camera: mostly **medium shots** and **medium-close** for trainers, with occasional cutaways for context.
 
-4. **Audio & text**  
+4. **Audio & text**
    - Clear, neutral, friendly English voiceover that matches visible trainer lip movements.
    - Simple on-screen text for key phrases (e.g., “Step 1 – Greet warmly,” “Safety First,” “Check-in Complete”).
+
+5. **Mastermind + Parrot staff clips**
+   - For 10-second, staff-only AI-GM directives using the Mastermind Boss + Parrot motif, start with `mastermind_parrot_template.md` and log finished prompts in `sora_video_prompts.md`.
 
 ---
 
