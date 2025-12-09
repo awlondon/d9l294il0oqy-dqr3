@@ -6,6 +6,7 @@ Catalog planned training modules across roles, with brief descriptions and statu
 ## Modules by Role
 | Module ID | Title | Role(s) | Description | Format | Status |
 | --- | --- | --- | --- | --- | --- |
+| GM-00 | Mastermind + Parrot Template | General | Staff-only template for 10s Mastermind Boss + Parrot clips | Template | Template |
 | HOST-01 | Greeting & Check-In | Host | Warm welcome script, membership vs day-pass flow, waiver capture | Video + Quiz | Prompt Ready |
 | HOST-02 | Wristbands & Safety Verifications | Host | Tag matching, allergy notes, pickup authorization, capacity holds | Video + Job Aid | Prompt Ready |
 | HOST-03 | Conversion & Upsell | Host | Membership pitch, party lead capture, cafe pairing | Video + Role-play | Prompt Ready |
