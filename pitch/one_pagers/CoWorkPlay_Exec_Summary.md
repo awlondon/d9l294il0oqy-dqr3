@@ -6,7 +6,7 @@ Co.work.PLAY Cafe blends coworking, cafe hospitality, and supervised toddler pla
 - **Integrated experience:** Flexible coworking memberships, day passes, and on-demand supervised play enable parents to balance work and caregiving in one trip.
 - **Validated need:** Addresses the shortage of safe, short-duration childcare, especially for remote workers with toddlers who need community and structure.
 - **Modular footprint:** Three store formats (inline cafe, mid-size cowork/play, and flagship with classrooms) fit varied real estate opportunities and capex levels.
-- **Compelling unit economics:** Target 12–18 month payback driven by diversified revenue (cowork, cafe, play, events) and disciplined build-out costs.
+- **Compelling unit economics:** Target **3–4 year payback** driven by diversified revenue (cowork, cafe, play, events) and disciplined build-out costs calibrated to the $1.0–$1.5M mature-unit baseline.
 - **Franchise scalability:** Standardized training, play protocols, and curriculum support consistent quality while enabling local ownership.
 
 ## Concept & Offering
@@ -22,19 +22,21 @@ Co.work.PLAY Cafe blends coworking, cafe hospitality, and supervised toddler pla
 
 ## Business Model & Economics
 - **Revenue mix (goal):** 30–35% cowork memberships/passes, 25–30% supervised play, 20–25% cafe, 10–15% events/room rentals.
-- **Pricing:** Monthly memberships $200–$450 depending on access and play credits; play blocks $18–$32/hr; meeting rooms $20–$35/hr; cafe margin target 65% gross.
+- **Pricing:** Monthly memberships **$200–$450** depending on access and play credits; play blocks **$18–$32/hr**; meeting rooms **$20–$35/hr**; cafe margin target **~65% gross**.
 - **Utilization targets:** 60% playroom average weekday utilization by month six; 75% booth/room utilization during peak hours.
 - **Labor model:** Cross-trained “Play Hosts” support check-in, safety protocols, and light F&B; baristas handle cafe throughput; site manager oversees ops and community.
-- **Unit metrics:** Build-out $350k–$550k depending on format; target $900k–$1.2M year-two revenue and 20%+ location-level EBITDA.
+- **Unit metrics:** Build-out **$1.0–$1.5M** for a ~7,000 ft² mature unit; target **~$2.0M/year** steady-state revenue with **18–20% EBITDA** and **3–4 year payback** once stabilized.
 
 ## Flagship Launch (Phoenix)
-- **Site selection:** 3,500–4,500 sq. ft. inline center near high-density residential and Class B office; ample parking and stroller-friendly ingress.
-- **Pre-opening:** 8–10 week construction, 4-week soft opening with founding-member discounts and employer pilots.
-- **KPIs:** Founding members (goal: 150), recurring play bookings (200+/month), NPS > 60, safety/compliance audit 100%.
+- **Site selection:** ~8,500–9,000 sq. ft. flagship with classrooms and denser play build-out, serving as the brand and training hub with room for higher-volume cafe and cowork throughput.
+- **Capital plan:** Total capital target **$2.7–3.0M** (CapEx, pre-opening, and runway) with higher revenue baseline than the generic $2.0M model.
+- **Pre-opening:** Phased 18-month arc: Months 0–6 site/design/capital; Months 6–12 build-out and soft open; Months 12–18 live operations and validation before any franchise decisions.
+- **KPIs:** Founding members (goal: 150), recurring play bookings (200+/month), NPS > 60, safety/compliance audit 100%, and tracked conversion/churn metrics that sustain **3–4 year payback**.
 
 ## Franchise Strategy
 - **Structure:** Franchise fee $40k; royalties 6%; marketing fund 2%; required pre-opening training for franchisee + manager + lead Play Host.
 - **Support:** Playbook covering staffing ratios, safety/cleaning checklists, curriculum, cafe SKUs, sourcing, and local partnership playbooks.
+- **Unit economics guardrails:** Franchise candidates model on **$1.0–$1.5M** build-outs, **~$2.0M/year** mature revenue, and **3–4 year payback** before pursuing multi-unit commitments.
 - **Territories:** Priority to suburban nodes with 20k+ children under five within 5 miles and strong household incomes; multi-unit agreements encouraged.
 - **Quality assurance:** Quarterly audits, secret-shopper program, and centralized booking/app platform with standardized UX.
 
